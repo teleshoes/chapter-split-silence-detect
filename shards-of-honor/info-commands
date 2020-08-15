@@ -1,0 +1,156 @@
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 0 -t 795.874 -bitexact 01_ch01_pt1.wav
+"oggenc" "--title" "Chapter 01 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "01_ch01_pt1.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 795.874 -t 594.486 -bitexact 02_ch01_pt2.wav
+"oggenc" "--title" "Chapter 01 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "02_ch01_pt2.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 1390.36 -t 354.44 -bitexact 03_ch01_pt3.wav
+"oggenc" "--title" "Chapter 01 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "03_ch01_pt3.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 1744.8 -t 550.08 -bitexact 04_ch01_pt4.wav
+"oggenc" "--title" "Chapter 01 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "04_ch01_pt4.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 2294.88 -t 326.3 -bitexact 05_ch02_pt1.wav
+"oggenc" "--title" "Chapter 02 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "05_ch02_pt1.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 2621.18 -t 318.91 -bitexact 06_ch02_pt2.wav
+"oggenc" "--title" "Chapter 02 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "06_ch02_pt2.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 2940.09 -t 414.89 -bitexact 07_ch02_pt3.wav
+"oggenc" "--title" "Chapter 02 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "07_ch02_pt3.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 3354.98 -t 365.72 -bitexact 08_ch02_pt4.wav
+"oggenc" "--title" "Chapter 02 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "08_ch02_pt4.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 3720.7 -t 518.96 -bitexact 09_ch02_pt5.wav
+"oggenc" "--title" "Chapter 02 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "09_ch02_pt5.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 4239.66 -t 445.99 -bitexact 10_ch02_pt6.wav
+"oggenc" "--title" "Chapter 02 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "10_ch02_pt6.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 4685.65 -t 300.47 -bitexact 11_ch03_pt1.wav
+"oggenc" "--title" "Chapter 03 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "11_ch03_pt1.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 4986.12 -t 478.81 -bitexact 12_ch03_pt2.wav
+"oggenc" "--title" "Chapter 03 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "12_ch03_pt2.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 5464.93 -t 379.88 -bitexact 13_ch03_pt3.wav
+"oggenc" "--title" "Chapter 03 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "13_ch03_pt3.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 5844.81 -t 642.009999999999 -bitexact 14_ch03_pt4.wav
+"oggenc" "--title" "Chapter 03 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "14_ch03_pt4.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 6486.82 -t 347.43 -bitexact 15_ch04_pt1.wav
+"oggenc" "--title" "Chapter 04 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "15_ch04_pt1.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 6834.25 -t 316.25 -bitexact 16_ch04_pt2.wav
+"oggenc" "--title" "Chapter 04 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "16_ch04_pt2.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 7150.5 -t 386.5 -bitexact 17_ch04_pt3.wav
+"oggenc" "--title" "Chapter 04 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "17_ch04_pt3.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 7537 -t 317.99 -bitexact 18_ch04_pt4.wav
+"oggenc" "--title" "Chapter 04 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "18_ch04_pt4.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 7854.99 -t 347.790000000001 -bitexact 19_ch04_pt5.wav
+"oggenc" "--title" "Chapter 04 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "19_ch04_pt5.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 8202.78 -t 631.789999999999 -bitexact 20_ch04_pt6.wav
+"oggenc" "--title" "Chapter 04 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "20_ch04_pt6.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 8834.57 -t 480.790000000001 -bitexact 21_ch05_pt1.wav
+"oggenc" "--title" "Chapter 05 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "21_ch05_pt1.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 9315.36 -t 359.529999999999 -bitexact 22_ch05_pt2.wav
+"oggenc" "--title" "Chapter 05 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "22_ch05_pt2.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 9674.89 -t 323.02 -bitexact 23_ch05_pt3.wav
+"oggenc" "--title" "Chapter 05 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "23_ch05_pt3.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 9997.91 -t 348.290000000001 -bitexact 24_ch05_pt4.wav
+"oggenc" "--title" "Chapter 05 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "24_ch05_pt4.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 10346.2 -t 539.099999999999 -bitexact 25_ch06_pt1.wav
+"oggenc" "--title" "Chapter 06 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "25_ch06_pt1.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 10885.3 -t 349.6 -bitexact 26_ch06_pt2.wav
+"oggenc" "--title" "Chapter 06 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "26_ch06_pt2.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 11234.9 -t 414 -bitexact 27_ch06_pt3.wav
+"oggenc" "--title" "Chapter 06 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "27_ch06_pt3.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 11648.9 -t 467.9 -bitexact 28_ch06_pt4.wav
+"oggenc" "--title" "Chapter 06 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "28_ch06_pt4.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 12116.8 -t 347 -bitexact 29_ch07_pt1.wav
+"oggenc" "--title" "Chapter 07 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "29_ch07_pt1.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 12463.8 -t 322.1 -bitexact 30_ch07_pt2.wav
+"oggenc" "--title" "Chapter 07 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "30_ch07_pt2.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 12785.9 -t 364.4 -bitexact 31_ch07_pt3.wav
+"oggenc" "--title" "Chapter 07 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "31_ch07_pt3.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 13150.3 -t 358.900000000001 -bitexact 32_ch07_pt4.wav
+"oggenc" "--title" "Chapter 07 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "32_ch07_pt4.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 13509.2 -t 312.4 -bitexact 33_ch07_pt5.wav
+"oggenc" "--title" "Chapter 07 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "33_ch07_pt5.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 13821.6 -t 359.5 -bitexact 34_ch07_pt6.wav
+"oggenc" "--title" "Chapter 07 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "34_ch07_pt6.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 14181.1 -t 306.299999999999 -bitexact 35_ch07_pt7.wav
+"oggenc" "--title" "Chapter 07 - pt7" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "35_ch07_pt7.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 14487.4 -t 333.300000000001 -bitexact 36_ch08_pt1.wav
+"oggenc" "--title" "Chapter 08 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "36_ch08_pt1.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 14820.7 -t 304 -bitexact 37_ch08_pt2.wav
+"oggenc" "--title" "Chapter 08 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "37_ch08_pt2.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 15124.7 -t 319.699999999999 -bitexact 38_ch08_pt3.wav
+"oggenc" "--title" "Chapter 08 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "38_ch08_pt3.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 15444.4 -t 339.700000000001 -bitexact 39_ch08_pt4.wav
+"oggenc" "--title" "Chapter 08 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "39_ch08_pt4.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 15784.1 -t 431.4 -bitexact 40_ch08_pt5.wav
+"oggenc" "--title" "Chapter 08 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "40_ch08_pt5.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 16215.5 -t 380.700000000001 -bitexact 41_ch09_pt1.wav
+"oggenc" "--title" "Chapter 09 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "41_ch09_pt1.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 16596.2 -t 310.700000000001 -bitexact 42_ch09_pt2.wav
+"oggenc" "--title" "Chapter 09 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "42_ch09_pt2.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 16906.9 -t 302.099999999999 -bitexact 43_ch09_pt3.wav
+"oggenc" "--title" "Chapter 09 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "43_ch09_pt3.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 17209 -t 560.099999999999 -bitexact 44_ch09_pt4.wav
+"oggenc" "--title" "Chapter 09 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "44_ch09_pt4.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 17769.1 -t 334.600000000002 -bitexact 45_ch10_pt1.wav
+"oggenc" "--title" "Chapter 10 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "45_ch10_pt1.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 18103.7 -t 403 -bitexact 46_ch10_pt2.wav
+"oggenc" "--title" "Chapter 10 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "46_ch10_pt2.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 18506.7 -t 447.399999999998 -bitexact 47_ch10_pt3.wav
+"oggenc" "--title" "Chapter 10 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "47_ch10_pt3.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 18954.1 -t 306.5 -bitexact 48_ch11_pt1.wav
+"oggenc" "--title" "Chapter 11 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "48_ch11_pt1.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 19260.6 -t 301.700000000001 -bitexact 49_ch11_pt2.wav
+"oggenc" "--title" "Chapter 11 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "49_ch11_pt2.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 19562.3 -t 305.5 -bitexact 50_ch11_pt3.wav
+"oggenc" "--title" "Chapter 11 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "50_ch11_pt3.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 19867.8 -t 980.700000000001 -bitexact 51_ch11_pt4.wav
+"oggenc" "--title" "Chapter 11 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "51_ch11_pt4.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 20848.5 -t 341.900000000001 -bitexact 52_ch12_pt1.wav
+"oggenc" "--title" "Chapter 12 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "52_ch12_pt1.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 21190.4 -t 664.699999999997 -bitexact 53_ch12_pt2.wav
+"oggenc" "--title" "Chapter 12 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "53_ch12_pt2.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 21855.1 -t 333.600000000002 -bitexact 54_ch12_pt3.wav
+"oggenc" "--title" "Chapter 12 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "54_ch12_pt3.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 22188.7 -t 596.299999999999 -bitexact 55_ch12_pt4.wav
+"oggenc" "--title" "Chapter 12 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "55_ch12_pt4.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 22785 -t 375.900000000001 -bitexact 56_ch13_pt1.wav
+"oggenc" "--title" "Chapter 13 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "56_ch13_pt1.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 23160.9 -t 331.099999999999 -bitexact 57_ch13_pt2.wav
+"oggenc" "--title" "Chapter 13 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "57_ch13_pt2.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 23492 -t 311.200000000001 -bitexact 58_ch13_pt3.wav
+"oggenc" "--title" "Chapter 13 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "58_ch13_pt3.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 23803.2 -t 491.299999999999 -bitexact 59_ch13_pt4.wav
+"oggenc" "--title" "Chapter 13 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "59_ch13_pt4.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 24294.5 -t 390.599999999999 -bitexact 60_ch13_pt5.wav
+"oggenc" "--title" "Chapter 13 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "60_ch13_pt5.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 24685.1 -t 446.400000000001 -bitexact 61_ch13_pt6.wav
+"oggenc" "--title" "Chapter 13 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "61_ch13_pt6.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 25131.5 -t 305.5 -bitexact 62_ch14_pt1.wav
+"oggenc" "--title" "Chapter 14 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "62_ch14_pt1.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 25437 -t 345.099999999999 -bitexact 63_ch14_pt2.wav
+"oggenc" "--title" "Chapter 14 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "63_ch14_pt2.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 25782.1 -t 302.700000000001 -bitexact 64_ch14_pt3.wav
+"oggenc" "--title" "Chapter 14 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "64_ch14_pt3.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 26084.8 -t 323.700000000001 -bitexact 65_ch14_pt4.wav
+"oggenc" "--title" "Chapter 14 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "65_ch14_pt4.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 26408.5 -t 340.900000000001 -bitexact 66_ch14_pt5.wav
+"oggenc" "--title" "Chapter 14 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "66_ch14_pt5.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 26749.4 -t 302.099999999999 -bitexact 67_ch14_pt6.wav
+"oggenc" "--title" "Chapter 14 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "67_ch14_pt6.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 27051.5 -t 524.099999999999 -bitexact 68_ch14_pt7.wav
+"oggenc" "--title" "Chapter 14 - pt7" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "68_ch14_pt7.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 27575.6 -t 311.200000000001 -bitexact 69_ch15_pt1.wav
+"oggenc" "--title" "Chapter 15 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "69_ch15_pt1.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 27886.8 -t 321.400000000001 -bitexact 70_ch15_pt2.wav
+"oggenc" "--title" "Chapter 15 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "70_ch15_pt2.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 28208.2 -t 370.299999999999 -bitexact 71_ch15_pt3.wav
+"oggenc" "--title" "Chapter 15 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "71_ch15_pt3.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 28578.5 -t 331.799999999999 -bitexact 72_ch15_pt4.wav
+"oggenc" "--title" "Chapter 15 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "72_ch15_pt4.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 28910.3 -t 324.600000000002 -bitexact 73_ch15_pt5.wav
+"oggenc" "--title" "Chapter 15 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "73_ch15_pt5.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 29234.9 -t 505 -bitexact 74_ch15_pt6.wav
+"oggenc" "--title" "Chapter 15 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "74_ch15_pt6.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 29739.9 -t 311.299999999999 -bitexact 75_aftermaths_pt1.wav
+"oggenc" "--title" "Aftermaths - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "75_aftermaths_pt1.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 30051.2 -t 362.5 -bitexact 76_aftermaths_pt2.wav
+"oggenc" "--title" "Aftermaths - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "76_aftermaths_pt2.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 30413.7 -t 315.599999999999 -bitexact 77_aftermaths_pt3.wav
+"oggenc" "--title" "Aftermaths - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "77_aftermaths_pt3.wav"
+ffmpeg -i googleplay_shards_of_honor.m4a.orig -ss 30729.3 -t 572.52 -bitexact 78_aftermaths_pt4.wav
+"oggenc" "--title" "Aftermaths - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Shards of Honor" "78_aftermaths_pt4.wav"
