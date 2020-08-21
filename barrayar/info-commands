@@ -1,0 +1,190 @@
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 0 -t 415.686 -bitexact 01_ch01_pt1.wav
+"oggenc" "--title" "Chapter 01 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "01_ch01_pt1.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 415.686 -t 635.524 -bitexact 02_ch01_pt2.wav
+"oggenc" "--title" "Chapter 01 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "02_ch01_pt2.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 1051.21 -t 406.94 -bitexact 03_ch01_pt3.wav
+"oggenc" "--title" "Chapter 01 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "03_ch01_pt3.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 1458.15 -t 435.86 -bitexact 04_ch01_pt4.wav
+"oggenc" "--title" "Chapter 01 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "04_ch01_pt4.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 1894.01 -t 355.99 -bitexact 05_ch01_pt5.wav
+"oggenc" "--title" "Chapter 01 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "05_ch01_pt5.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 2250 -t 615.14 -bitexact 06_ch02_pt1.wav
+"oggenc" "--title" "Chapter 02 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "06_ch02_pt1.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 2865.14 -t 377.23 -bitexact 07_ch02_pt2.wav
+"oggenc" "--title" "Chapter 02 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "07_ch02_pt2.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 3242.37 -t 622.79 -bitexact 08_ch02_pt3.wav
+"oggenc" "--title" "Chapter 02 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "08_ch02_pt3.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 3865.16 -t 430.49 -bitexact 09_ch03_pt1.wav
+"oggenc" "--title" "Chapter 03 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "09_ch03_pt1.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 4295.65 -t 423.320000000001 -bitexact 10_ch03_pt2.wav
+"oggenc" "--title" "Chapter 03 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "10_ch03_pt2.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 4718.97 -t 329.849999999999 -bitexact 11_ch03_pt3.wav
+"oggenc" "--title" "Chapter 03 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "11_ch03_pt3.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 5048.82 -t 587.690000000001 -bitexact 12_ch03_pt4.wav
+"oggenc" "--title" "Chapter 03 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "12_ch03_pt4.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 5636.51 -t 328.4 -bitexact 13_ch04_pt1.wav
+"oggenc" "--title" "Chapter 04 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "13_ch04_pt1.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 5964.91 -t 376.09 -bitexact 14_ch04_pt2.wav
+"oggenc" "--title" "Chapter 04 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "14_ch04_pt2.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 6341 -t 325.23 -bitexact 15_ch04_pt3.wav
+"oggenc" "--title" "Chapter 04 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "15_ch04_pt3.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 6666.23 -t 317.860000000001 -bitexact 16_ch04_pt4.wav
+"oggenc" "--title" "Chapter 04 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "16_ch04_pt4.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 6984.09 -t 500.889999999999 -bitexact 17_ch04_pt5.wav
+"oggenc" "--title" "Chapter 04 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "17_ch04_pt5.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 7484.98 -t 399.85 -bitexact 18_ch04_pt6.wav
+"oggenc" "--title" "Chapter 04 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "18_ch04_pt6.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 7884.83 -t 434.210000000001 -bitexact 19_ch05_pt1.wav
+"oggenc" "--title" "Chapter 05 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "19_ch05_pt1.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 8319.04 -t 320.609999999999 -bitexact 20_ch05_pt2.wav
+"oggenc" "--title" "Chapter 05 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "20_ch05_pt2.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 8639.65 -t 645.59 -bitexact 21_ch05_pt3.wav
+"oggenc" "--title" "Chapter 05 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "21_ch05_pt3.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 9285.24 -t 448.130000000001 -bitexact 22_ch05_pt4.wav
+"oggenc" "--title" "Chapter 05 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "22_ch05_pt4.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 9733.37 -t 309.73 -bitexact 23_ch05_pt5.wav
+"oggenc" "--title" "Chapter 05 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "23_ch05_pt5.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 10043.1 -t 452.1 -bitexact 24_ch05_pt6.wav
+"oggenc" "--title" "Chapter 05 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "24_ch05_pt6.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 10495.2 -t 489.5 -bitexact 25_ch06_pt1.wav
+"oggenc" "--title" "Chapter 06 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "25_ch06_pt1.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 10984.7 -t 319.4 -bitexact 26_ch06_pt2.wav
+"oggenc" "--title" "Chapter 06 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "26_ch06_pt2.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 11304.1 -t 425.5 -bitexact 27_ch06_pt3.wav
+"oggenc" "--title" "Chapter 06 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "27_ch06_pt3.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 11729.6 -t 334 -bitexact 28_ch06_pt4.wav
+"oggenc" "--title" "Chapter 06 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "28_ch06_pt4.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 12063.6 -t 446.4 -bitexact 29_ch06_pt5.wav
+"oggenc" "--title" "Chapter 06 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "29_ch06_pt5.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 12510 -t 402.200000000001 -bitexact 30_ch07_pt1.wav
+"oggenc" "--title" "Chapter 07 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "30_ch07_pt1.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 12912.2 -t 311 -bitexact 31_ch07_pt2.wav
+"oggenc" "--title" "Chapter 07 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "31_ch07_pt2.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 13223.2 -t 326.299999999999 -bitexact 32_ch07_pt3.wav
+"oggenc" "--title" "Chapter 07 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "32_ch07_pt3.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 13549.5 -t 361.700000000001 -bitexact 33_ch07_pt4.wav
+"oggenc" "--title" "Chapter 07 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "33_ch07_pt4.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 13911.2 -t 435.5 -bitexact 34_ch07_pt5.wav
+"oggenc" "--title" "Chapter 07 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "34_ch07_pt5.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 14346.7 -t 622.9 -bitexact 35_ch07_pt6.wav
+"oggenc" "--title" "Chapter 07 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "35_ch07_pt6.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 14969.6 -t 521.699999999999 -bitexact 36_ch08_pt1.wav
+"oggenc" "--title" "Chapter 08 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "36_ch08_pt1.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 15491.3 -t 365 -bitexact 37_ch08_pt2.wav
+"oggenc" "--title" "Chapter 08 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "37_ch08_pt2.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 15856.3 -t 327.400000000001 -bitexact 38_ch08_pt3.wav
+"oggenc" "--title" "Chapter 08 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "38_ch08_pt3.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 16183.7 -t 325.299999999999 -bitexact 39_ch08_pt4.wav
+"oggenc" "--title" "Chapter 08 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "39_ch08_pt4.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 16509 -t 369 -bitexact 40_ch08_pt5.wav
+"oggenc" "--title" "Chapter 08 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "40_ch08_pt5.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 16878 -t 302.200000000001 -bitexact 41_ch09_pt1.wav
+"oggenc" "--title" "Chapter 09 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "41_ch09_pt1.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 17180.2 -t 373.799999999999 -bitexact 42_ch09_pt2.wav
+"oggenc" "--title" "Chapter 09 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "42_ch09_pt2.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 17554 -t 431.700000000001 -bitexact 43_ch09_pt3.wav
+"oggenc" "--title" "Chapter 09 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "43_ch09_pt3.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 17985.7 -t 777.899999999998 -bitexact 44_ch09_pt4.wav
+"oggenc" "--title" "Chapter 09 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "44_ch09_pt4.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 18763.6 -t 758.200000000001 -bitexact 45_ch10_pt1.wav
+"oggenc" "--title" "Chapter 10 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "45_ch10_pt1.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 19521.8 -t 318.799999999999 -bitexact 46_ch10_pt2.wav
+"oggenc" "--title" "Chapter 10 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "46_ch10_pt2.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 19840.6 -t 780.200000000001 -bitexact 47_ch10_pt3.wav
+"oggenc" "--title" "Chapter 10 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "47_ch10_pt3.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 20620.8 -t 375.200000000001 -bitexact 48_ch10_pt4.wav
+"oggenc" "--title" "Chapter 10 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "48_ch10_pt4.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 20996 -t 320.299999999999 -bitexact 49_ch11_pt1.wav
+"oggenc" "--title" "Chapter 11 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "49_ch11_pt1.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 21316.3 -t 622.600000000002 -bitexact 50_ch11_pt2.wav
+"oggenc" "--title" "Chapter 11 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "50_ch11_pt2.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 21938.9 -t 337.199999999997 -bitexact 51_ch11_pt3.wav
+"oggenc" "--title" "Chapter 11 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "51_ch11_pt3.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 22276.1 -t 329.800000000003 -bitexact 52_ch11_pt4.wav
+"oggenc" "--title" "Chapter 11 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "52_ch11_pt4.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 22605.9 -t 515.699999999997 -bitexact 53_ch11_pt5.wav
+"oggenc" "--title" "Chapter 11 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "53_ch11_pt5.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 23121.6 -t 439.5 -bitexact 54_ch12_pt1.wav
+"oggenc" "--title" "Chapter 12 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "54_ch12_pt1.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 23561.1 -t 306 -bitexact 55_ch12_pt2.wav
+"oggenc" "--title" "Chapter 12 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "55_ch12_pt2.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 23867.1 -t 525.900000000001 -bitexact 56_ch12_pt3.wav
+"oggenc" "--title" "Chapter 12 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "56_ch12_pt3.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 24393 -t 362.299999999999 -bitexact 57_ch12_pt4.wav
+"oggenc" "--title" "Chapter 12 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "57_ch12_pt4.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 24755.3 -t 492 -bitexact 58_ch12_pt5.wav
+"oggenc" "--title" "Chapter 12 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "58_ch12_pt5.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 25247.3 -t 585.799999999999 -bitexact 59_ch13_pt1.wav
+"oggenc" "--title" "Chapter 13 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "59_ch13_pt1.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 25833.1 -t 484.300000000003 -bitexact 60_ch13_pt2.wav
+"oggenc" "--title" "Chapter 13 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "60_ch13_pt2.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 26317.4 -t 396 -bitexact 61_ch13_pt3.wav
+"oggenc" "--title" "Chapter 13 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "61_ch13_pt3.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 26713.4 -t 393.5 -bitexact 62_ch13_pt4.wav
+"oggenc" "--title" "Chapter 13 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "62_ch13_pt4.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 27106.9 -t 302.399999999998 -bitexact 63_ch14_pt1.wav
+"oggenc" "--title" "Chapter 14 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "63_ch14_pt1.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 27409.3 -t 471 -bitexact 64_ch14_pt2.wav
+"oggenc" "--title" "Chapter 14 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "64_ch14_pt2.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 27880.3 -t 399.299999999999 -bitexact 65_ch14_pt3.wav
+"oggenc" "--title" "Chapter 14 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "65_ch14_pt3.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 28279.6 -t 329.300000000003 -bitexact 66_ch14_pt4.wav
+"oggenc" "--title" "Chapter 14 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "66_ch14_pt4.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 28608.9 -t 698.099999999999 -bitexact 67_ch14_pt5.wav
+"oggenc" "--title" "Chapter 14 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "67_ch14_pt5.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 29307 -t 349.799999999999 -bitexact 68_ch15_pt1.wav
+"oggenc" "--title" "Chapter 15 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "68_ch15_pt1.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 29656.8 -t 318.299999999999 -bitexact 69_ch15_pt2.wav
+"oggenc" "--title" "Chapter 15 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "69_ch15_pt2.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 29975.1 -t 325.900000000001 -bitexact 70_ch15_pt3.wav
+"oggenc" "--title" "Chapter 15 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "70_ch15_pt3.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 30301 -t 303.900000000001 -bitexact 71_ch15_pt4.wav
+"oggenc" "--title" "Chapter 15 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "71_ch15_pt4.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 30604.9 -t 818.199999999997 -bitexact 72_ch15_pt5.wav
+"oggenc" "--title" "Chapter 15 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "72_ch15_pt5.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 31423.1 -t 497.400000000001 -bitexact 73_ch16_pt1.wav
+"oggenc" "--title" "Chapter 16 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "73_ch16_pt1.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 31920.5 -t 423.099999999999 -bitexact 74_ch16_pt2.wav
+"oggenc" "--title" "Chapter 16 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "74_ch16_pt2.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 32343.6 -t 576.200000000004 -bitexact 75_ch16_pt3.wav
+"oggenc" "--title" "Chapter 16 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "75_ch16_pt3.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 32919.8 -t 620.899999999994 -bitexact 76_ch16_pt4.wav
+"oggenc" "--title" "Chapter 16 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "76_ch16_pt4.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 33540.7 -t 338.5 -bitexact 77_ch17_pt1.wav
+"oggenc" "--title" "Chapter 17 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "77_ch17_pt1.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 33879.2 -t 302.700000000004 -bitexact 78_ch17_pt2.wav
+"oggenc" "--title" "Chapter 17 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "78_ch17_pt2.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 34181.9 -t 322 -bitexact 79_ch17_pt3.wav
+"oggenc" "--title" "Chapter 17 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "79_ch17_pt3.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 34503.9 -t 633.400000000001 -bitexact 80_ch17_pt4.wav
+"oggenc" "--title" "Chapter 17 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "80_ch17_pt4.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 35137.3 -t 652.299999999996 -bitexact 81_ch18_pt1.wav
+"oggenc" "--title" "Chapter 18 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "81_ch18_pt1.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 35789.6 -t 555.599999999999 -bitexact 82_ch18_pt2.wav
+"oggenc" "--title" "Chapter 18 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "82_ch18_pt2.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 36345.2 -t 311.600000000006 -bitexact 83_ch18_pt3.wav
+"oggenc" "--title" "Chapter 18 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "83_ch18_pt3.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 36656.8 -t 450.399999999994 -bitexact 84_ch18_pt4.wav
+"oggenc" "--title" "Chapter 18 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "84_ch18_pt4.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 37107.2 -t 502.100000000006 -bitexact 85_ch18_pt5.wav
+"oggenc" "--title" "Chapter 18 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "85_ch18_pt5.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 37609.3 -t 481 -bitexact 86_ch19_pt1.wav
+"oggenc" "--title" "Chapter 19 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "86_ch19_pt1.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 38090.3 -t 303.199999999997 -bitexact 87_ch19_pt2.wav
+"oggenc" "--title" "Chapter 19 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "87_ch19_pt2.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 38393.5 -t 384.900000000001 -bitexact 88_ch19_pt3.wav
+"oggenc" "--title" "Chapter 19 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "88_ch19_pt3.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 38778.4 -t 307.5 -bitexact 89_ch19_pt4.wav
+"oggenc" "--title" "Chapter 19 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "89_ch19_pt4.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 39085.9 -t 433.699999999997 -bitexact 90_ch19_pt5.wav
+"oggenc" "--title" "Chapter 19 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "90_ch19_pt5.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 39519.6 -t 764.099999999999 -bitexact 91_ch20_pt1.wav
+"oggenc" "--title" "Chapter 20 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "91_ch20_pt1.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 40283.7 -t 403.200000000004 -bitexact 92_ch20_pt2.wav
+"oggenc" "--title" "Chapter 20 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "92_ch20_pt2.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 40686.9 -t 495.599999999999 -bitexact 93_ch20_pt3.wav
+"oggenc" "--title" "Chapter 20 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "93_ch20_pt3.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 41182.5 -t 496.400000000001 -bitexact 94_epilogue_pt1.wav
+"oggenc" "--title" "Epilogue - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "94_epilogue_pt1.wav"
+ffmpeg -i googleplay_barrayar.m4a.orig -ss 41678.9 -t 398.699999999997 -bitexact 95_epilogue_pt2.wav
+"oggenc" "--title" "Epilogue - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Barrayar" "95_epilogue_pt2.wav"
