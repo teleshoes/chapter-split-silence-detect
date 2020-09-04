@@ -1,0 +1,214 @@
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 0 -t 347.337 -bitexact 001_ch01_pt1.wav
+"oggenc" "--title" "Chapter 01 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "001_ch01_pt1.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 347.337 -t 304.517 -bitexact 002_ch01_pt2.wav
+"oggenc" "--title" "Chapter 01 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "002_ch01_pt2.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 651.854 -t 341.711 -bitexact 003_ch01_pt3.wav
+"oggenc" "--title" "Chapter 01 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "003_ch01_pt3.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 993.565 -t 523.055 -bitexact 004_ch01_pt4.wav
+"oggenc" "--title" "Chapter 01 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "004_ch01_pt4.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 1516.62 -t 426.95 -bitexact 005_ch02_pt1.wav
+"oggenc" "--title" "Chapter 02 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "005_ch02_pt1.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 1943.57 -t 410.79 -bitexact 006_ch02_pt2.wav
+"oggenc" "--title" "Chapter 02 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "006_ch02_pt2.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 2354.36 -t 452.04 -bitexact 007_ch02_pt3.wav
+"oggenc" "--title" "Chapter 02 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "007_ch02_pt3.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 2806.4 -t 552.75 -bitexact 008_ch02_pt4.wav
+"oggenc" "--title" "Chapter 02 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "008_ch02_pt4.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 3359.15 -t 548.96 -bitexact 009_ch03_pt1.wav
+"oggenc" "--title" "Chapter 03 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "009_ch03_pt1.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 3908.11 -t 307.05 -bitexact 010_ch03_pt2.wav
+"oggenc" "--title" "Chapter 03 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "010_ch03_pt2.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 4215.16 -t 439.7 -bitexact 011_ch03_pt3.wav
+"oggenc" "--title" "Chapter 03 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "011_ch03_pt3.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 4654.86 -t 417.76 -bitexact 012_ch03_pt4.wav
+"oggenc" "--title" "Chapter 03 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "012_ch03_pt4.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 5072.62 -t 379.72 -bitexact 013_ch04_pt1.wav
+"oggenc" "--title" "Chapter 04 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "013_ch04_pt1.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 5452.34 -t 312.48 -bitexact 014_ch04_pt2.wav
+"oggenc" "--title" "Chapter 04 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "014_ch04_pt2.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 5764.82 -t 597.530000000001 -bitexact 015_ch04_pt3.wav
+"oggenc" "--title" "Chapter 04 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "015_ch04_pt3.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 6362.35 -t 519.219999999999 -bitexact 016_ch05_pt1.wav
+"oggenc" "--title" "Chapter 05 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "016_ch05_pt1.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 6881.57 -t 337.690000000001 -bitexact 017_ch05_pt2.wav
+"oggenc" "--title" "Chapter 05 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "017_ch05_pt2.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 7219.26 -t 312.469999999999 -bitexact 018_ch05_pt3.wav
+"oggenc" "--title" "Chapter 05 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "018_ch05_pt3.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 7531.73 -t 342.780000000001 -bitexact 019_ch05_pt4.wav
+"oggenc" "--title" "Chapter 05 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "019_ch05_pt4.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 7874.51 -t 360.85 -bitexact 020_ch05_pt5.wav
+"oggenc" "--title" "Chapter 05 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "020_ch05_pt5.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 8235.36 -t 332.65 -bitexact 021_ch05_pt6.wav
+"oggenc" "--title" "Chapter 05 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "021_ch05_pt6.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 8568.01 -t 314.969999999999 -bitexact 022_ch05_pt7.wav
+"oggenc" "--title" "Chapter 05 - pt7" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "022_ch05_pt7.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 8882.98 -t 411.620000000001 -bitexact 023_ch05_pt8.wav
+"oggenc" "--title" "Chapter 05 - pt8" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "023_ch05_pt8.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 9294.6 -t 405.99 -bitexact 024_ch06_pt1.wav
+"oggenc" "--title" "Chapter 06 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "024_ch06_pt1.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 9700.59 -t 317.01 -bitexact 025_ch06_pt2.wav
+"oggenc" "--title" "Chapter 06 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "025_ch06_pt2.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 10017.6 -t 313.299999999999 -bitexact 026_ch06_pt3.wav
+"oggenc" "--title" "Chapter 06 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "026_ch06_pt3.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 10330.9 -t 604.1 -bitexact 027_ch06_pt4.wav
+"oggenc" "--title" "Chapter 06 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "027_ch06_pt4.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 10935 -t 300.1 -bitexact 028_ch07_pt1.wav
+"oggenc" "--title" "Chapter 07 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "028_ch07_pt1.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 11235.1 -t 304.799999999999 -bitexact 029_ch07_pt2.wav
+"oggenc" "--title" "Chapter 07 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "029_ch07_pt2.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 11539.9 -t 302.9 -bitexact 030_ch07_pt3.wav
+"oggenc" "--title" "Chapter 07 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "030_ch07_pt3.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 11842.8 -t 362.300000000001 -bitexact 031_ch07_pt4.wav
+"oggenc" "--title" "Chapter 07 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "031_ch07_pt4.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 12205.1 -t 376.4 -bitexact 032_ch07_pt5.wav
+"oggenc" "--title" "Chapter 07 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "032_ch07_pt5.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 12581.5 -t 309.700000000001 -bitexact 033_ch07_pt6.wav
+"oggenc" "--title" "Chapter 07 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "033_ch07_pt6.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 12891.2 -t 333.799999999999 -bitexact 034_ch08_pt1.wav
+"oggenc" "--title" "Chapter 08 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "034_ch08_pt1.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 13225 -t 319.4 -bitexact 035_ch08_pt2.wav
+"oggenc" "--title" "Chapter 08 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "035_ch08_pt2.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 13544.4 -t 324.5 -bitexact 036_ch08_pt3.wav
+"oggenc" "--title" "Chapter 08 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "036_ch08_pt3.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 13868.9 -t 352.9 -bitexact 037_ch08_pt4.wav
+"oggenc" "--title" "Chapter 08 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "037_ch08_pt4.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 14221.8 -t 392.400000000001 -bitexact 038_ch08_pt5.wav
+"oggenc" "--title" "Chapter 08 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "038_ch08_pt5.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 14614.2 -t 337.299999999999 -bitexact 039_ch09_pt1.wav
+"oggenc" "--title" "Chapter 09 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "039_ch09_pt1.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 14951.5 -t 376.299999999999 -bitexact 040_ch09_pt2.wav
+"oggenc" "--title" "Chapter 09 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "040_ch09_pt2.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 15327.8 -t 348.700000000001 -bitexact 041_ch09_pt3.wav
+"oggenc" "--title" "Chapter 09 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "041_ch09_pt3.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 15676.5 -t 391.4 -bitexact 042_ch09_pt4.wav
+"oggenc" "--title" "Chapter 09 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "042_ch09_pt4.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 16067.9 -t 323.1 -bitexact 043_ch09_pt5.wav
+"oggenc" "--title" "Chapter 09 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "043_ch09_pt5.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 16391 -t 349.099999999999 -bitexact 044_ch09_pt6.wav
+"oggenc" "--title" "Chapter 09 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "044_ch09_pt6.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 16740.1 -t 341 -bitexact 045_ch10_pt1.wav
+"oggenc" "--title" "Chapter 10 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "045_ch10_pt1.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 17081.1 -t 300.5 -bitexact 046_ch10_pt2.wav
+"oggenc" "--title" "Chapter 10 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "046_ch10_pt2.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 17381.6 -t 300.400000000001 -bitexact 047_ch10_pt3.wav
+"oggenc" "--title" "Chapter 10 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "047_ch10_pt3.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 17682 -t 322.900000000001 -bitexact 048_ch10_pt4.wav
+"oggenc" "--title" "Chapter 10 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "048_ch10_pt4.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 18004.9 -t 397.5 -bitexact 049_ch10_pt5.wav
+"oggenc" "--title" "Chapter 10 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "049_ch10_pt5.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 18402.4 -t 799.699999999997 -bitexact 050_ch10_pt6.wav
+"oggenc" "--title" "Chapter 10 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "050_ch10_pt6.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 19202.1 -t 335.5 -bitexact 051_ch11_pt1.wav
+"oggenc" "--title" "Chapter 11 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "051_ch11_pt1.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 19537.6 -t 318 -bitexact 052_ch11_pt2.wav
+"oggenc" "--title" "Chapter 11 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "052_ch11_pt2.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 19855.6 -t 322.400000000001 -bitexact 053_ch11_pt3.wav
+"oggenc" "--title" "Chapter 11 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "053_ch11_pt3.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 20178 -t 308.599999999999 -bitexact 054_ch11_pt4.wav
+"oggenc" "--title" "Chapter 11 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "054_ch11_pt4.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 20486.6 -t 430.900000000001 -bitexact 055_ch11_pt5.wav
+"oggenc" "--title" "Chapter 11 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "055_ch11_pt5.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 20917.5 -t 341.200000000001 -bitexact 056_ch12_pt1.wav
+"oggenc" "--title" "Chapter 12 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "056_ch12_pt1.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 21258.7 -t 335.899999999998 -bitexact 057_ch12_pt2.wav
+"oggenc" "--title" "Chapter 12 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "057_ch12_pt2.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 21594.6 -t 566.700000000001 -bitexact 058_ch12_pt3.wav
+"oggenc" "--title" "Chapter 12 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "058_ch12_pt3.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 22161.3 -t 337.200000000001 -bitexact 059_ch13_pt1.wav
+"oggenc" "--title" "Chapter 13 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "059_ch13_pt1.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 22498.5 -t 365.900000000001 -bitexact 060_ch13_pt2.wav
+"oggenc" "--title" "Chapter 13 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "060_ch13_pt2.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 22864.4 -t 332.899999999998 -bitexact 061_ch13_pt3.wav
+"oggenc" "--title" "Chapter 13 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "061_ch13_pt3.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 23197.3 -t 332 -bitexact 062_ch13_pt4.wav
+"oggenc" "--title" "Chapter 13 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "062_ch13_pt4.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 23529.3 -t 357.900000000001 -bitexact 063_ch13_pt5.wav
+"oggenc" "--title" "Chapter 13 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "063_ch13_pt5.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 23887.2 -t 381.399999999998 -bitexact 064_ch13_pt6.wav
+"oggenc" "--title" "Chapter 13 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "064_ch13_pt6.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 24268.6 -t 358.200000000001 -bitexact 065_ch14_pt1.wav
+"oggenc" "--title" "Chapter 14 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "065_ch14_pt1.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 24626.8 -t 469.799999999999 -bitexact 066_ch14_pt2.wav
+"oggenc" "--title" "Chapter 14 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "066_ch14_pt2.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 25096.6 -t 363.700000000001 -bitexact 067_ch14_pt3.wav
+"oggenc" "--title" "Chapter 14 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "067_ch14_pt3.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 25460.3 -t 379.299999999999 -bitexact 068_ch14_pt4.wav
+"oggenc" "--title" "Chapter 14 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "068_ch14_pt4.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 25839.6 -t 360.800000000003 -bitexact 069_ch14_pt5.wav
+"oggenc" "--title" "Chapter 14 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "069_ch14_pt5.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 26200.4 -t 548.299999999999 -bitexact 070_ch14_pt6.wav
+"oggenc" "--title" "Chapter 14 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "070_ch14_pt6.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 26748.7 -t 309.700000000001 -bitexact 071_ch15_pt1.wav
+"oggenc" "--title" "Chapter 15 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "071_ch15_pt1.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 27058.4 -t 428.799999999999 -bitexact 072_ch15_pt2.wav
+"oggenc" "--title" "Chapter 15 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "072_ch15_pt2.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 27487.2 -t 397.399999999998 -bitexact 073_ch15_pt3.wav
+"oggenc" "--title" "Chapter 15 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "073_ch15_pt3.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 27884.6 -t 329 -bitexact 074_ch15_pt4.wav
+"oggenc" "--title" "Chapter 15 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "074_ch15_pt4.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 28213.6 -t 476 -bitexact 075_ch15_pt5.wav
+"oggenc" "--title" "Chapter 15 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "075_ch15_pt5.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 28689.6 -t 554 -bitexact 076_ch15_pt6.wav
+"oggenc" "--title" "Chapter 15 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "076_ch15_pt6.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 29243.6 -t 311.800000000003 -bitexact 077_ch16_pt1.wav
+"oggenc" "--title" "Chapter 16 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "077_ch16_pt1.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 29555.4 -t 331.699999999997 -bitexact 078_ch16_pt2.wav
+"oggenc" "--title" "Chapter 16 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "078_ch16_pt2.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 29887.1 -t 315.100000000002 -bitexact 079_ch16_pt3.wav
+"oggenc" "--title" "Chapter 16 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "079_ch16_pt3.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 30202.2 -t 314.299999999999 -bitexact 080_ch16_pt4.wav
+"oggenc" "--title" "Chapter 16 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "080_ch16_pt4.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 30516.5 -t 348 -bitexact 081_ch16_pt5.wav
+"oggenc" "--title" "Chapter 16 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "081_ch16_pt5.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 30864.5 -t 556.5 -bitexact 082_ch16_pt6.wav
+"oggenc" "--title" "Chapter 16 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "082_ch16_pt6.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 31421 -t 417.599999999999 -bitexact 083_ch17_pt1.wav
+"oggenc" "--title" "Chapter 17 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "083_ch17_pt1.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 31838.6 -t 314.200000000001 -bitexact 084_ch17_pt2.wav
+"oggenc" "--title" "Chapter 17 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "084_ch17_pt2.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 32152.8 -t 501.700000000001 -bitexact 085_ch17_pt3.wav
+"oggenc" "--title" "Chapter 17 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "085_ch17_pt3.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 32654.5 -t 424.699999999997 -bitexact 086_ch18_pt1.wav
+"oggenc" "--title" "Chapter 18 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "086_ch18_pt1.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 33079.2 -t 370.5 -bitexact 087_ch18_pt2.wav
+"oggenc" "--title" "Chapter 18 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "087_ch18_pt2.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 33449.7 -t 321.300000000003 -bitexact 088_ch18_pt3.wav
+"oggenc" "--title" "Chapter 18 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "088_ch18_pt3.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 33771 -t 304.099999999999 -bitexact 089_ch18_pt4.wav
+"oggenc" "--title" "Chapter 18 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "089_ch18_pt4.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 34075.1 -t 343.800000000003 -bitexact 090_ch18_pt5.wav
+"oggenc" "--title" "Chapter 18 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "090_ch18_pt5.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 34418.9 -t 301.199999999997 -bitexact 091_ch19_pt1.wav
+"oggenc" "--title" "Chapter 19 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "091_ch19_pt1.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 34720.1 -t 317.200000000004 -bitexact 092_ch19_pt2.wav
+"oggenc" "--title" "Chapter 19 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "092_ch19_pt2.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 35037.3 -t 335.299999999996 -bitexact 093_ch19_pt3.wav
+"oggenc" "--title" "Chapter 19 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "093_ch19_pt3.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 35372.6 -t 337.200000000004 -bitexact 094_ch19_pt4.wav
+"oggenc" "--title" "Chapter 19 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "094_ch19_pt4.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 35709.8 -t 546.699999999997 -bitexact 095_ch19_pt5.wav
+"oggenc" "--title" "Chapter 19 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "095_ch19_pt5.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 36256.5 -t 345 -bitexact 096_ch20_pt1.wav
+"oggenc" "--title" "Chapter 20 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "096_ch20_pt1.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 36601.5 -t 631.599999999999 -bitexact 097_ch20_pt2.wav
+"oggenc" "--title" "Chapter 20 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "097_ch20_pt2.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 37233.1 -t 323.099999999999 -bitexact 098_ch21_pt1.wav
+"oggenc" "--title" "Chapter 21 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "098_ch21_pt1.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 37556.2 -t 315.700000000004 -bitexact 099_ch21_pt2.wav
+"oggenc" "--title" "Chapter 21 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "099_ch21_pt2.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 37871.9 -t 305.599999999999 -bitexact 100_ch21_pt3.wav
+"oggenc" "--title" "Chapter 21 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "100_ch21_pt3.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 38177.5 -t 318.900000000001 -bitexact 101_ch21_pt4.wav
+"oggenc" "--title" "Chapter 21 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "101_ch21_pt4.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 38496.4 -t 365.299999999996 -bitexact 102_ch21_pt5.wav
+"oggenc" "--title" "Chapter 21 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "102_ch21_pt5.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 38861.7 -t 343.300000000003 -bitexact 103_ch21_pt6.wav
+"oggenc" "--title" "Chapter 21 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "103_ch21_pt6.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 39205 -t 455.400000000001 -bitexact 104_ch21_pt7.wav
+"oggenc" "--title" "Chapter 21 - pt7" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "104_ch21_pt7.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 39660.4 -t 341.699999999997 -bitexact 105_epilogue_pt1.wav
+"oggenc" "--title" "Epilogue - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "105_epilogue_pt1.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 40002.1 -t 344.599999999999 -bitexact 106_epilogue_pt2.wav
+"oggenc" "--title" "Epilogue - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "106_epilogue_pt2.wav"
+ffmpeg -i googleplay_warriors_apprentice.m4a.orig -ss 40346.7 -t 306.150000000001 -bitexact 107_epilogue_pt3.wav
+"oggenc" "--title" "Epilogue - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Warrior's Apprentice" "107_epilogue_pt3.wav"
