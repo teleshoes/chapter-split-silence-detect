@@ -1,0 +1,168 @@
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 0 -t 704.26 -bitexact 01_one_pt01.wav
+"oggenc" "--title" "One - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "01_one_pt01.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 704.26 -t 425.08 -bitexact 02_the_mountains_of_mourning_part1_pt01.wav
+"oggenc" "--title" "The Mountains of Mourning part1 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "02_the_mountains_of_mourning_part1_pt01.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 1129.34 -t 447.09 -bitexact 03_the_mountains_of_mourning_part1_pt02.wav
+"oggenc" "--title" "The Mountains of Mourning part1 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "03_the_mountains_of_mourning_part1_pt02.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 1576.43 -t 501.78 -bitexact 04_the_mountains_of_mourning_part1_pt03.wav
+"oggenc" "--title" "The Mountains of Mourning part1 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "04_the_mountains_of_mourning_part1_pt03.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 2078.21 -t 421.58 -bitexact 05_the_mountains_of_mourning_part1_pt04.wav
+"oggenc" "--title" "The Mountains of Mourning part1 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "05_the_mountains_of_mourning_part1_pt04.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 2499.79 -t 433.83 -bitexact 06_the_mountains_of_mourning_part1_pt05.wav
+"oggenc" "--title" "The Mountains of Mourning part1 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "06_the_mountains_of_mourning_part1_pt05.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 2933.62 -t 409.08 -bitexact 07_the_mountains_of_mourning_part1_pt06.wav
+"oggenc" "--title" "The Mountains of Mourning part1 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "07_the_mountains_of_mourning_part1_pt06.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 3342.7 -t 317.38 -bitexact 08_the_mountains_of_mourning_part1_pt07.wav
+"oggenc" "--title" "The Mountains of Mourning part1 - pt07" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "08_the_mountains_of_mourning_part1_pt07.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 3660.08 -t 456.53 -bitexact 09_the_mountains_of_mourning_part1_pt08.wav
+"oggenc" "--title" "The Mountains of Mourning part1 - pt08" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "09_the_mountains_of_mourning_part1_pt08.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 4116.61 -t 358.610000000001 -bitexact 10_the_mountains_of_mourning_part2_pt01.wav
+"oggenc" "--title" "The Mountains of Mourning part2 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "10_the_mountains_of_mourning_part2_pt01.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 4475.22 -t 321.65 -bitexact 11_the_mountains_of_mourning_part2_pt02.wav
+"oggenc" "--title" "The Mountains of Mourning part2 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "11_the_mountains_of_mourning_part2_pt02.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 4796.87 -t 366.54 -bitexact 12_the_mountains_of_mourning_part2_pt03.wav
+"oggenc" "--title" "The Mountains of Mourning part2 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "12_the_mountains_of_mourning_part2_pt03.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 5163.41 -t 347.18 -bitexact 13_the_mountains_of_mourning_part2_pt04.wav
+"oggenc" "--title" "The Mountains of Mourning part2 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "13_the_mountains_of_mourning_part2_pt04.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 5510.59 -t 311.15 -bitexact 14_the_mountains_of_mourning_part2_pt05.wav
+"oggenc" "--title" "The Mountains of Mourning part2 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "14_the_mountains_of_mourning_part2_pt05.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 5821.74 -t 392.23 -bitexact 15_the_mountains_of_mourning_part2_pt06.wav
+"oggenc" "--title" "The Mountains of Mourning part2 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "15_the_mountains_of_mourning_part2_pt06.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 6213.97 -t 587.99 -bitexact 16_the_mountains_of_mourning_part2_pt07.wav
+"oggenc" "--title" "The Mountains of Mourning part2 - pt07" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "16_the_mountains_of_mourning_part2_pt07.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 6801.96 -t 859.29 -bitexact 17_the_mountains_of_mourning_part2_pt08.wav
+"oggenc" "--title" "The Mountains of Mourning part2 - pt08" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "17_the_mountains_of_mourning_part2_pt08.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 7661.25 -t 337.06 -bitexact 18_the_mountains_of_mourning_part3_pt01.wav
+"oggenc" "--title" "The Mountains of Mourning part3 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "18_the_mountains_of_mourning_part3_pt01.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 7998.31 -t 342.71 -bitexact 19_the_mountains_of_mourning_part3_pt02.wav
+"oggenc" "--title" "The Mountains of Mourning part3 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "19_the_mountains_of_mourning_part3_pt02.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 8341.02 -t 330.799999999999 -bitexact 20_the_mountains_of_mourning_part3_pt03.wav
+"oggenc" "--title" "The Mountains of Mourning part3 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "20_the_mountains_of_mourning_part3_pt03.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 8671.82 -t 399.940000000001 -bitexact 21_the_mountains_of_mourning_part3_pt04.wav
+"oggenc" "--title" "The Mountains of Mourning part3 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "21_the_mountains_of_mourning_part3_pt04.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 9071.76 -t 415.110000000001 -bitexact 22_the_mountains_of_mourning_part3_pt05.wav
+"oggenc" "--title" "The Mountains of Mourning part3 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "22_the_mountains_of_mourning_part3_pt05.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 9486.87 -t 347.23 -bitexact 23_the_mountains_of_mourning_part3_pt06.wav
+"oggenc" "--title" "The Mountains of Mourning part3 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "23_the_mountains_of_mourning_part3_pt06.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 9834.1 -t 338.799999999999 -bitexact 24_the_mountains_of_mourning_part3_pt07.wav
+"oggenc" "--title" "The Mountains of Mourning part3 - pt07" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "24_the_mountains_of_mourning_part3_pt07.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 10172.9 -t 433.800000000001 -bitexact 25_the_mountains_of_mourning_part3_pt08.wav
+"oggenc" "--title" "The Mountains of Mourning part3 - pt08" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "25_the_mountains_of_mourning_part3_pt08.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 10606.7 -t 402.299999999999 -bitexact 26_the_mountains_of_mourning_part3_pt09.wav
+"oggenc" "--title" "The Mountains of Mourning part3 - pt09" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "26_the_mountains_of_mourning_part3_pt09.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 11009 -t 183.200000000001 -bitexact 27_two_pt01.wav
+"oggenc" "--title" "Two - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "27_two_pt01.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 11192.2 -t 400.699999999999 -bitexact 28_labyrinth_part1_pt01.wav
+"oggenc" "--title" "Labyrinth part1 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "28_labyrinth_part1_pt01.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 11592.9 -t 349.4 -bitexact 29_labyrinth_part1_pt02.wav
+"oggenc" "--title" "Labyrinth part1 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "29_labyrinth_part1_pt02.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 11942.3 -t 382.400000000001 -bitexact 30_labyrinth_part1_pt03.wav
+"oggenc" "--title" "Labyrinth part1 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "30_labyrinth_part1_pt03.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 12324.7 -t 390.9 -bitexact 31_labyrinth_part1_pt04.wav
+"oggenc" "--title" "Labyrinth part1 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "31_labyrinth_part1_pt04.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 12715.6 -t 749.5 -bitexact 32_labyrinth_part1_pt05.wav
+"oggenc" "--title" "Labyrinth part1 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "32_labyrinth_part1_pt05.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 13465.1 -t 314.6 -bitexact 33_labyrinth_part1_pt06.wav
+"oggenc" "--title" "Labyrinth part1 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "33_labyrinth_part1_pt06.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 13779.7 -t 427.599999999999 -bitexact 34_labyrinth_part1_pt07.wav
+"oggenc" "--title" "Labyrinth part1 - pt07" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "34_labyrinth_part1_pt07.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 14207.3 -t 366.800000000001 -bitexact 35_labyrinth_part1_pt08.wav
+"oggenc" "--title" "Labyrinth part1 - pt08" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "35_labyrinth_part1_pt08.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 14574.1 -t 624.699999999999 -bitexact 36_labyrinth_part1_pt09.wav
+"oggenc" "--title" "Labyrinth part1 - pt09" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "36_labyrinth_part1_pt09.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 15198.8 -t 516.400000000001 -bitexact 37_labyrinth_part2_pt01.wav
+"oggenc" "--title" "Labyrinth part2 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "37_labyrinth_part2_pt01.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 15715.2 -t 568.5 -bitexact 38_labyrinth_part2_pt02.wav
+"oggenc" "--title" "Labyrinth part2 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "38_labyrinth_part2_pt02.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 16283.7 -t 439.299999999999 -bitexact 39_labyrinth_part2_pt03.wav
+"oggenc" "--title" "Labyrinth part2 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "39_labyrinth_part2_pt03.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 16723 -t 374 -bitexact 40_labyrinth_part2_pt04.wav
+"oggenc" "--title" "Labyrinth part2 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "40_labyrinth_part2_pt04.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 17097 -t 320 -bitexact 41_labyrinth_part2_pt05.wav
+"oggenc" "--title" "Labyrinth part2 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "41_labyrinth_part2_pt05.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 17417 -t 325.400000000001 -bitexact 42_labyrinth_part2_pt06.wav
+"oggenc" "--title" "Labyrinth part2 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "42_labyrinth_part2_pt06.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 17742.4 -t 322.199999999997 -bitexact 43_labyrinth_part2_pt07.wav
+"oggenc" "--title" "Labyrinth part2 - pt07" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "43_labyrinth_part2_pt07.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 18064.6 -t 385.800000000003 -bitexact 44_labyrinth_part2_pt08.wav
+"oggenc" "--title" "Labyrinth part2 - pt08" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "44_labyrinth_part2_pt08.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 18450.4 -t 346.299999999999 -bitexact 45_labyrinth_part2_pt09.wav
+"oggenc" "--title" "Labyrinth part2 - pt09" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "45_labyrinth_part2_pt09.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 18796.7 -t 535.5 -bitexact 46_labyrinth_part2_pt10.wav
+"oggenc" "--title" "Labyrinth part2 - pt10" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "46_labyrinth_part2_pt10.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 19332.2 -t 348.5 -bitexact 47_labyrinth_part3_pt01.wav
+"oggenc" "--title" "Labyrinth part3 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "47_labyrinth_part3_pt01.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 19680.7 -t 590.899999999998 -bitexact 48_labyrinth_part3_pt02.wav
+"oggenc" "--title" "Labyrinth part3 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "48_labyrinth_part3_pt02.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 20271.6 -t 324.900000000001 -bitexact 49_labyrinth_part3_pt03.wav
+"oggenc" "--title" "Labyrinth part3 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "49_labyrinth_part3_pt03.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 20596.5 -t 600.799999999999 -bitexact 50_labyrinth_part3_pt04.wav
+"oggenc" "--title" "Labyrinth part3 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "50_labyrinth_part3_pt04.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 21197.3 -t 338.299999999999 -bitexact 51_labyrinth_part3_pt05.wav
+"oggenc" "--title" "Labyrinth part3 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "51_labyrinth_part3_pt05.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 21535.6 -t 468.800000000003 -bitexact 52_labyrinth_part3_pt06.wav
+"oggenc" "--title" "Labyrinth part3 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "52_labyrinth_part3_pt06.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 22004.4 -t 370.5 -bitexact 53_labyrinth_part3_pt07.wav
+"oggenc" "--title" "Labyrinth part3 - pt07" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "53_labyrinth_part3_pt07.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 22374.9 -t 307.799999999999 -bitexact 54_labyrinth_part3_pt08.wav
+"oggenc" "--title" "Labyrinth part3 - pt08" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "54_labyrinth_part3_pt08.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 22682.7 -t 361.299999999999 -bitexact 55_labyrinth_part3_pt09.wav
+"oggenc" "--title" "Labyrinth part3 - pt09" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "55_labyrinth_part3_pt09.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 23044 -t 553.799999999999 -bitexact 56_labyrinth_part3_pt10.wav
+"oggenc" "--title" "Labyrinth part3 - pt10" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "56_labyrinth_part3_pt10.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 23597.8 -t 82.7000000000007 -bitexact 57_three_pt01.wav
+"oggenc" "--title" "Three - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "57_three_pt01.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 23680.5 -t 305.200000000001 -bitexact 58_borders_of_infinity_part1_pt01.wav
+"oggenc" "--title" "Borders of Infinity part1 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "58_borders_of_infinity_part1_pt01.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 23985.7 -t 386.299999999999 -bitexact 59_borders_of_infinity_part1_pt02.wav
+"oggenc" "--title" "Borders of Infinity part1 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "59_borders_of_infinity_part1_pt02.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 24372 -t 358.700000000001 -bitexact 60_borders_of_infinity_part1_pt03.wav
+"oggenc" "--title" "Borders of Infinity part1 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "60_borders_of_infinity_part1_pt03.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 24730.7 -t 315.099999999999 -bitexact 61_borders_of_infinity_part1_pt04.wav
+"oggenc" "--title" "Borders of Infinity part1 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "61_borders_of_infinity_part1_pt04.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 25045.8 -t 345.5 -bitexact 62_borders_of_infinity_part1_pt05.wav
+"oggenc" "--title" "Borders of Infinity part1 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "62_borders_of_infinity_part1_pt05.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 25391.3 -t 320.100000000002 -bitexact 63_borders_of_infinity_part1_pt06.wav
+"oggenc" "--title" "Borders of Infinity part1 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "63_borders_of_infinity_part1_pt06.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 25711.4 -t 323.5 -bitexact 64_borders_of_infinity_part1_pt07.wav
+"oggenc" "--title" "Borders of Infinity part1 - pt07" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "64_borders_of_infinity_part1_pt07.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 26034.9 -t 334.599999999999 -bitexact 65_borders_of_infinity_part1_pt08.wav
+"oggenc" "--title" "Borders of Infinity part1 - pt08" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "65_borders_of_infinity_part1_pt08.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 26369.5 -t 378.700000000001 -bitexact 66_borders_of_infinity_part1_pt09.wav
+"oggenc" "--title" "Borders of Infinity part1 - pt09" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "66_borders_of_infinity_part1_pt09.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 26748.2 -t 440.799999999999 -bitexact 67_borders_of_infinity_part1_pt10.wav
+"oggenc" "--title" "Borders of Infinity part1 - pt10" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "67_borders_of_infinity_part1_pt10.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 27189 -t 409.599999999999 -bitexact 68_borders_of_infinity_part2_pt01.wav
+"oggenc" "--title" "Borders of Infinity part2 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "68_borders_of_infinity_part2_pt01.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 27598.6 -t 337.300000000003 -bitexact 69_borders_of_infinity_part2_pt02.wav
+"oggenc" "--title" "Borders of Infinity part2 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "69_borders_of_infinity_part2_pt02.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 27935.9 -t 319.799999999999 -bitexact 70_borders_of_infinity_part2_pt03.wav
+"oggenc" "--title" "Borders of Infinity part2 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "70_borders_of_infinity_part2_pt03.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 28255.7 -t 489.599999999999 -bitexact 71_borders_of_infinity_part2_pt04.wav
+"oggenc" "--title" "Borders of Infinity part2 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "71_borders_of_infinity_part2_pt04.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 28745.3 -t 724.299999999999 -bitexact 72_borders_of_infinity_part2_pt05.wav
+"oggenc" "--title" "Borders of Infinity part2 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "72_borders_of_infinity_part2_pt05.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 29469.6 -t 343.100000000002 -bitexact 73_borders_of_infinity_part2_pt06.wav
+"oggenc" "--title" "Borders of Infinity part2 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "73_borders_of_infinity_part2_pt06.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 29812.7 -t 316.200000000001 -bitexact 74_borders_of_infinity_part2_pt07.wav
+"oggenc" "--title" "Borders of Infinity part2 - pt07" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "74_borders_of_infinity_part2_pt07.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 30128.9 -t 327 -bitexact 75_borders_of_infinity_part2_pt08.wav
+"oggenc" "--title" "Borders of Infinity part2 - pt08" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "75_borders_of_infinity_part2_pt08.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 30455.9 -t 522.099999999999 -bitexact 76_borders_of_infinity_part3_pt01.wav
+"oggenc" "--title" "Borders of Infinity part3 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "76_borders_of_infinity_part3_pt01.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 30978 -t 361.299999999999 -bitexact 77_borders_of_infinity_part3_pt02.wav
+"oggenc" "--title" "Borders of Infinity part3 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "77_borders_of_infinity_part3_pt02.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 31339.3 -t 640.200000000001 -bitexact 78_borders_of_infinity_part3_pt03.wav
+"oggenc" "--title" "Borders of Infinity part3 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "78_borders_of_infinity_part3_pt03.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 31979.5 -t 396.099999999999 -bitexact 79_borders_of_infinity_part3_pt04.wav
+"oggenc" "--title" "Borders of Infinity part3 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "79_borders_of_infinity_part3_pt04.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 32375.6 -t 366 -bitexact 80_borders_of_infinity_part3_pt05.wav
+"oggenc" "--title" "Borders of Infinity part3 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "80_borders_of_infinity_part3_pt05.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 32741.6 -t 312.5 -bitexact 81_borders_of_infinity_part3_pt06.wav
+"oggenc" "--title" "Borders of Infinity part3 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "81_borders_of_infinity_part3_pt06.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 33054.1 -t 336.800000000003 -bitexact 82_borders_of_infinity_part3_pt07.wav
+"oggenc" "--title" "Borders of Infinity part3 - pt07" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "82_borders_of_infinity_part3_pt07.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 33390.9 -t 587.299999999996 -bitexact 83_borders_of_infinity_part3_pt08.wav
+"oggenc" "--title" "Borders of Infinity part3 - pt08" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "83_borders_of_infinity_part3_pt08.wav"
+ffmpeg -i googleplay_borders_of_infinity.m4a.orig -ss 33978.2 -t 355.840000000004 -bitexact 84_four_pt01.wav
+"oggenc" "--title" "Four - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Borders of Infinity" "84_four_pt01.wav"
