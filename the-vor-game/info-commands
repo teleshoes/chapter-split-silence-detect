@@ -1,0 +1,210 @@
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 0 -t 387.605 -bitexact 001_ch01_pt1.wav
+"oggenc" "--title" "Chapter 01 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "001_ch01_pt1.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 387.605 -t 321.044 -bitexact 002_ch01_pt2.wav
+"oggenc" "--title" "Chapter 01 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "002_ch01_pt2.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 708.649 -t 321.701 -bitexact 003_ch01_pt3.wav
+"oggenc" "--title" "Chapter 01 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "003_ch01_pt3.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 1030.35 -t 483.46 -bitexact 004_ch01_pt4.wav
+"oggenc" "--title" "Chapter 01 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "004_ch01_pt4.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 1513.81 -t 303.63 -bitexact 005_ch01_pt5.wav
+"oggenc" "--title" "Chapter 01 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "005_ch01_pt5.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 1817.44 -t 413.32 -bitexact 006_ch02_pt1.wav
+"oggenc" "--title" "Chapter 02 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "006_ch02_pt1.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 2230.76 -t 302.11 -bitexact 007_ch02_pt2.wav
+"oggenc" "--title" "Chapter 02 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "007_ch02_pt2.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 2532.87 -t 321.8 -bitexact 008_ch02_pt3.wav
+"oggenc" "--title" "Chapter 02 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "008_ch02_pt3.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 2854.67 -t 363.33 -bitexact 009_ch02_pt4.wav
+"oggenc" "--title" "Chapter 02 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "009_ch02_pt4.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 3218 -t 313.15 -bitexact 010_ch02_pt5.wav
+"oggenc" "--title" "Chapter 02 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "010_ch02_pt5.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 3531.15 -t 319.38 -bitexact 011_ch03_pt1.wav
+"oggenc" "--title" "Chapter 03 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "011_ch03_pt1.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 3850.53 -t 351.97 -bitexact 012_ch03_pt2.wav
+"oggenc" "--title" "Chapter 03 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "012_ch03_pt2.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 4202.5 -t 807.46 -bitexact 013_ch03_pt3.wav
+"oggenc" "--title" "Chapter 03 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "013_ch03_pt3.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 5009.96 -t 370.48 -bitexact 014_ch03_pt4.wav
+"oggenc" "--title" "Chapter 03 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "014_ch03_pt4.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 5380.44 -t 334.18 -bitexact 015_ch04_pt1.wav
+"oggenc" "--title" "Chapter 04 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "015_ch04_pt1.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 5714.62 -t 411.150000000001 -bitexact 016_ch04_pt2.wav
+"oggenc" "--title" "Chapter 04 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "016_ch04_pt2.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 6125.77 -t 330.53 -bitexact 017_ch04_pt3.wav
+"oggenc" "--title" "Chapter 04 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "017_ch04_pt3.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 6456.3 -t 304.63 -bitexact 018_ch04_pt4.wav
+"oggenc" "--title" "Chapter 04 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "018_ch04_pt4.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 6760.93 -t 430.23 -bitexact 019_ch04_pt5.wav
+"oggenc" "--title" "Chapter 04 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "019_ch04_pt5.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 7191.16 -t 340.05 -bitexact 020_ch05_pt1.wav
+"oggenc" "--title" "Chapter 05 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "020_ch05_pt1.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 7531.21 -t 324.65 -bitexact 021_ch05_pt2.wav
+"oggenc" "--title" "Chapter 05 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "021_ch05_pt2.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 7855.86 -t 506.080000000001 -bitexact 022_ch05_pt3.wav
+"oggenc" "--title" "Chapter 05 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "022_ch05_pt3.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 8361.94 -t 339.57 -bitexact 023_ch05_pt4.wav
+"oggenc" "--title" "Chapter 05 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "023_ch05_pt4.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 8701.51 -t 352.860000000001 -bitexact 024_ch05_pt5.wav
+"oggenc" "--title" "Chapter 05 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "024_ch05_pt5.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 9054.37 -t 402.529999999999 -bitexact 025_ch05_pt6.wav
+"oggenc" "--title" "Chapter 05 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "025_ch05_pt6.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 9456.9 -t 360.84 -bitexact 026_ch06_pt1.wav
+"oggenc" "--title" "Chapter 06 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "026_ch06_pt1.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 9817.74 -t 317.76 -bitexact 027_ch06_pt2.wav
+"oggenc" "--title" "Chapter 06 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "027_ch06_pt2.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 10135.5 -t 303.799999999999 -bitexact 028_ch06_pt3.wav
+"oggenc" "--title" "Chapter 06 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "028_ch06_pt3.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 10439.3 -t 380.1 -bitexact 029_ch06_pt4.wav
+"oggenc" "--title" "Chapter 06 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "029_ch06_pt4.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 10819.4 -t 380.200000000001 -bitexact 030_ch06_pt5.wav
+"oggenc" "--title" "Chapter 06 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "030_ch06_pt5.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 11199.6 -t 344.699999999999 -bitexact 031_ch07_pt1.wav
+"oggenc" "--title" "Chapter 07 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "031_ch07_pt1.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 11544.3 -t 316.400000000001 -bitexact 032_ch07_pt2.wav
+"oggenc" "--title" "Chapter 07 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "032_ch07_pt2.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 11860.7 -t 440.299999999999 -bitexact 033_ch07_pt3.wav
+"oggenc" "--title" "Chapter 07 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "033_ch07_pt3.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 12301 -t 937.799999999999 -bitexact 034_ch07_pt4.wav
+"oggenc" "--title" "Chapter 07 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "034_ch07_pt4.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 13238.8 -t 360.6 -bitexact 035_ch08_pt1.wav
+"oggenc" "--title" "Chapter 08 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "035_ch08_pt1.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 13599.4 -t 443.800000000001 -bitexact 036_ch08_pt2.wav
+"oggenc" "--title" "Chapter 08 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "036_ch08_pt2.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 14043.2 -t 438 -bitexact 037_ch08_pt3.wav
+"oggenc" "--title" "Chapter 08 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "037_ch08_pt3.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 14481.2 -t 441.9 -bitexact 038_ch08_pt4.wav
+"oggenc" "--title" "Chapter 08 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "038_ch08_pt4.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 14923.1 -t 384.699999999999 -bitexact 039_ch08_pt5.wav
+"oggenc" "--title" "Chapter 08 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "039_ch08_pt5.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 15307.8 -t 493 -bitexact 040_ch08_pt6.wav
+"oggenc" "--title" "Chapter 08 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "040_ch08_pt6.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 15800.8 -t 324.1 -bitexact 041_ch09_pt1.wav
+"oggenc" "--title" "Chapter 09 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "041_ch09_pt1.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 16124.9 -t 327.300000000001 -bitexact 042_ch09_pt2.wav
+"oggenc" "--title" "Chapter 09 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "042_ch09_pt2.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 16452.2 -t 551.299999999999 -bitexact 043_ch09_pt3.wav
+"oggenc" "--title" "Chapter 09 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "043_ch09_pt3.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 17003.5 -t 515.700000000001 -bitexact 044_ch09_pt4.wav
+"oggenc" "--title" "Chapter 09 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "044_ch09_pt4.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 17519.2 -t 418.099999999999 -bitexact 045_ch10_pt1.wav
+"oggenc" "--title" "Chapter 10 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "045_ch10_pt1.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 17937.3 -t 407.400000000001 -bitexact 046_ch10_pt2.wav
+"oggenc" "--title" "Chapter 10 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "046_ch10_pt2.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 18344.7 -t 320.299999999999 -bitexact 047_ch10_pt3.wav
+"oggenc" "--title" "Chapter 10 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "047_ch10_pt3.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 18665 -t 342.900000000001 -bitexact 048_ch10_pt4.wav
+"oggenc" "--title" "Chapter 10 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "048_ch10_pt4.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 19007.9 -t 341.899999999998 -bitexact 049_ch10_pt5.wav
+"oggenc" "--title" "Chapter 10 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "049_ch10_pt5.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 19349.8 -t 580.100000000002 -bitexact 050_ch10_pt6.wav
+"oggenc" "--title" "Chapter 10 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "050_ch10_pt6.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 19929.9 -t 363.199999999997 -bitexact 051_ch11_pt1.wav
+"oggenc" "--title" "Chapter 11 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "051_ch11_pt1.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 20293.1 -t 308.600000000002 -bitexact 052_ch11_pt2.wav
+"oggenc" "--title" "Chapter 11 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "052_ch11_pt2.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 20601.7 -t 338.799999999999 -bitexact 053_ch11_pt3.wav
+"oggenc" "--title" "Chapter 11 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "053_ch11_pt3.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 20940.5 -t 343.200000000001 -bitexact 054_ch11_pt4.wav
+"oggenc" "--title" "Chapter 11 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "054_ch11_pt4.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 21283.7 -t 302.099999999999 -bitexact 055_ch11_pt5.wav
+"oggenc" "--title" "Chapter 11 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "055_ch11_pt5.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 21585.8 -t 312.799999999999 -bitexact 056_ch11_pt6.wav
+"oggenc" "--title" "Chapter 11 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "056_ch11_pt6.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 21898.6 -t 302 -bitexact 057_ch11_pt7.wav
+"oggenc" "--title" "Chapter 11 - pt7" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "057_ch11_pt7.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 22200.6 -t 300.900000000001 -bitexact 058_ch11_pt8.wav
+"oggenc" "--title" "Chapter 11 - pt8" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "058_ch11_pt8.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 22501.5 -t 331.599999999999 -bitexact 059_ch11_pt9.wav
+"oggenc" "--title" "Chapter 11 - pt9" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "059_ch11_pt9.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 22833.1 -t 317.100000000002 -bitexact 060_ch12_pt1.wav
+"oggenc" "--title" "Chapter 12 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "060_ch12_pt1.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 23150.2 -t 315.299999999999 -bitexact 061_ch12_pt2.wav
+"oggenc" "--title" "Chapter 12 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "061_ch12_pt2.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 23465.5 -t 315.400000000001 -bitexact 062_ch12_pt3.wav
+"oggenc" "--title" "Chapter 12 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "062_ch12_pt3.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 23780.9 -t 301.599999999999 -bitexact 063_ch12_pt4.wav
+"oggenc" "--title" "Chapter 12 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "063_ch12_pt4.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 24082.5 -t 308.799999999999 -bitexact 064_ch12_pt5.wav
+"oggenc" "--title" "Chapter 12 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "064_ch12_pt5.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 24391.3 -t 328.799999999999 -bitexact 065_ch12_pt6.wav
+"oggenc" "--title" "Chapter 12 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "065_ch12_pt6.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 24720.1 -t 315.5 -bitexact 066_ch12_pt7.wav
+"oggenc" "--title" "Chapter 12 - pt7" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "066_ch12_pt7.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 25035.6 -t 319.900000000001 -bitexact 067_ch12_pt8.wav
+"oggenc" "--title" "Chapter 12 - pt8" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "067_ch12_pt8.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 25355.5 -t 363 -bitexact 068_ch12_pt9.wav
+"oggenc" "--title" "Chapter 12 - pt9" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "068_ch12_pt9.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 25718.5 -t 326.599999999999 -bitexact 069_ch13_pt1.wav
+"oggenc" "--title" "Chapter 13 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "069_ch13_pt1.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 26045.1 -t 331.200000000001 -bitexact 070_ch13_pt2.wav
+"oggenc" "--title" "Chapter 13 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "070_ch13_pt2.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 26376.3 -t 413.200000000001 -bitexact 071_ch13_pt3.wav
+"oggenc" "--title" "Chapter 13 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "071_ch13_pt3.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 26789.5 -t 300.799999999999 -bitexact 072_ch13_pt4.wav
+"oggenc" "--title" "Chapter 13 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "072_ch13_pt4.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 27090.3 -t 310.299999999999 -bitexact 073_ch13_pt5.wav
+"oggenc" "--title" "Chapter 13 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "073_ch13_pt5.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 27400.6 -t 437 -bitexact 074_ch13_pt6.wav
+"oggenc" "--title" "Chapter 13 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "074_ch13_pt6.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 27837.6 -t 541.600000000002 -bitexact 075_ch13_pt7.wav
+"oggenc" "--title" "Chapter 13 - pt7" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "075_ch13_pt7.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 28379.2 -t 310.200000000001 -bitexact 076_ch14_pt1.wav
+"oggenc" "--title" "Chapter 14 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "076_ch14_pt1.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 28689.4 -t 539.5 -bitexact 077_ch14_pt2.wav
+"oggenc" "--title" "Chapter 14 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "077_ch14_pt2.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 29228.9 -t 310.099999999999 -bitexact 078_ch14_pt3.wav
+"oggenc" "--title" "Chapter 14 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "078_ch14_pt3.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 29539 -t 314.200000000001 -bitexact 079_ch14_pt4.wav
+"oggenc" "--title" "Chapter 14 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "079_ch14_pt4.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 29853.2 -t 342.099999999999 -bitexact 080_ch14_pt5.wav
+"oggenc" "--title" "Chapter 14 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "080_ch14_pt5.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 30195.3 -t 322.299999999999 -bitexact 081_ch14_pt6.wav
+"oggenc" "--title" "Chapter 14 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "081_ch14_pt6.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 30517.6 -t 400.300000000003 -bitexact 082_ch14_pt7.wav
+"oggenc" "--title" "Chapter 14 - pt7" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "082_ch14_pt7.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 30917.9 -t 351.799999999999 -bitexact 083_ch15_pt1.wav
+"oggenc" "--title" "Chapter 15 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "083_ch15_pt1.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 31269.7 -t 411.599999999999 -bitexact 084_ch15_pt2.wav
+"oggenc" "--title" "Chapter 15 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "084_ch15_pt2.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 31681.3 -t 422.799999999999 -bitexact 085_ch15_pt3.wav
+"oggenc" "--title" "Chapter 15 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "085_ch15_pt3.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 32104.1 -t 301.300000000003 -bitexact 086_ch15_pt4.wav
+"oggenc" "--title" "Chapter 15 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "086_ch15_pt4.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 32405.4 -t 317.299999999999 -bitexact 087_ch15_pt5.wav
+"oggenc" "--title" "Chapter 15 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "087_ch15_pt5.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 32722.7 -t 409.899999999998 -bitexact 088_ch15_pt6.wav
+"oggenc" "--title" "Chapter 15 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "088_ch15_pt6.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 33132.6 -t 407.700000000004 -bitexact 089_ch15_pt7.wav
+"oggenc" "--title" "Chapter 15 - pt7" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "089_ch15_pt7.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 33540.3 -t 312.199999999997 -bitexact 090_ch16_pt1.wav
+"oggenc" "--title" "Chapter 16 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "090_ch16_pt1.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 33852.5 -t 333.5 -bitexact 091_ch16_pt2.wav
+"oggenc" "--title" "Chapter 16 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "091_ch16_pt2.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 34186 -t 357.300000000003 -bitexact 092_ch16_pt3.wav
+"oggenc" "--title" "Chapter 16 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "092_ch16_pt3.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 34543.3 -t 337.799999999996 -bitexact 093_ch16_pt4.wav
+"oggenc" "--title" "Chapter 16 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "093_ch16_pt4.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 34881.1 -t 370.099999999999 -bitexact 094_ch16_pt5.wav
+"oggenc" "--title" "Chapter 16 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "094_ch16_pt5.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 35251.2 -t 546.700000000004 -bitexact 095_ch16_pt6.wav
+"oggenc" "--title" "Chapter 16 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "095_ch16_pt6.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 35797.9 -t 610.400000000001 -bitexact 096_ch16_pt7.wav
+"oggenc" "--title" "Chapter 16 - pt7" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "096_ch16_pt7.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 36408.3 -t 347.799999999996 -bitexact 097_ch17_pt1.wav
+"oggenc" "--title" "Chapter 17 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "097_ch17_pt1.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 36756.1 -t 558.800000000003 -bitexact 098_ch17_pt2.wav
+"oggenc" "--title" "Chapter 17 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "098_ch17_pt2.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 37314.9 -t 313.5 -bitexact 099_ch17_pt3.wav
+"oggenc" "--title" "Chapter 17 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "099_ch17_pt3.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 37628.4 -t 427.699999999997 -bitexact 100_ch17_pt4.wav
+"oggenc" "--title" "Chapter 17 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "100_ch17_pt4.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 38056.1 -t 323.300000000003 -bitexact 101_ch17_pt5.wav
+"oggenc" "--title" "Chapter 17 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "101_ch17_pt5.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 38379.4 -t 357 -bitexact 102_ch17_pt6.wav
+"oggenc" "--title" "Chapter 17 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "102_ch17_pt6.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 38736.4 -t 301.5 -bitexact 103_ch17_pt7.wav
+"oggenc" "--title" "Chapter 17 - pt7" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "103_ch17_pt7.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 39037.9 -t 383 -bitexact 104_ch17_pt8.wav
+"oggenc" "--title" "Chapter 17 - pt8" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "104_ch17_pt8.wav"
+ffmpeg -i googleplay_the_vor_game.m4a.orig -ss 39420.9 -t 319.650000000001 -bitexact 105_ch17_pt9.wav
+"oggenc" "--title" "Chapter 17 - pt9" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Vor Game" "105_ch17_pt9.wav"
