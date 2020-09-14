@@ -1,0 +1,72 @@
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 0 -t 412.923 -bitexact 01_authors_note_pt1.wav
+"oggenc" "--title" "Author's Note - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "01_authors_note_pt1.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 412.923 -t 332.728 -bitexact 02_barter_pt1.wav
+"oggenc" "--title" "Barter - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "02_barter_pt1.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 745.651 -t 349.909 -bitexact 03_barter_pt2.wav
+"oggenc" "--title" "Barter - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "03_barter_pt2.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 1095.56 -t 336.63 -bitexact 04_barter_pt3.wav
+"oggenc" "--title" "Barter - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "04_barter_pt3.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 1432.19 -t 422 -bitexact 05_barter_pt4.wav
+"oggenc" "--title" "Barter - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "05_barter_pt4.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 1854.19 -t 374.32 -bitexact 06_garage_sale_pt1.wav
+"oggenc" "--title" "Garage Sale - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "06_garage_sale_pt1.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 2228.51 -t 349.6 -bitexact 07_garage_sale_pt2.wav
+"oggenc" "--title" "Garage Sale - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "07_garage_sale_pt2.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 2578.11 -t 342.29 -bitexact 08_garage_sale_pt3.wav
+"oggenc" "--title" "Garage Sale - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "08_garage_sale_pt3.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 2920.4 -t 300.76 -bitexact 09_the_hole_truth_pt1.wav
+"oggenc" "--title" "The Hole Truth - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "09_the_hole_truth_pt1.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 3221.16 -t 414.18 -bitexact 10_the_hole_truth_pt2.wav
+"oggenc" "--title" "The Hole Truth - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "10_the_hole_truth_pt2.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 3635.34 -t 340 -bitexact 11_the_hole_truth_pt3.wav
+"oggenc" "--title" "The Hole Truth - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "11_the_hole_truth_pt3.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 3975.34 -t 311.86 -bitexact 12_the_hole_truth_pt4.wav
+"oggenc" "--title" "The Hole Truth - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "12_the_hole_truth_pt4.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 4287.2 -t 399.360000000001 -bitexact 13_the_hole_truth_pt5.wav
+"oggenc" "--title" "The Hole Truth - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "13_the_hole_truth_pt5.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 4686.56 -t 375.049999999999 -bitexact 14_dreamweavers_dilemma_part1_pt1.wav
+"oggenc" "--title" "Dreamweaver's Dilemma Part1 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "14_dreamweavers_dilemma_part1_pt1.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 5061.61 -t 300.52 -bitexact 15_dreamweavers_dilemma_part1_pt2.wav
+"oggenc" "--title" "Dreamweaver's Dilemma Part1 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "15_dreamweavers_dilemma_part1_pt2.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 5362.13 -t 326.93 -bitexact 16_dreamweavers_dilemma_part1_pt3.wav
+"oggenc" "--title" "Dreamweaver's Dilemma Part1 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "16_dreamweavers_dilemma_part1_pt3.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 5689.06 -t 305.29 -bitexact 17_dreamweavers_dilemma_part1_pt4.wav
+"oggenc" "--title" "Dreamweaver's Dilemma Part1 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "17_dreamweavers_dilemma_part1_pt4.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 5994.35 -t 302.9 -bitexact 18_dreamweavers_dilemma_part1_pt5.wav
+"oggenc" "--title" "Dreamweaver's Dilemma Part1 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "18_dreamweavers_dilemma_part1_pt5.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 6297.25 -t 431.62 -bitexact 19_dreamweavers_dilemma_part1_pt6.wav
+"oggenc" "--title" "Dreamweaver's Dilemma Part1 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "19_dreamweavers_dilemma_part1_pt6.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 6728.87 -t 327.51 -bitexact 20_dreamweavers_dilemma_part1_pt7.wav
+"oggenc" "--title" "Dreamweaver's Dilemma Part1 - pt7" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "20_dreamweavers_dilemma_part1_pt7.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 7056.38 -t 371.099999999999 -bitexact 21_dreamweavers_dilemma_part1_pt8.wav
+"oggenc" "--title" "Dreamweaver's Dilemma Part1 - pt8" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "21_dreamweavers_dilemma_part1_pt8.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 7427.48 -t 658.580000000001 -bitexact 22_dreamweavers_dilemma_part1_pt9.wav
+"oggenc" "--title" "Dreamweaver's Dilemma Part1 - pt9" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "22_dreamweavers_dilemma_part1_pt9.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 8086.06 -t 402.56 -bitexact 23_dreamweavers_dilemma_part2_pt1.wav
+"oggenc" "--title" "Dreamweaver's Dilemma Part2 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "23_dreamweavers_dilemma_part2_pt1.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 8488.62 -t 302.49 -bitexact 24_dreamweavers_dilemma_part2_pt2.wav
+"oggenc" "--title" "Dreamweaver's Dilemma Part2 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "24_dreamweavers_dilemma_part2_pt2.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 8791.11 -t 320 -bitexact 25_dreamweavers_dilemma_part2_pt3.wav
+"oggenc" "--title" "Dreamweaver's Dilemma Part2 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "25_dreamweavers_dilemma_part2_pt3.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 9111.11 -t 333.82 -bitexact 26_dreamweavers_dilemma_part2_pt4.wav
+"oggenc" "--title" "Dreamweaver's Dilemma Part2 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "26_dreamweavers_dilemma_part2_pt4.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 9444.93 -t 312.190000000001 -bitexact 27_dreamweavers_dilemma_part2_pt5.wav
+"oggenc" "--title" "Dreamweaver's Dilemma Part2 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "27_dreamweavers_dilemma_part2_pt5.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 9757.12 -t 387.58 -bitexact 28_dreamweavers_dilemma_part2_pt6.wav
+"oggenc" "--title" "Dreamweaver's Dilemma Part2 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "28_dreamweavers_dilemma_part2_pt6.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 10144.7 -t 320.699999999999 -bitexact 29_dreamweavers_dilemma_part2_pt7.wav
+"oggenc" "--title" "Dreamweaver's Dilemma Part2 - pt7" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "29_dreamweavers_dilemma_part2_pt7.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 10465.4 -t 337.4 -bitexact 30_dreamweavers_dilemma_part2_pt8.wav
+"oggenc" "--title" "Dreamweaver's Dilemma Part2 - pt8" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "30_dreamweavers_dilemma_part2_pt8.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 10802.8 -t 547 -bitexact 31_dreamweavers_dilemma_part2_pt9.wav
+"oggenc" "--title" "Dreamweaver's Dilemma Part2 - pt9" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "31_dreamweavers_dilemma_part2_pt9.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 11349.8 -t 345.900000000001 -bitexact 32_aftermaths_pt1.wav
+"oggenc" "--title" "Aftermaths - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "32_aftermaths_pt1.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 11695.7 -t 314.099999999999 -bitexact 33_aftermaths_pt2.wav
+"oggenc" "--title" "Aftermaths - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "33_aftermaths_pt2.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 12009.8 -t 382.300000000001 -bitexact 34_aftermaths_pt3.wav
+"oggenc" "--title" "Aftermaths - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "34_aftermaths_pt3.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 12392.1 -t 302.199999999999 -bitexact 35_aftermaths_pt4.wav
+"oggenc" "--title" "Aftermaths - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "35_aftermaths_pt4.wav"
+ffmpeg -i googleplay_proto_zoa.m4a.orig -ss 12694.3 -t 347.540000000001 -bitexact 36_aftermaths_pt5.wav
+"oggenc" "--title" "Aftermaths - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Proto Zoa" "36_aftermaths_pt5.wav"
