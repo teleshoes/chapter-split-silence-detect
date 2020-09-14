@@ -1,0 +1,148 @@
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 0 -t 476.859 -bitexact 01_ch01_pt1.wav
+"oggenc" "--title" "Chapter 01 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "01_ch01_pt1.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 476.859 -t 463.771 -bitexact 02_ch01_pt2.wav
+"oggenc" "--title" "Chapter 01 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "02_ch01_pt2.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 940.63 -t 915.15 -bitexact 03_ch01_pt3.wav
+"oggenc" "--title" "Chapter 01 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "03_ch01_pt3.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 1855.78 -t 311.17 -bitexact 04_ch02_pt1.wav
+"oggenc" "--title" "Chapter 02 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "04_ch02_pt1.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 2166.95 -t 772.65 -bitexact 05_ch02_pt2.wav
+"oggenc" "--title" "Chapter 02 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "05_ch02_pt2.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 2939.6 -t 321.07 -bitexact 06_ch02_pt3.wav
+"oggenc" "--title" "Chapter 02 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "06_ch02_pt3.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 3260.67 -t 540.75 -bitexact 07_ch02_pt4.wav
+"oggenc" "--title" "Chapter 02 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "07_ch02_pt4.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 3801.42 -t 471.33 -bitexact 08_ch02_pt5.wav
+"oggenc" "--title" "Chapter 02 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "08_ch02_pt5.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 4272.75 -t 604.2 -bitexact 09_ch03_pt1.wav
+"oggenc" "--title" "Chapter 03 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "09_ch03_pt1.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 4876.95 -t 789.24 -bitexact 10_ch03_pt2.wav
+"oggenc" "--title" "Chapter 03 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "10_ch03_pt2.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 5666.19 -t 350.610000000001 -bitexact 11_ch03_pt3.wav
+"oggenc" "--title" "Chapter 03 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "11_ch03_pt3.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 6016.8 -t 357.92 -bitexact 12_ch04_pt1.wav
+"oggenc" "--title" "Chapter 04 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "12_ch04_pt1.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 6374.72 -t 465.69 -bitexact 13_ch04_pt2.wav
+"oggenc" "--title" "Chapter 04 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "13_ch04_pt2.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 6840.41 -t 954.12 -bitexact 14_ch04_pt3.wav
+"oggenc" "--title" "Chapter 04 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "14_ch04_pt3.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 7794.53 -t 405.77 -bitexact 15_ch05_pt1.wav
+"oggenc" "--title" "Chapter 05 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "15_ch05_pt1.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 8200.3 -t 458.310000000001 -bitexact 16_ch05_pt2.wav
+"oggenc" "--title" "Chapter 05 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "16_ch05_pt2.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 8658.61 -t 351.879999999999 -bitexact 17_ch05_pt3.wav
+"oggenc" "--title" "Chapter 05 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "17_ch05_pt3.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 9010.49 -t 649.91 -bitexact 18_ch05_pt4.wav
+"oggenc" "--title" "Chapter 05 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "18_ch05_pt4.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 9660.4 -t 372.4 -bitexact 19_ch06_pt1.wav
+"oggenc" "--title" "Chapter 06 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "19_ch06_pt1.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 10032.8 -t 302.200000000001 -bitexact 20_ch06_pt2.wav
+"oggenc" "--title" "Chapter 06 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "20_ch06_pt2.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 10335 -t 302.5 -bitexact 21_ch06_pt3.wav
+"oggenc" "--title" "Chapter 06 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "21_ch06_pt3.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 10637.5 -t 488.200000000001 -bitexact 22_ch06_pt4.wav
+"oggenc" "--title" "Chapter 06 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "22_ch06_pt4.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 11125.7 -t 497.799999999999 -bitexact 23_ch06_pt5.wav
+"oggenc" "--title" "Chapter 06 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "23_ch06_pt5.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 11623.5 -t 411.5 -bitexact 24_ch07_pt1.wav
+"oggenc" "--title" "Chapter 07 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "24_ch07_pt1.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 12035 -t 419.4 -bitexact 25_ch07_pt2.wav
+"oggenc" "--title" "Chapter 07 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "25_ch07_pt2.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 12454.4 -t 347.5 -bitexact 26_ch07_pt3.wav
+"oggenc" "--title" "Chapter 07 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "26_ch07_pt3.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 12801.9 -t 422.1 -bitexact 27_ch07_pt4.wav
+"oggenc" "--title" "Chapter 07 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "27_ch07_pt4.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 13224 -t 505.4 -bitexact 28_ch07_pt5.wav
+"oggenc" "--title" "Chapter 07 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "28_ch07_pt5.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 13729.4 -t 766.800000000001 -bitexact 29_ch08_pt1.wav
+"oggenc" "--title" "Chapter 08 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "29_ch08_pt1.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 14496.2 -t 310.299999999999 -bitexact 30_ch08_pt2.wav
+"oggenc" "--title" "Chapter 08 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "30_ch08_pt2.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 14806.5 -t 369.700000000001 -bitexact 31_ch08_pt3.wav
+"oggenc" "--title" "Chapter 08 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "31_ch08_pt3.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 15176.2 -t 564.599999999999 -bitexact 32_ch08_pt4.wav
+"oggenc" "--title" "Chapter 08 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "32_ch08_pt4.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 15740.8 -t 313.800000000001 -bitexact 33_ch09_pt1.wav
+"oggenc" "--title" "Chapter 09 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "33_ch09_pt1.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 16054.6 -t 317.199999999999 -bitexact 34_ch09_pt2.wav
+"oggenc" "--title" "Chapter 09 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "34_ch09_pt2.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 16371.8 -t 301.600000000002 -bitexact 35_ch09_pt3.wav
+"oggenc" "--title" "Chapter 09 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "35_ch09_pt3.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 16673.4 -t 394.799999999999 -bitexact 36_ch09_pt4.wav
+"oggenc" "--title" "Chapter 09 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "36_ch09_pt4.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 17068.2 -t 465.599999999999 -bitexact 37_ch09_pt5.wav
+"oggenc" "--title" "Chapter 09 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "37_ch09_pt5.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 17533.8 -t 338.700000000001 -bitexact 38_ch10_pt1.wav
+"oggenc" "--title" "Chapter 10 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "38_ch10_pt1.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 17872.5 -t 359.200000000001 -bitexact 39_ch10_pt2.wav
+"oggenc" "--title" "Chapter 10 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "39_ch10_pt2.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 18231.7 -t 448 -bitexact 40_ch10_pt3.wav
+"oggenc" "--title" "Chapter 10 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "40_ch10_pt3.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 18679.7 -t 465.200000000001 -bitexact 41_ch10_pt4.wav
+"oggenc" "--title" "Chapter 10 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "41_ch10_pt4.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 19144.9 -t 381 -bitexact 42_ch10_pt5.wav
+"oggenc" "--title" "Chapter 10 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "42_ch10_pt5.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 19525.9 -t 396.199999999997 -bitexact 43_ch10_pt6.wav
+"oggenc" "--title" "Chapter 10 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "43_ch10_pt6.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 19922.1 -t 453.600000000002 -bitexact 44_ch11_pt1.wav
+"oggenc" "--title" "Chapter 11 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "44_ch11_pt1.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 20375.7 -t 351.299999999999 -bitexact 45_ch11_pt2.wav
+"oggenc" "--title" "Chapter 11 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "45_ch11_pt2.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 20727 -t 316.599999999999 -bitexact 46_ch11_pt3.wav
+"oggenc" "--title" "Chapter 11 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "46_ch11_pt3.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 21043.6 -t 380.600000000002 -bitexact 47_ch11_pt4.wav
+"oggenc" "--title" "Chapter 11 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "47_ch11_pt4.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 21424.2 -t 317.899999999998 -bitexact 48_ch11_pt5.wav
+"oggenc" "--title" "Chapter 11 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "48_ch11_pt5.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 21742.1 -t 355.900000000001 -bitexact 49_ch11_pt6.wav
+"oggenc" "--title" "Chapter 11 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "49_ch11_pt6.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 22098 -t 412.599999999999 -bitexact 50_ch12_pt1.wav
+"oggenc" "--title" "Chapter 12 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "50_ch12_pt1.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 22510.6 -t 310.800000000003 -bitexact 51_ch12_pt2.wav
+"oggenc" "--title" "Chapter 12 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "51_ch12_pt2.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 22821.4 -t 350 -bitexact 52_ch12_pt3.wav
+"oggenc" "--title" "Chapter 12 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "52_ch12_pt3.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 23171.4 -t 325.799999999999 -bitexact 53_ch12_pt4.wav
+"oggenc" "--title" "Chapter 12 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "53_ch12_pt4.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 23497.2 -t 307.399999999998 -bitexact 54_ch12_pt5.wav
+"oggenc" "--title" "Chapter 12 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "54_ch12_pt5.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 23804.6 -t 702.700000000001 -bitexact 55_ch12_pt6.wav
+"oggenc" "--title" "Chapter 12 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "55_ch12_pt6.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 24507.3 -t 361.200000000001 -bitexact 56_ch13_pt1.wav
+"oggenc" "--title" "Chapter 13 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "56_ch13_pt1.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 24868.5 -t 314.400000000001 -bitexact 57_ch13_pt2.wav
+"oggenc" "--title" "Chapter 13 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "57_ch13_pt2.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 25182.9 -t 1369.9 -bitexact 58_ch13_pt3.wav
+"oggenc" "--title" "Chapter 13 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "58_ch13_pt3.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 26552.8 -t 373 -bitexact 59_ch14_pt1.wav
+"oggenc" "--title" "Chapter 14 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "59_ch14_pt1.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 26925.8 -t 531.200000000001 -bitexact 60_ch14_pt2.wav
+"oggenc" "--title" "Chapter 14 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "60_ch14_pt2.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 27457 -t 536.900000000001 -bitexact 61_ch14_pt3.wav
+"oggenc" "--title" "Chapter 14 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "61_ch14_pt3.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 27993.9 -t 532.699999999997 -bitexact 62_ch14_pt4.wav
+"oggenc" "--title" "Chapter 14 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "62_ch14_pt4.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 28526.6 -t 559.300000000003 -bitexact 63_ch14_pt5.wav
+"oggenc" "--title" "Chapter 14 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "63_ch14_pt5.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 29085.9 -t 455.5 -bitexact 64_ch15_pt1.wav
+"oggenc" "--title" "Chapter 15 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "64_ch15_pt1.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 29541.4 -t 350.799999999999 -bitexact 65_ch15_pt2.wav
+"oggenc" "--title" "Chapter 15 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "65_ch15_pt2.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 29892.2 -t 326.200000000001 -bitexact 66_ch15_pt3.wav
+"oggenc" "--title" "Chapter 15 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "66_ch15_pt3.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 30218.4 -t 301.399999999998 -bitexact 67_ch15_pt4.wav
+"oggenc" "--title" "Chapter 15 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "67_ch15_pt4.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 30519.8 -t 311.299999999999 -bitexact 68_ch15_pt5.wav
+"oggenc" "--title" "Chapter 15 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "68_ch15_pt5.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 30831.1 -t 520.100000000002 -bitexact 69_ch15_pt6.wav
+"oggenc" "--title" "Chapter 15 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "69_ch15_pt6.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 31351.2 -t 335.399999999998 -bitexact 70_ch16_pt1.wav
+"oggenc" "--title" "Chapter 16 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "70_ch16_pt1.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 31686.6 -t 499.600000000002 -bitexact 71_ch16_pt2.wav
+"oggenc" "--title" "Chapter 16 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "71_ch16_pt2.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 32186.2 -t 504.299999999999 -bitexact 72_ch16_pt3.wav
+"oggenc" "--title" "Chapter 16 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "72_ch16_pt3.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 32690.5 -t 443.400000000001 -bitexact 73_ch16_pt4.wav
+"oggenc" "--title" "Chapter 16 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "73_ch16_pt4.wav"
+ffmpeg -i googleplay_cetaganda.m4a.orig -ss 33133.9 -t 348.18 -bitexact 74_ch16_pt5.wav
+"oggenc" "--title" "Chapter 16 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cetaganda" "74_ch16_pt5.wav"
