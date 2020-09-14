@@ -1,0 +1,168 @@
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 0 -t 387.851 -bitexact 01_ch01_pt1.wav
+"oggenc" "--title" "Chapter 01 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "01_ch01_pt1.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 387.851 -t 359.53 -bitexact 02_ch01_pt2.wav
+"oggenc" "--title" "Chapter 01 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "02_ch01_pt2.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 747.381 -t 457.759 -bitexact 03_ch01_pt3.wav
+"oggenc" "--title" "Chapter 01 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "03_ch01_pt3.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 1205.14 -t 393.33 -bitexact 04_ch01_pt4.wav
+"oggenc" "--title" "Chapter 01 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "04_ch01_pt4.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 1598.47 -t 394.55 -bitexact 05_ch01_pt5.wav
+"oggenc" "--title" "Chapter 01 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "05_ch01_pt5.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 1993.02 -t 589.38 -bitexact 06_ch01_pt6.wav
+"oggenc" "--title" "Chapter 01 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "06_ch01_pt6.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 2582.4 -t 464.1 -bitexact 07_ch02_pt1.wav
+"oggenc" "--title" "Chapter 02 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "07_ch02_pt1.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 3046.5 -t 339.45 -bitexact 08_ch02_pt2.wav
+"oggenc" "--title" "Chapter 02 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "08_ch02_pt2.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 3385.95 -t 469.76 -bitexact 09_ch02_pt3.wav
+"oggenc" "--title" "Chapter 02 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "09_ch02_pt3.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 3855.71 -t 421.83 -bitexact 10_ch02_pt4.wav
+"oggenc" "--title" "Chapter 02 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "10_ch02_pt4.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 4277.54 -t 427.34 -bitexact 11_ch02_pt5.wav
+"oggenc" "--title" "Chapter 02 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "11_ch02_pt5.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 4704.88 -t 405.14 -bitexact 12_ch03_pt1.wav
+"oggenc" "--title" "Chapter 03 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "12_ch03_pt1.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 5110.02 -t 404.509999999999 -bitexact 13_ch03_pt2.wav
+"oggenc" "--title" "Chapter 03 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "13_ch03_pt2.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 5514.53 -t 491.6 -bitexact 14_ch03_pt3.wav
+"oggenc" "--title" "Chapter 03 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "14_ch03_pt3.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 6006.13 -t 354.46 -bitexact 15_ch03_pt4.wav
+"oggenc" "--title" "Chapter 03 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "15_ch03_pt4.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 6360.59 -t 336.98 -bitexact 16_ch03_pt5.wav
+"oggenc" "--title" "Chapter 03 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "16_ch03_pt5.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 6697.57 -t 385.14 -bitexact 17_ch04_pt1.wav
+"oggenc" "--title" "Chapter 04 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "17_ch04_pt1.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 7082.71 -t 387.7 -bitexact 18_ch04_pt2.wav
+"oggenc" "--title" "Chapter 04 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "18_ch04_pt2.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 7470.41 -t 322.900000000001 -bitexact 19_ch04_pt3.wav
+"oggenc" "--title" "Chapter 04 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "19_ch04_pt3.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 7793.31 -t 430.569999999999 -bitexact 20_ch04_pt4.wav
+"oggenc" "--title" "Chapter 04 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "20_ch04_pt4.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 8223.88 -t 761.610000000001 -bitexact 21_ch04_pt5.wav
+"oggenc" "--title" "Chapter 04 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "21_ch04_pt5.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 8985.49 -t 359.9 -bitexact 22_ch05_pt1.wav
+"oggenc" "--title" "Chapter 05 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "22_ch05_pt1.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 9345.39 -t 1091.01 -bitexact 23_ch05_pt2.wav
+"oggenc" "--title" "Chapter 05 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "23_ch05_pt2.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 10436.4 -t 518.4 -bitexact 24_ch05_pt3.wav
+"oggenc" "--title" "Chapter 05 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "24_ch05_pt3.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 10954.8 -t 363.5 -bitexact 25_ch06_pt1.wav
+"oggenc" "--title" "Chapter 06 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "25_ch06_pt1.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 11318.3 -t 414.5 -bitexact 26_ch06_pt2.wav
+"oggenc" "--title" "Chapter 06 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "26_ch06_pt2.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 11732.8 -t 324.900000000001 -bitexact 27_ch06_pt3.wav
+"oggenc" "--title" "Chapter 06 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "27_ch06_pt3.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 12057.7 -t 424.299999999999 -bitexact 28_ch06_pt4.wav
+"oggenc" "--title" "Chapter 06 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "28_ch06_pt4.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 12482 -t 482.1 -bitexact 29_ch06_pt5.wav
+"oggenc" "--title" "Chapter 06 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "29_ch06_pt5.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 12964.1 -t 580 -bitexact 30_ch07_pt1.wav
+"oggenc" "--title" "Chapter 07 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "30_ch07_pt1.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 13544.1 -t 376.9 -bitexact 31_ch07_pt2.wav
+"oggenc" "--title" "Chapter 07 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "31_ch07_pt2.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 13921 -t 397 -bitexact 32_ch07_pt3.wav
+"oggenc" "--title" "Chapter 07 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "32_ch07_pt3.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 14318 -t 303.9 -bitexact 33_ch07_pt4.wav
+"oggenc" "--title" "Chapter 07 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "33_ch07_pt4.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 14621.9 -t 342.1 -bitexact 34_ch07_pt5.wav
+"oggenc" "--title" "Chapter 07 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "34_ch07_pt5.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 14964 -t 355.299999999999 -bitexact 35_ch07_pt6.wav
+"oggenc" "--title" "Chapter 07 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "35_ch07_pt6.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 15319.3 -t 630.800000000001 -bitexact 36_ch08_pt1.wav
+"oggenc" "--title" "Chapter 08 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "36_ch08_pt1.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 15950.1 -t 310 -bitexact 37_ch08_pt2.wav
+"oggenc" "--title" "Chapter 08 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "37_ch08_pt2.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 16260.1 -t 374.800000000001 -bitexact 38_ch08_pt3.wav
+"oggenc" "--title" "Chapter 08 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "38_ch08_pt3.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 16634.9 -t 460.899999999998 -bitexact 39_ch08_pt4.wav
+"oggenc" "--title" "Chapter 08 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "39_ch08_pt4.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 17095.8 -t 414.100000000002 -bitexact 40_ch09_pt1.wav
+"oggenc" "--title" "Chapter 09 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "40_ch09_pt1.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 17509.9 -t 474.5 -bitexact 41_ch09_pt2.wav
+"oggenc" "--title" "Chapter 09 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "41_ch09_pt2.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 17984.4 -t 394.199999999997 -bitexact 42_ch09_pt3.wav
+"oggenc" "--title" "Chapter 09 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "42_ch09_pt3.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 18378.6 -t 564.900000000001 -bitexact 43_ch09_pt4.wav
+"oggenc" "--title" "Chapter 09 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "43_ch09_pt4.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 18943.5 -t 551.099999999999 -bitexact 44_ch09_pt5.wav
+"oggenc" "--title" "Chapter 09 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "44_ch09_pt5.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 19494.6 -t 364.700000000001 -bitexact 45_ch10_pt1.wav
+"oggenc" "--title" "Chapter 10 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "45_ch10_pt1.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 19859.3 -t 414.900000000001 -bitexact 46_ch10_pt2.wav
+"oggenc" "--title" "Chapter 10 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "46_ch10_pt2.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 20274.2 -t 304.200000000001 -bitexact 47_ch10_pt3.wav
+"oggenc" "--title" "Chapter 10 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "47_ch10_pt3.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 20578.4 -t 894.099999999999 -bitexact 48_ch10_pt4.wav
+"oggenc" "--title" "Chapter 10 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "48_ch10_pt4.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 21472.5 -t 466.5 -bitexact 49_ch11_pt1.wav
+"oggenc" "--title" "Chapter 11 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "49_ch11_pt1.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 21939 -t 454.599999999999 -bitexact 50_ch11_pt2.wav
+"oggenc" "--title" "Chapter 11 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "50_ch11_pt2.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 22393.6 -t 555.100000000002 -bitexact 51_ch11_pt3.wav
+"oggenc" "--title" "Chapter 11 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "51_ch11_pt3.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 22948.7 -t 499.200000000001 -bitexact 52_ch11_pt4.wav
+"oggenc" "--title" "Chapter 11 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "52_ch11_pt4.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 23447.9 -t 343.899999999998 -bitexact 53_ch12_pt1.wav
+"oggenc" "--title" "Chapter 12 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "53_ch12_pt1.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 23791.8 -t 327.200000000001 -bitexact 54_ch12_pt2.wav
+"oggenc" "--title" "Chapter 12 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "54_ch12_pt2.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 24119 -t 319.799999999999 -bitexact 55_ch12_pt3.wav
+"oggenc" "--title" "Chapter 12 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "55_ch12_pt3.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 24438.8 -t 306.600000000002 -bitexact 56_ch12_pt4.wav
+"oggenc" "--title" "Chapter 12 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "56_ch12_pt4.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 24745.4 -t 327.199999999997 -bitexact 57_ch12_pt5.wav
+"oggenc" "--title" "Chapter 12 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "57_ch12_pt5.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 25072.6 -t 301.800000000003 -bitexact 58_ch12_pt6.wav
+"oggenc" "--title" "Chapter 12 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "58_ch12_pt6.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 25374.4 -t 358.699999999997 -bitexact 59_ch12_pt7.wav
+"oggenc" "--title" "Chapter 12 - pt7" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "59_ch12_pt7.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 25733.1 -t 349.600000000002 -bitexact 60_ch13_pt1.wav
+"oggenc" "--title" "Chapter 13 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "60_ch13_pt1.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 26082.7 -t 343.700000000001 -bitexact 61_ch13_pt2.wav
+"oggenc" "--title" "Chapter 13 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "61_ch13_pt2.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 26426.4 -t 309.299999999999 -bitexact 62_ch13_pt3.wav
+"oggenc" "--title" "Chapter 13 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "62_ch13_pt3.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 26735.7 -t 684.899999999998 -bitexact 63_ch13_pt4.wav
+"oggenc" "--title" "Chapter 13 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "63_ch13_pt4.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 27420.6 -t 307.100000000002 -bitexact 64_ch13_pt5.wav
+"oggenc" "--title" "Chapter 13 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "64_ch13_pt5.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 27727.7 -t 462.599999999999 -bitexact 65_ch13_pt6.wav
+"oggenc" "--title" "Chapter 13 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "65_ch13_pt6.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 28190.3 -t 323.799999999999 -bitexact 66_ch14_pt1.wav
+"oggenc" "--title" "Chapter 14 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "66_ch14_pt1.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 28514.1 -t 303.100000000002 -bitexact 67_ch14_pt2.wav
+"oggenc" "--title" "Chapter 14 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "67_ch14_pt2.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 28817.2 -t 327.299999999999 -bitexact 68_ch14_pt3.wav
+"oggenc" "--title" "Chapter 14 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "68_ch14_pt3.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 29144.5 -t 415.200000000001 -bitexact 69_ch14_pt4.wav
+"oggenc" "--title" "Chapter 14 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "69_ch14_pt4.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 29559.7 -t 403.899999999998 -bitexact 70_ch14_pt5.wav
+"oggenc" "--title" "Chapter 14 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "70_ch14_pt5.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 29963.6 -t 356.800000000003 -bitexact 71_ch14_pt6.wav
+"oggenc" "--title" "Chapter 14 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "71_ch14_pt6.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 30320.4 -t 771.299999999999 -bitexact 72_ch14_pt7.wav
+"oggenc" "--title" "Chapter 14 - pt7" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "72_ch14_pt7.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 31091.7 -t 362 -bitexact 73_ch15_pt1.wav
+"oggenc" "--title" "Chapter 15 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "73_ch15_pt1.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 31453.7 -t 332.5 -bitexact 74_ch15_pt2.wav
+"oggenc" "--title" "Chapter 15 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "74_ch15_pt2.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 31786.2 -t 337.200000000001 -bitexact 75_ch15_pt3.wav
+"oggenc" "--title" "Chapter 15 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "75_ch15_pt3.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 32123.4 -t 355.199999999997 -bitexact 76_ch15_pt4.wav
+"oggenc" "--title" "Chapter 15 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "76_ch15_pt4.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 32478.6 -t 585.800000000003 -bitexact 77_ch15_pt5.wav
+"oggenc" "--title" "Chapter 15 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "77_ch15_pt5.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 33064.4 -t 324.699999999997 -bitexact 78_ch16_pt1.wav
+"oggenc" "--title" "Chapter 16 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "78_ch16_pt1.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 33389.1 -t 314.800000000003 -bitexact 79_ch16_pt2.wav
+"oggenc" "--title" "Chapter 16 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "79_ch16_pt2.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 33703.9 -t 344.599999999999 -bitexact 80_ch16_pt3.wav
+"oggenc" "--title" "Chapter 16 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "80_ch16_pt3.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 34048.5 -t 323 -bitexact 81_ch16_pt4.wav
+"oggenc" "--title" "Chapter 16 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "81_ch16_pt4.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 34371.5 -t 301.099999999999 -bitexact 82_ch16_pt5.wav
+"oggenc" "--title" "Chapter 16 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "82_ch16_pt5.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 34672.6 -t 436.5 -bitexact 83_ch16_pt6.wav
+"oggenc" "--title" "Chapter 16 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "83_ch16_pt6.wav"
+ffmpeg -i googleplay_brothers_in_arms.m4a.orig -ss 35109.1 -t 406.139999999999 -bitexact 84_ch16_pt7.wav
+"oggenc" "--title" "Chapter 16 - pt7" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Brothers in Arms" "84_ch16_pt7.wav"
