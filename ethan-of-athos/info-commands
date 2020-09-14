@@ -1,0 +1,102 @@
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 0 -t 302.861 -bitexact 01_ch01_pt1.wav
+"oggenc" "--title" "Chapter 01 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "01_ch01_pt1.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 302.861 -t 394.781 -bitexact 02_ch01_pt2.wav
+"oggenc" "--title" "Chapter 01 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "02_ch01_pt2.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 697.642 -t 443.158 -bitexact 03_ch01_pt3.wav
+"oggenc" "--title" "Chapter 01 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "03_ch01_pt3.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 1140.8 -t 706.54 -bitexact 04_ch01_pt4.wav
+"oggenc" "--title" "Chapter 01 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "04_ch01_pt4.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 1847.34 -t 608.66 -bitexact 05_ch02_pt1.wav
+"oggenc" "--title" "Chapter 02 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "05_ch02_pt1.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 2456 -t 621 -bitexact 06_ch02_pt2.wav
+"oggenc" "--title" "Chapter 02 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "06_ch02_pt2.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 3077 -t 560.93 -bitexact 07_ch02_pt3.wav
+"oggenc" "--title" "Chapter 02 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "07_ch02_pt3.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 3637.93 -t 758.4 -bitexact 08_ch03_pt1.wav
+"oggenc" "--title" "Chapter 03 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "08_ch03_pt1.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 4396.33 -t 1138.72 -bitexact 09_ch03_pt2.wav
+"oggenc" "--title" "Chapter 03 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "09_ch03_pt2.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 5535.05 -t 593.11 -bitexact 10_ch04_pt1.wav
+"oggenc" "--title" "Chapter 04 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "10_ch04_pt1.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 6128.16 -t 379.76 -bitexact 11_ch04_pt2.wav
+"oggenc" "--title" "Chapter 04 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "11_ch04_pt2.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 6507.92 -t 358.22 -bitexact 12_ch04_pt3.wav
+"oggenc" "--title" "Chapter 04 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "12_ch04_pt3.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 6866.14 -t 518.82 -bitexact 13_ch04_pt4.wav
+"oggenc" "--title" "Chapter 04 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "13_ch04_pt4.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 7384.96 -t 1369.38 -bitexact 14_ch05_pt1.wav
+"oggenc" "--title" "Chapter 05 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "14_ch05_pt1.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 8754.34 -t 450.23 -bitexact 15_ch05_pt2.wav
+"oggenc" "--title" "Chapter 05 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "15_ch05_pt2.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 9204.57 -t 517.450000000001 -bitexact 16_ch06_pt1.wav
+"oggenc" "--title" "Chapter 06 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "16_ch06_pt1.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 9722.02 -t 483.779999999999 -bitexact 17_ch06_pt2.wav
+"oggenc" "--title" "Chapter 06 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "17_ch06_pt2.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 10205.8 -t 436.5 -bitexact 18_ch06_pt3.wav
+"oggenc" "--title" "Chapter 06 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "18_ch06_pt3.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 10642.3 -t 331.900000000001 -bitexact 19_ch06_pt4.wav
+"oggenc" "--title" "Chapter 06 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "19_ch06_pt4.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 10974.2 -t 397.199999999999 -bitexact 20_ch07_pt1.wav
+"oggenc" "--title" "Chapter 07 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "20_ch07_pt1.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 11371.4 -t 518.4 -bitexact 21_ch07_pt2.wav
+"oggenc" "--title" "Chapter 07 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "21_ch07_pt2.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 11889.8 -t 682.900000000001 -bitexact 22_ch07_pt3.wav
+"oggenc" "--title" "Chapter 07 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "22_ch07_pt3.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 12572.7 -t 433.799999999999 -bitexact 23_ch08_pt1.wav
+"oggenc" "--title" "Chapter 08 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "23_ch08_pt1.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 13006.5 -t 485.4 -bitexact 24_ch08_pt2.wav
+"oggenc" "--title" "Chapter 08 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "24_ch08_pt2.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 13491.9 -t 373.700000000001 -bitexact 25_ch08_pt3.wav
+"oggenc" "--title" "Chapter 08 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "25_ch08_pt3.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 13865.6 -t 543.6 -bitexact 26_ch08_pt4.wav
+"oggenc" "--title" "Chapter 08 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "26_ch08_pt4.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 14409.2 -t 386.599999999999 -bitexact 27_ch09_pt1.wav
+"oggenc" "--title" "Chapter 09 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "27_ch09_pt1.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 14795.8 -t 365.300000000001 -bitexact 28_ch09_pt2.wav
+"oggenc" "--title" "Chapter 09 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "28_ch09_pt2.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 15161.1 -t 363.699999999999 -bitexact 29_ch09_pt3.wav
+"oggenc" "--title" "Chapter 09 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "29_ch09_pt3.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 15524.8 -t 372.1 -bitexact 30_ch09_pt4.wav
+"oggenc" "--title" "Chapter 09 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "30_ch09_pt4.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 15896.9 -t 314.6 -bitexact 31_ch10_pt1.wav
+"oggenc" "--title" "Chapter 10 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "31_ch10_pt1.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 16211.5 -t 300.200000000001 -bitexact 32_ch10_pt2.wav
+"oggenc" "--title" "Chapter 10 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "32_ch10_pt2.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 16511.7 -t 353.799999999999 -bitexact 33_ch10_pt3.wav
+"oggenc" "--title" "Chapter 10 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "33_ch10_pt3.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 16865.5 -t 338.400000000001 -bitexact 34_ch10_pt4.wav
+"oggenc" "--title" "Chapter 10 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "34_ch10_pt4.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 17203.9 -t 471.599999999999 -bitexact 35_ch10_pt5.wav
+"oggenc" "--title" "Chapter 10 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "35_ch10_pt5.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 17675.5 -t 308.400000000001 -bitexact 36_ch11_pt1.wav
+"oggenc" "--title" "Chapter 11 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "36_ch11_pt1.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 17983.9 -t 343.5 -bitexact 37_ch11_pt2.wav
+"oggenc" "--title" "Chapter 11 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "37_ch11_pt2.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 18327.4 -t 833.199999999997 -bitexact 38_ch11_pt3.wav
+"oggenc" "--title" "Chapter 11 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "38_ch11_pt3.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 19160.6 -t 488.300000000003 -bitexact 39_ch12_pt1.wav
+"oggenc" "--title" "Chapter 12 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "39_ch12_pt1.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 19648.9 -t 315.599999999999 -bitexact 40_ch12_pt2.wav
+"oggenc" "--title" "Chapter 12 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "40_ch12_pt2.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 19964.5 -t 425.299999999999 -bitexact 41_ch12_pt3.wav
+"oggenc" "--title" "Chapter 12 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "41_ch12_pt3.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 20389.8 -t 389.100000000002 -bitexact 42_ch12_pt4.wav
+"oggenc" "--title" "Chapter 12 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "42_ch12_pt4.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 20778.9 -t 442 -bitexact 43_ch13_pt1.wav
+"oggenc" "--title" "Chapter 13 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "43_ch13_pt1.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 21220.9 -t 912.899999999998 -bitexact 44_ch13_pt2.wav
+"oggenc" "--title" "Chapter 13 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "44_ch13_pt2.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 22133.8 -t 365 -bitexact 45_ch14_pt1.wav
+"oggenc" "--title" "Chapter 14 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "45_ch14_pt1.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 22498.8 -t 308.700000000001 -bitexact 46_ch14_pt2.wav
+"oggenc" "--title" "Chapter 14 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "46_ch14_pt2.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 22807.5 -t 609.099999999999 -bitexact 47_ch14_pt3.wav
+"oggenc" "--title" "Chapter 14 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "47_ch14_pt3.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 23416.6 -t 540.400000000001 -bitexact 48_ch14_pt4.wav
+"oggenc" "--title" "Chapter 14 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "48_ch14_pt4.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 23957 -t 305.5 -bitexact 49_ch15_pt1.wav
+"oggenc" "--title" "Chapter 15 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "49_ch15_pt1.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 24262.5 -t 314.700000000001 -bitexact 50_ch15_pt2.wav
+"oggenc" "--title" "Chapter 15 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "50_ch15_pt2.wav"
+ffmpeg -i googleplay_ethan_of_athos.m4a.orig -ss 24577.2 -t 342.959999999999 -bitexact 51_ch15_pt3.wav
+"oggenc" "--title" "Chapter 15 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Ethan of Athos" "51_ch15_pt3.wav"
