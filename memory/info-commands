@@ -1,0 +1,242 @@
+ffmpeg -i googleplay_memory.m4a.orig -ss 0 -t 708.089 -bitexact 001_ch01_pt1.wav
+"oggenc" "--title" "Chapter 01 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "001_ch01_pt1.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 708.089 -t 615.711 -bitexact 002_ch01_pt2.wav
+"oggenc" "--title" "Chapter 01 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "002_ch01_pt2.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 1323.8 -t 312.35 -bitexact 003_ch02_pt1.wav
+"oggenc" "--title" "Chapter 02 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "003_ch02_pt1.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 1636.15 -t 373.98 -bitexact 004_ch02_pt2.wav
+"oggenc" "--title" "Chapter 02 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "004_ch02_pt2.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 2010.13 -t 318.02 -bitexact 005_ch02_pt3.wav
+"oggenc" "--title" "Chapter 02 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "005_ch02_pt3.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 2328.15 -t 872.27 -bitexact 006_ch02_pt4.wav
+"oggenc" "--title" "Chapter 02 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "006_ch02_pt4.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 3200.42 -t 394.55 -bitexact 007_ch03_pt1.wav
+"oggenc" "--title" "Chapter 03 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "007_ch03_pt1.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 3594.97 -t 301.67 -bitexact 008_ch03_pt2.wav
+"oggenc" "--title" "Chapter 03 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "008_ch03_pt2.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 3896.64 -t 401.31 -bitexact 009_ch03_pt3.wav
+"oggenc" "--title" "Chapter 03 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "009_ch03_pt3.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 4297.95 -t 388.6 -bitexact 010_ch03_pt4.wav
+"oggenc" "--title" "Chapter 03 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "010_ch03_pt4.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 4686.55 -t 346.97 -bitexact 011_ch04_pt1.wav
+"oggenc" "--title" "Chapter 04 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "011_ch04_pt1.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 5033.52 -t 428.059999999999 -bitexact 012_ch04_pt2.wav
+"oggenc" "--title" "Chapter 04 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "012_ch04_pt2.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 5461.58 -t 391.7 -bitexact 013_ch04_pt3.wav
+"oggenc" "--title" "Chapter 04 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "013_ch04_pt3.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 5853.28 -t 342.070000000001 -bitexact 014_ch04_pt4.wav
+"oggenc" "--title" "Chapter 04 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "014_ch04_pt4.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 6195.35 -t 655.509999999999 -bitexact 015_ch04_pt5.wav
+"oggenc" "--title" "Chapter 04 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "015_ch04_pt5.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 6850.86 -t 342.31 -bitexact 016_ch05_pt1.wav
+"oggenc" "--title" "Chapter 05 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "016_ch05_pt1.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 7193.17 -t 626.309999999999 -bitexact 017_ch05_pt2.wav
+"oggenc" "--title" "Chapter 05 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "017_ch05_pt2.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 7819.48 -t 317.910000000001 -bitexact 018_ch05_pt3.wav
+"oggenc" "--title" "Chapter 05 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "018_ch05_pt3.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 8137.39 -t 789.62 -bitexact 019_ch05_pt4.wav
+"oggenc" "--title" "Chapter 05 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "019_ch05_pt4.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 8927.01 -t 350.539999999999 -bitexact 020_ch06_pt1.wav
+"oggenc" "--title" "Chapter 06 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "020_ch06_pt1.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 9277.55 -t 463.43 -bitexact 021_ch06_pt2.wav
+"oggenc" "--title" "Chapter 06 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "021_ch06_pt2.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 9740.98 -t 331.32 -bitexact 022_ch06_pt3.wav
+"oggenc" "--title" "Chapter 06 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "022_ch06_pt3.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 10072.3 -t 535.800000000001 -bitexact 023_ch06_pt4.wav
+"oggenc" "--title" "Chapter 06 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "023_ch06_pt4.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 10608.1 -t 340.4 -bitexact 024_ch07_pt1.wav
+"oggenc" "--title" "Chapter 07 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "024_ch07_pt1.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 10948.5 -t 377.700000000001 -bitexact 025_ch07_pt2.wav
+"oggenc" "--title" "Chapter 07 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "025_ch07_pt2.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 11326.2 -t 301.9 -bitexact 026_ch07_pt3.wav
+"oggenc" "--title" "Chapter 07 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "026_ch07_pt3.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 11628.1 -t 461.4 -bitexact 027_ch07_pt4.wav
+"oggenc" "--title" "Chapter 07 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "027_ch07_pt4.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 12089.5 -t 300.700000000001 -bitexact 028_ch08_pt1.wav
+"oggenc" "--title" "Chapter 08 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "028_ch08_pt1.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 12390.2 -t 311.799999999999 -bitexact 029_ch08_pt2.wav
+"oggenc" "--title" "Chapter 08 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "029_ch08_pt2.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 12702 -t 338.299999999999 -bitexact 030_ch08_pt3.wav
+"oggenc" "--title" "Chapter 08 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "030_ch08_pt3.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 13040.3 -t 468.6 -bitexact 031_ch08_pt4.wav
+"oggenc" "--title" "Chapter 08 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "031_ch08_pt4.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 13508.9 -t 321.4 -bitexact 032_ch09_pt1.wav
+"oggenc" "--title" "Chapter 09 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "032_ch09_pt1.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 13830.3 -t 674.5 -bitexact 033_ch09_pt2.wav
+"oggenc" "--title" "Chapter 09 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "033_ch09_pt2.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 14504.8 -t 402.300000000001 -bitexact 034_ch09_pt3.wav
+"oggenc" "--title" "Chapter 09 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "034_ch09_pt3.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 14907.1 -t 306.299999999999 -bitexact 035_ch09_pt4.wav
+"oggenc" "--title" "Chapter 09 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "035_ch09_pt4.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 15213.4 -t 420.200000000001 -bitexact 036_ch10_pt1.wav
+"oggenc" "--title" "Chapter 10 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "036_ch10_pt1.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 15633.6 -t 387.6 -bitexact 037_ch10_pt2.wav
+"oggenc" "--title" "Chapter 10 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "037_ch10_pt2.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 16021.2 -t 376.599999999999 -bitexact 038_ch10_pt3.wav
+"oggenc" "--title" "Chapter 10 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "038_ch10_pt3.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 16397.8 -t 369.799999999999 -bitexact 039_ch10_pt4.wav
+"oggenc" "--title" "Chapter 10 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "039_ch10_pt4.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 16767.6 -t 438.200000000001 -bitexact 040_ch11_pt1.wav
+"oggenc" "--title" "Chapter 11 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "040_ch11_pt1.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 17205.8 -t 335.900000000001 -bitexact 041_ch11_pt2.wav
+"oggenc" "--title" "Chapter 11 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "041_ch11_pt2.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 17541.7 -t 588.399999999998 -bitexact 042_ch11_pt3.wav
+"oggenc" "--title" "Chapter 11 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "042_ch11_pt3.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 18130.1 -t 342.100000000002 -bitexact 043_ch12_pt1.wav
+"oggenc" "--title" "Chapter 12 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "043_ch12_pt1.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 18472.2 -t 346.700000000001 -bitexact 044_ch12_pt2.wav
+"oggenc" "--title" "Chapter 12 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "044_ch12_pt2.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 18818.9 -t 352.099999999999 -bitexact 045_ch12_pt3.wav
+"oggenc" "--title" "Chapter 12 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "045_ch12_pt3.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 19171 -t 409.099999999999 -bitexact 046_ch12_pt4.wav
+"oggenc" "--title" "Chapter 12 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "046_ch12_pt4.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 19580.1 -t 456.300000000003 -bitexact 047_ch12_pt5.wav
+"oggenc" "--title" "Chapter 12 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "047_ch12_pt5.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 20036.4 -t 453.799999999999 -bitexact 048_ch13_pt1.wav
+"oggenc" "--title" "Chapter 13 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "048_ch13_pt1.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 20490.2 -t 359.200000000001 -bitexact 049_ch13_pt2.wav
+"oggenc" "--title" "Chapter 13 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "049_ch13_pt2.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 20849.4 -t 316.599999999999 -bitexact 050_ch13_pt3.wav
+"oggenc" "--title" "Chapter 13 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "050_ch13_pt3.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 21166 -t 524.900000000001 -bitexact 051_ch13_pt4.wav
+"oggenc" "--title" "Chapter 13 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "051_ch13_pt4.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 21690.9 -t 333.399999999998 -bitexact 052_ch14_pt1.wav
+"oggenc" "--title" "Chapter 14 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "052_ch14_pt1.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 22024.3 -t 335.400000000001 -bitexact 053_ch14_pt2.wav
+"oggenc" "--title" "Chapter 14 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "053_ch14_pt2.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 22359.7 -t 421.200000000001 -bitexact 054_ch14_pt3.wav
+"oggenc" "--title" "Chapter 14 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "054_ch14_pt3.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 22780.9 -t 316.799999999999 -bitexact 055_ch14_pt4.wav
+"oggenc" "--title" "Chapter 14 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "055_ch14_pt4.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 23097.7 -t 486.700000000001 -bitexact 056_ch15_pt1.wav
+"oggenc" "--title" "Chapter 15 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "056_ch15_pt1.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 23584.4 -t 322.699999999997 -bitexact 057_ch15_pt2.wav
+"oggenc" "--title" "Chapter 15 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "057_ch15_pt2.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 23907.1 -t 366.5 -bitexact 058_ch15_pt3.wav
+"oggenc" "--title" "Chapter 15 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "058_ch15_pt3.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 24273.6 -t 655.5 -bitexact 059_ch15_pt4.wav
+"oggenc" "--title" "Chapter 15 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "059_ch15_pt4.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 24929.1 -t 433.700000000001 -bitexact 060_ch16_pt1.wav
+"oggenc" "--title" "Chapter 16 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "060_ch16_pt1.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 25362.8 -t 303.200000000001 -bitexact 061_ch16_pt2.wav
+"oggenc" "--title" "Chapter 16 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "061_ch16_pt2.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 25666 -t 307.799999999999 -bitexact 062_ch16_pt3.wav
+"oggenc" "--title" "Chapter 16 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "062_ch16_pt3.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 25973.8 -t 314.5 -bitexact 063_ch16_pt4.wav
+"oggenc" "--title" "Chapter 16 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "063_ch16_pt4.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 26288.3 -t 397.100000000002 -bitexact 064_ch16_pt5.wav
+"oggenc" "--title" "Chapter 16 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "064_ch16_pt5.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 26685.4 -t 504 -bitexact 065_ch16_pt6.wav
+"oggenc" "--title" "Chapter 16 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "065_ch16_pt6.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 27189.4 -t 472.899999999998 -bitexact 066_ch17_pt1.wav
+"oggenc" "--title" "Chapter 17 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "066_ch17_pt1.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 27662.3 -t 359.700000000001 -bitexact 067_ch17_pt2.wav
+"oggenc" "--title" "Chapter 17 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "067_ch17_pt2.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 28022 -t 489.299999999999 -bitexact 068_ch17_pt3.wav
+"oggenc" "--title" "Chapter 17 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "068_ch17_pt3.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 28511.3 -t 571.700000000001 -bitexact 069_ch17_pt4.wav
+"oggenc" "--title" "Chapter 17 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "069_ch17_pt4.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 29083 -t 353.099999999999 -bitexact 070_ch18_pt1.wav
+"oggenc" "--title" "Chapter 18 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "070_ch18_pt1.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 29436.1 -t 592.700000000001 -bitexact 071_ch18_pt2.wav
+"oggenc" "--title" "Chapter 18 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "071_ch18_pt2.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 30028.8 -t 362.900000000001 -bitexact 072_ch19_pt1.wav
+"oggenc" "--title" "Chapter 19 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "072_ch19_pt1.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 30391.7 -t 573.5 -bitexact 073_ch19_pt2.wav
+"oggenc" "--title" "Chapter 19 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "073_ch19_pt2.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 30965.2 -t 660.200000000001 -bitexact 074_ch19_pt3.wav
+"oggenc" "--title" "Chapter 19 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "074_ch19_pt3.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 31625.4 -t 450.299999999999 -bitexact 075_ch19_pt4.wav
+"oggenc" "--title" "Chapter 19 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "075_ch19_pt4.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 32075.7 -t 315.700000000001 -bitexact 076_ch19_pt5.wav
+"oggenc" "--title" "Chapter 19 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "076_ch19_pt5.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 32391.4 -t 418.900000000001 -bitexact 077_ch20_pt1.wav
+"oggenc" "--title" "Chapter 20 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "077_ch20_pt1.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 32810.3 -t 451.599999999999 -bitexact 078_ch20_pt2.wav
+"oggenc" "--title" "Chapter 20 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "078_ch20_pt2.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 33261.9 -t 328.099999999999 -bitexact 079_ch20_pt3.wav
+"oggenc" "--title" "Chapter 20 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "079_ch20_pt3.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 33590 -t 612.800000000003 -bitexact 080_ch20_pt4.wav
+"oggenc" "--title" "Chapter 20 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "080_ch20_pt4.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 34202.8 -t 444.199999999997 -bitexact 081_ch21_pt1.wav
+"oggenc" "--title" "Chapter 21 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "081_ch21_pt1.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 34647 -t 321.099999999999 -bitexact 082_ch21_pt2.wav
+"oggenc" "--title" "Chapter 21 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "082_ch21_pt2.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 34968.1 -t 320.5 -bitexact 083_ch21_pt3.wav
+"oggenc" "--title" "Chapter 21 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "083_ch21_pt3.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 35288.6 -t 702.800000000003 -bitexact 084_ch21_pt4.wav
+"oggenc" "--title" "Chapter 21 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "084_ch21_pt4.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 35991.4 -t 438 -bitexact 085_ch22_pt1.wav
+"oggenc" "--title" "Chapter 22 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "085_ch22_pt1.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 36429.4 -t 499 -bitexact 086_ch22_pt2.wav
+"oggenc" "--title" "Chapter 22 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "086_ch22_pt2.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 36928.4 -t 399.900000000001 -bitexact 087_ch22_pt3.wav
+"oggenc" "--title" "Chapter 22 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "087_ch22_pt3.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 37328.3 -t 561.299999999996 -bitexact 088_ch22_pt4.wav
+"oggenc" "--title" "Chapter 22 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "088_ch22_pt4.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 37889.6 -t 342.800000000003 -bitexact 089_ch23_pt1.wav
+"oggenc" "--title" "Chapter 23 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "089_ch23_pt1.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 38232.4 -t 313.5 -bitexact 090_ch23_pt2.wav
+"oggenc" "--title" "Chapter 23 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "090_ch23_pt2.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 38545.9 -t 394.799999999996 -bitexact 091_ch23_pt3.wav
+"oggenc" "--title" "Chapter 23 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "091_ch23_pt3.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 38940.7 -t 859.600000000006 -bitexact 092_ch23_pt4.wav
+"oggenc" "--title" "Chapter 23 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "092_ch23_pt4.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 39800.3 -t 340.699999999997 -bitexact 093_ch24_pt1.wav
+"oggenc" "--title" "Chapter 24 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "093_ch24_pt1.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 40141 -t 523.300000000003 -bitexact 094_ch24_pt2.wav
+"oggenc" "--title" "Chapter 24 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "094_ch24_pt2.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 40664.3 -t 317.5 -bitexact 095_ch24_pt3.wav
+"oggenc" "--title" "Chapter 24 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "095_ch24_pt3.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 40981.8 -t 818.199999999997 -bitexact 096_ch24_pt4.wav
+"oggenc" "--title" "Chapter 24 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "096_ch24_pt4.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 41800 -t 369.599999999999 -bitexact 097_ch25_pt1.wav
+"oggenc" "--title" "Chapter 25 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "097_ch25_pt1.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 42169.6 -t 487 -bitexact 098_ch25_pt2.wav
+"oggenc" "--title" "Chapter 25 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "098_ch25_pt2.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 42656.6 -t 647 -bitexact 099_ch25_pt3.wav
+"oggenc" "--title" "Chapter 25 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "099_ch25_pt3.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 43303.6 -t 425.700000000004 -bitexact 100_ch25_pt4.wav
+"oggenc" "--title" "Chapter 25 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "100_ch25_pt4.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 43729.3 -t 394.699999999997 -bitexact 101_ch26_pt1.wav
+"oggenc" "--title" "Chapter 26 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "101_ch26_pt1.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 44124 -t 381.599999999999 -bitexact 102_ch26_pt2.wav
+"oggenc" "--title" "Chapter 26 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "102_ch26_pt2.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 44505.6 -t 344.700000000004 -bitexact 103_ch26_pt3.wav
+"oggenc" "--title" "Chapter 26 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "103_ch26_pt3.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 44850.3 -t 316.299999999996 -bitexact 104_ch26_pt4.wav
+"oggenc" "--title" "Chapter 26 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "104_ch26_pt4.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 45166.6 -t 713.599999999999 -bitexact 105_ch26_pt5.wav
+"oggenc" "--title" "Chapter 26 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "105_ch26_pt5.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 45880.2 -t 435.5 -bitexact 106_ch27_pt1.wav
+"oggenc" "--title" "Chapter 27 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "106_ch27_pt1.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 46315.7 -t 353.800000000003 -bitexact 107_ch27_pt2.wav
+"oggenc" "--title" "Chapter 27 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "107_ch27_pt2.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 46669.5 -t 496.099999999999 -bitexact 108_ch27_pt3.wav
+"oggenc" "--title" "Chapter 27 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "108_ch27_pt3.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 47165.6 -t 445.099999999999 -bitexact 109_ch27_pt4.wav
+"oggenc" "--title" "Chapter 27 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "109_ch27_pt4.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 47610.7 -t 335.600000000006 -bitexact 110_ch27_pt5.wav
+"oggenc" "--title" "Chapter 27 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "110_ch27_pt5.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 47946.3 -t 576.099999999999 -bitexact 111_ch28_pt1.wav
+"oggenc" "--title" "Chapter 28 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "111_ch28_pt1.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 48522.4 -t 318.5 -bitexact 112_ch28_pt2.wav
+"oggenc" "--title" "Chapter 28 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "112_ch28_pt2.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 48840.9 -t 466.699999999997 -bitexact 113_ch28_pt3.wav
+"oggenc" "--title" "Chapter 28 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "113_ch28_pt3.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 49307.6 -t 384.200000000004 -bitexact 114_ch28_pt4.wav
+"oggenc" "--title" "Chapter 28 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "114_ch28_pt4.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 49691.8 -t 343.099999999999 -bitexact 115_ch28_pt5.wav
+"oggenc" "--title" "Chapter 28 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "115_ch28_pt5.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 50034.9 -t 477.5 -bitexact 116_ch28_pt6.wav
+"oggenc" "--title" "Chapter 28 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "116_ch28_pt6.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 50512.4 -t 416.400000000001 -bitexact 117_ch29_pt1.wav
+"oggenc" "--title" "Chapter 29 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "117_ch29_pt1.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 50928.8 -t 301.299999999996 -bitexact 118_ch29_pt2.wav
+"oggenc" "--title" "Chapter 29 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "118_ch29_pt2.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 51230.1 -t 324.5 -bitexact 119_ch29_pt3.wav
+"oggenc" "--title" "Chapter 29 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "119_ch29_pt3.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 51554.6 -t 349.300000000003 -bitexact 120_ch29_pt4.wav
+"oggenc" "--title" "Chapter 29 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "120_ch29_pt4.wav"
+ffmpeg -i googleplay_memory.m4a.orig -ss 51903.9 -t 432.029999999999 -bitexact 121_ch29_pt5.wav
+"oggenc" "--title" "Chapter 29 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Memory" "121_ch29_pt5.wav"
