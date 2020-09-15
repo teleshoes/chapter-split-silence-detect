@@ -1,0 +1,126 @@
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 0 -t 1835.65 -bitexact 01_ch01_pt1.wav
+"oggenc" "--title" "Chapter 01 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "01_ch01_pt1.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 1835.65 -t 341.09 -bitexact 02_ch01_pt2.wav
+"oggenc" "--title" "Chapter 01 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "02_ch01_pt2.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 2176.74 -t 794.13 -bitexact 03_ch01_pt3.wav
+"oggenc" "--title" "Chapter 01 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "03_ch01_pt3.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 2970.87 -t 553.42 -bitexact 04_ch01_pt4.wav
+"oggenc" "--title" "Chapter 01 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "04_ch01_pt4.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 3524.29 -t 323.82 -bitexact 05_ch01_pt5.wav
+"oggenc" "--title" "Chapter 01 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "05_ch01_pt5.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 3848.11 -t 801.619999999999 -bitexact 06_ch01_pt6.wav
+"oggenc" "--title" "Chapter 01 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "06_ch01_pt6.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 4649.73 -t 460.030000000001 -bitexact 07_ch01_pt7.wav
+"oggenc" "--title" "Chapter 01 - pt7" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "07_ch01_pt7.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 5109.76 -t 855.78 -bitexact 08_ch02_pt1.wav
+"oggenc" "--title" "Chapter 02 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "08_ch02_pt1.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 5965.54 -t 304.19 -bitexact 09_ch02_pt2.wav
+"oggenc" "--title" "Chapter 02 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "09_ch02_pt2.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 6269.73 -t 578.64 -bitexact 10_ch02_pt3.wav
+"oggenc" "--title" "Chapter 02 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "10_ch02_pt3.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 6848.37 -t 616.79 -bitexact 11_ch02_pt4.wav
+"oggenc" "--title" "Chapter 02 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "11_ch02_pt4.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 7465.16 -t 740.040000000001 -bitexact 12_ch02_pt5.wav
+"oggenc" "--title" "Chapter 02 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "12_ch02_pt5.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 8205.2 -t 456.209999999999 -bitexact 13_ch03_pt1.wav
+"oggenc" "--title" "Chapter 03 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "13_ch03_pt1.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 8661.41 -t 323.610000000001 -bitexact 14_ch03_pt2.wav
+"oggenc" "--title" "Chapter 03 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "14_ch03_pt2.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 8985.02 -t 2692.98 -bitexact 15_ch03_pt3.wav
+"oggenc" "--title" "Chapter 03 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "15_ch03_pt3.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 11678 -t 2305.7 -bitexact 16_ch04_pt1.wav
+"oggenc" "--title" "Chapter 04 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "16_ch04_pt1.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 13983.7 -t 438.5 -bitexact 17_ch05_pt1.wav
+"oggenc" "--title" "Chapter 05 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "17_ch05_pt1.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 14422.2 -t 525 -bitexact 18_ch05_pt2.wav
+"oggenc" "--title" "Chapter 05 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "18_ch05_pt2.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 14947.2 -t 433.299999999999 -bitexact 19_ch05_pt3.wav
+"oggenc" "--title" "Chapter 05 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "19_ch05_pt3.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 15380.5 -t 873 -bitexact 20_ch05_pt4.wav
+"oggenc" "--title" "Chapter 05 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "20_ch05_pt4.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 16253.5 -t 1400.3 -bitexact 21_ch06_pt1.wav
+"oggenc" "--title" "Chapter 06 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "21_ch06_pt1.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 17653.8 -t 814.600000000002 -bitexact 22_ch06_pt2.wav
+"oggenc" "--title" "Chapter 06 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "22_ch06_pt2.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 18468.4 -t 1020.7 -bitexact 23_ch06_pt3.wav
+"oggenc" "--title" "Chapter 06 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "23_ch06_pt3.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 19489.1 -t 1245.1 -bitexact 24_ch07_pt1.wav
+"oggenc" "--title" "Chapter 07 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "24_ch07_pt1.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 20734.2 -t 529.899999999998 -bitexact 25_ch07_pt2.wav
+"oggenc" "--title" "Chapter 07 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "25_ch07_pt2.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 21264.1 -t 716.200000000001 -bitexact 26_ch07_pt3.wav
+"oggenc" "--title" "Chapter 07 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "26_ch07_pt3.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 21980.3 -t 640.100000000002 -bitexact 27_ch07_pt4.wav
+"oggenc" "--title" "Chapter 07 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "27_ch07_pt4.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 22620.4 -t 1021.8 -bitexact 28_ch07_pt5.wav
+"oggenc" "--title" "Chapter 07 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "28_ch07_pt5.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 23642.2 -t 1582.4 -bitexact 29_ch08_pt1.wav
+"oggenc" "--title" "Chapter 08 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "29_ch08_pt1.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 25224.6 -t 333.700000000001 -bitexact 30_ch08_pt2.wav
+"oggenc" "--title" "Chapter 08 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "30_ch08_pt2.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 25558.3 -t 334.600000000002 -bitexact 31_ch08_pt3.wav
+"oggenc" "--title" "Chapter 08 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "31_ch08_pt3.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 25892.9 -t 535 -bitexact 32_ch08_pt4.wav
+"oggenc" "--title" "Chapter 08 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "32_ch08_pt4.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 26427.9 -t 4084.3 -bitexact 33_ch09_pt1.wav
+"oggenc" "--title" "Chapter 09 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "33_ch09_pt1.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 30512.2 -t 409.599999999999 -bitexact 34_ch10_pt1.wav
+"oggenc" "--title" "Chapter 10 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "34_ch10_pt1.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 30921.8 -t 776.100000000002 -bitexact 35_ch10_pt2.wav
+"oggenc" "--title" "Chapter 10 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "35_ch10_pt2.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 31697.9 -t 447.699999999997 -bitexact 36_ch10_pt3.wav
+"oggenc" "--title" "Chapter 10 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "36_ch10_pt3.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 32145.6 -t 516.5 -bitexact 37_ch10_pt4.wav
+"oggenc" "--title" "Chapter 10 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "37_ch10_pt4.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 32662.1 -t 353.099999999999 -bitexact 38_ch10_pt5.wav
+"oggenc" "--title" "Chapter 10 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "38_ch10_pt5.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 33015.2 -t 555.400000000001 -bitexact 39_ch10_pt6.wav
+"oggenc" "--title" "Chapter 10 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "39_ch10_pt6.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 33570.6 -t 2596.7 -bitexact 40_ch11_pt1.wav
+"oggenc" "--title" "Chapter 11 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "40_ch11_pt1.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 36167.3 -t 4683.6 -bitexact 41_ch12_pt1.wav
+"oggenc" "--title" "Chapter 12 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "41_ch12_pt1.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 40850.9 -t 3185.9 -bitexact 42_ch13_pt1.wav
+"oggenc" "--title" "Chapter 13 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "42_ch13_pt1.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 44036.8 -t 452 -bitexact 43_ch14_pt1.wav
+"oggenc" "--title" "Chapter 14 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "43_ch14_pt1.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 44488.8 -t 310.899999999994 -bitexact 44_ch14_pt2.wav
+"oggenc" "--title" "Chapter 14 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "44_ch14_pt2.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 44799.7 -t 599.600000000006 -bitexact 45_ch14_pt3.wav
+"oggenc" "--title" "Chapter 14 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "45_ch14_pt3.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 45399.3 -t 685.199999999997 -bitexact 46_ch14_pt4.wav
+"oggenc" "--title" "Chapter 14 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "46_ch14_pt4.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 46084.5 -t 918.800000000003 -bitexact 47_ch14_pt5.wav
+"oggenc" "--title" "Chapter 14 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "47_ch14_pt5.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 47003.3 -t 360.199999999997 -bitexact 48_ch15_pt1.wav
+"oggenc" "--title" "Chapter 15 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "48_ch15_pt1.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 47363.5 -t 398.800000000003 -bitexact 49_ch15_pt2.wav
+"oggenc" "--title" "Chapter 15 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "49_ch15_pt2.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 47762.3 -t 332.5 -bitexact 50_ch15_pt3.wav
+"oggenc" "--title" "Chapter 15 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "50_ch15_pt3.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 48094.8 -t 438.899999999994 -bitexact 51_ch15_pt4.wav
+"oggenc" "--title" "Chapter 15 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "51_ch15_pt4.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 48533.7 -t 303.800000000003 -bitexact 52_ch15_pt5.wav
+"oggenc" "--title" "Chapter 15 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "52_ch15_pt5.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 48837.5 -t 511.099999999999 -bitexact 53_ch15_pt6.wav
+"oggenc" "--title" "Chapter 15 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "53_ch15_pt6.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 49348.6 -t 347.900000000001 -bitexact 54_ch15_pt7.wav
+"oggenc" "--title" "Chapter 15 - pt7" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "54_ch15_pt7.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 49696.5 -t 1266.5 -bitexact 55_ch16_pt1.wav
+"oggenc" "--title" "Chapter 16 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "55_ch16_pt1.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 50963 -t 389.900000000001 -bitexact 56_ch16_pt2.wav
+"oggenc" "--title" "Chapter 16 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "56_ch16_pt2.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 51352.9 -t 1797.8 -bitexact 57_ch16_pt3.wav
+"oggenc" "--title" "Chapter 16 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "57_ch16_pt3.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 53150.7 -t 4037.3 -bitexact 58_ch17_pt1.wav
+"oggenc" "--title" "Chapter 17 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "58_ch17_pt1.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 57188 -t 1445.9 -bitexact 59_ch18_pt1.wav
+"oggenc" "--title" "Chapter 18 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "59_ch18_pt1.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 58633.9 -t 1129.1 -bitexact 60_ch18_pt2.wav
+"oggenc" "--title" "Chapter 18 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "60_ch18_pt2.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 59763 -t 1570 -bitexact 61_ch19_pt1.wav
+"oggenc" "--title" "Chapter 19 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "61_ch19_pt1.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 61333 -t 3547.2 -bitexact 62_ch19_pt2.wav
+"oggenc" "--title" "Chapter 19 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "62_ch19_pt2.wav"
+ffmpeg -i googleplay_a_civil_campaign.m4a.orig -ss 64880.2 -t 2870.8 -bitexact 63_epilogue_pt1.wav
+"oggenc" "--title" "Epilogue - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "A Civil Campaign" "63_epilogue_pt1.wav"
