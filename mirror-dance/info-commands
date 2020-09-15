@@ -1,0 +1,286 @@
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 0 -t 426.458 -bitexact 001_ch01_pt1.wav
+"oggenc" "--title" "Chapter 01 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "001_ch01_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 426.458 -t 412.536 -bitexact 002_ch01_pt2.wav
+"oggenc" "--title" "Chapter 01 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "002_ch01_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 838.994 -t 355.546 -bitexact 003_ch01_pt3.wav
+"oggenc" "--title" "Chapter 01 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "003_ch01_pt3.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 1194.54 -t 618.97 -bitexact 004_ch01_pt4.wav
+"oggenc" "--title" "Chapter 01 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "004_ch01_pt4.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 1813.51 -t 400.76 -bitexact 005_ch01_pt5.wav
+"oggenc" "--title" "Chapter 01 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "005_ch01_pt5.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 2214.27 -t 524.74 -bitexact 006_ch01_pt6.wav
+"oggenc" "--title" "Chapter 01 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "006_ch01_pt6.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 2739.01 -t 473.19 -bitexact 007_ch02_pt1.wav
+"oggenc" "--title" "Chapter 02 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "007_ch02_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 3212.2 -t 396.21 -bitexact 008_ch02_pt2.wav
+"oggenc" "--title" "Chapter 02 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "008_ch02_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 3608.41 -t 328.96 -bitexact 009_ch02_pt3.wav
+"oggenc" "--title" "Chapter 02 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "009_ch02_pt3.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 3937.37 -t 340.09 -bitexact 010_ch02_pt4.wav
+"oggenc" "--title" "Chapter 02 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "010_ch02_pt4.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 4277.46 -t 332.43 -bitexact 011_ch02_pt5.wav
+"oggenc" "--title" "Chapter 02 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "011_ch02_pt5.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 4609.89 -t 486.809999999999 -bitexact 012_ch02_pt6.wav
+"oggenc" "--title" "Chapter 02 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "012_ch02_pt6.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 5096.7 -t 1892.51 -bitexact 013_ch03_pt1.wav
+"oggenc" "--title" "Chapter 03 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "013_ch03_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 6989.21 -t 628.13 -bitexact 014_ch04_pt1.wav
+"oggenc" "--title" "Chapter 04 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "014_ch04_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 7617.34 -t 336.889999999999 -bitexact 015_ch04_pt2.wav
+"oggenc" "--title" "Chapter 04 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "015_ch04_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 7954.23 -t 435.73 -bitexact 016_ch04_pt3.wav
+"oggenc" "--title" "Chapter 04 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "016_ch04_pt3.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 8389.96 -t 470.990000000002 -bitexact 017_ch04_pt4.wav
+"oggenc" "--title" "Chapter 04 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "017_ch04_pt4.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 8860.95 -t 622.91 -bitexact 018_ch05_pt1.wav
+"oggenc" "--title" "Chapter 05 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "018_ch05_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 9483.86 -t 332.59 -bitexact 019_ch05_pt2.wav
+"oggenc" "--title" "Chapter 05 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "019_ch05_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 9816.45 -t 882.349999999999 -bitexact 020_ch05_pt3.wav
+"oggenc" "--title" "Chapter 05 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "020_ch05_pt3.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 10698.8 -t 736.900000000001 -bitexact 021_ch05_pt4.wav
+"oggenc" "--title" "Chapter 05 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "021_ch05_pt4.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 11435.7 -t 301.9 -bitexact 022_ch06_pt1.wav
+"oggenc" "--title" "Chapter 06 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "022_ch06_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 11737.6 -t 454 -bitexact 023_ch06_pt2.wav
+"oggenc" "--title" "Chapter 06 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "023_ch06_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 12191.6 -t 360.6 -bitexact 024_ch06_pt3.wav
+"oggenc" "--title" "Chapter 06 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "024_ch06_pt3.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 12552.2 -t 671.099999999999 -bitexact 025_ch06_pt4.wav
+"oggenc" "--title" "Chapter 06 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "025_ch06_pt4.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 13223.3 -t 545 -bitexact 026_ch06_pt5.wav
+"oggenc" "--title" "Chapter 06 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "026_ch06_pt5.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 13768.3 -t 658 -bitexact 027_ch07_pt1.wav
+"oggenc" "--title" "Chapter 07 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "027_ch07_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 14426.3 -t 627 -bitexact 028_ch07_pt2.wav
+"oggenc" "--title" "Chapter 07 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "028_ch07_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 15053.3 -t 888.6 -bitexact 029_ch07_pt3.wav
+"oggenc" "--title" "Chapter 07 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "029_ch07_pt3.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 15941.9 -t 343.300000000001 -bitexact 030_ch08_pt1.wav
+"oggenc" "--title" "Chapter 08 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "030_ch08_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 16285.2 -t 803.200000000001 -bitexact 031_ch08_pt2.wav
+"oggenc" "--title" "Chapter 08 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "031_ch08_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 17088.4 -t 611.5 -bitexact 032_ch08_pt3.wav
+"oggenc" "--title" "Chapter 08 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "032_ch08_pt3.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 17699.9 -t 405 -bitexact 033_ch09_pt1.wav
+"oggenc" "--title" "Chapter 09 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "033_ch09_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 18104.9 -t 386.599999999999 -bitexact 034_ch09_pt2.wav
+"oggenc" "--title" "Chapter 09 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "034_ch09_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 18491.5 -t 329.5 -bitexact 035_ch09_pt3.wav
+"oggenc" "--title" "Chapter 09 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "035_ch09_pt3.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 18821 -t 658.400000000001 -bitexact 036_ch09_pt4.wav
+"oggenc" "--title" "Chapter 09 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "036_ch09_pt4.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 19479.4 -t 674.799999999999 -bitexact 037_ch09_pt5.wav
+"oggenc" "--title" "Chapter 09 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "037_ch09_pt5.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 20154.2 -t 344.599999999999 -bitexact 038_ch10_pt1.wav
+"oggenc" "--title" "Chapter 10 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "038_ch10_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 20498.8 -t 325.200000000001 -bitexact 039_ch10_pt2.wav
+"oggenc" "--title" "Chapter 10 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "039_ch10_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 20824 -t 337.299999999999 -bitexact 040_ch10_pt3.wav
+"oggenc" "--title" "Chapter 10 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "040_ch10_pt3.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 21161.3 -t 309.400000000001 -bitexact 041_ch10_pt4.wav
+"oggenc" "--title" "Chapter 10 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "041_ch10_pt4.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 21470.7 -t 317.799999999999 -bitexact 042_ch10_pt5.wav
+"oggenc" "--title" "Chapter 10 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "042_ch10_pt5.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 21788.5 -t 397.200000000001 -bitexact 043_ch10_pt6.wav
+"oggenc" "--title" "Chapter 10 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "043_ch10_pt6.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 22185.7 -t 324.599999999999 -bitexact 044_ch11_pt1.wav
+"oggenc" "--title" "Chapter 11 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "044_ch11_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 22510.3 -t 374.299999999999 -bitexact 045_ch11_pt2.wav
+"oggenc" "--title" "Chapter 11 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "045_ch11_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 22884.6 -t 307.700000000001 -bitexact 046_ch11_pt3.wav
+"oggenc" "--title" "Chapter 11 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "046_ch11_pt3.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 23192.3 -t 301.700000000001 -bitexact 047_ch11_pt4.wav
+"oggenc" "--title" "Chapter 11 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "047_ch11_pt4.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 23494 -t 376.700000000001 -bitexact 048_ch11_pt5.wav
+"oggenc" "--title" "Chapter 11 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "048_ch11_pt5.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 23870.7 -t 468.599999999999 -bitexact 049_ch12_pt1.wav
+"oggenc" "--title" "Chapter 12 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "049_ch12_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 24339.3 -t 341.400000000001 -bitexact 050_ch12_pt2.wav
+"oggenc" "--title" "Chapter 12 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "050_ch12_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 24680.7 -t 415.299999999999 -bitexact 051_ch12_pt3.wav
+"oggenc" "--title" "Chapter 12 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "051_ch12_pt3.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 25096 -t 385.099999999999 -bitexact 052_ch12_pt4.wav
+"oggenc" "--title" "Chapter 12 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "052_ch12_pt4.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 25481.1 -t 433.600000000002 -bitexact 053_ch12_pt5.wav
+"oggenc" "--title" "Chapter 12 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "053_ch12_pt5.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 25914.7 -t 330.200000000001 -bitexact 054_ch13_pt1.wav
+"oggenc" "--title" "Chapter 13 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "054_ch13_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 26244.9 -t 308.5 -bitexact 055_ch13_pt2.wav
+"oggenc" "--title" "Chapter 13 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "055_ch13_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 26553.4 -t 385.899999999998 -bitexact 056_ch13_pt3.wav
+"oggenc" "--title" "Chapter 13 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "056_ch13_pt3.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 26939.3 -t 909.5 -bitexact 057_ch13_pt4.wav
+"oggenc" "--title" "Chapter 13 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "057_ch13_pt4.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 27848.8 -t 360.700000000001 -bitexact 058_ch14_pt1.wav
+"oggenc" "--title" "Chapter 14 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "058_ch14_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 28209.5 -t 349.299999999999 -bitexact 059_ch14_pt2.wav
+"oggenc" "--title" "Chapter 14 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "059_ch14_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 28558.8 -t 328.700000000001 -bitexact 060_ch14_pt3.wav
+"oggenc" "--title" "Chapter 14 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "060_ch14_pt3.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 28887.5 -t 503.099999999999 -bitexact 061_ch14_pt4.wav
+"oggenc" "--title" "Chapter 14 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "061_ch14_pt4.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 29390.6 -t 300.700000000001 -bitexact 062_ch14_pt5.wav
+"oggenc" "--title" "Chapter 14 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "062_ch14_pt5.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 29691.3 -t 384.299999999999 -bitexact 063_ch14_pt6.wav
+"oggenc" "--title" "Chapter 14 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "063_ch14_pt6.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 30075.6 -t 451.200000000001 -bitexact 064_ch15_pt1.wav
+"oggenc" "--title" "Chapter 15 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "064_ch15_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 30526.8 -t 375.400000000001 -bitexact 065_ch15_pt2.wav
+"oggenc" "--title" "Chapter 15 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "065_ch15_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 30902.2 -t 403.599999999999 -bitexact 066_ch15_pt3.wav
+"oggenc" "--title" "Chapter 15 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "066_ch15_pt3.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 31305.8 -t 458.299999999999 -bitexact 067_ch15_pt4.wav
+"oggenc" "--title" "Chapter 15 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "067_ch15_pt4.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 31764.1 -t 829.5 -bitexact 068_ch15_pt5.wav
+"oggenc" "--title" "Chapter 15 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "068_ch15_pt5.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 32593.6 -t 334.900000000001 -bitexact 069_ch16_pt1.wav
+"oggenc" "--title" "Chapter 16 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "069_ch16_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 32928.5 -t 334.099999999999 -bitexact 070_ch16_pt2.wav
+"oggenc" "--title" "Chapter 16 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "070_ch16_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 33262.6 -t 499.900000000001 -bitexact 071_ch16_pt3.wav
+"oggenc" "--title" "Chapter 16 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "071_ch16_pt3.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 33762.5 -t 313.900000000001 -bitexact 072_ch16_pt4.wav
+"oggenc" "--title" "Chapter 16 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "072_ch16_pt4.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 34076.4 -t 590.699999999997 -bitexact 073_ch16_pt5.wav
+"oggenc" "--title" "Chapter 16 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "073_ch16_pt5.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 34667.1 -t 377.200000000004 -bitexact 074_ch17_pt1.wav
+"oggenc" "--title" "Chapter 17 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "074_ch17_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 35044.3 -t 422.5 -bitexact 075_ch17_pt2.wav
+"oggenc" "--title" "Chapter 17 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "075_ch17_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 35466.8 -t 527.599999999999 -bitexact 076_ch17_pt3.wav
+"oggenc" "--title" "Chapter 17 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "076_ch17_pt3.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 35994.4 -t 341.599999999999 -bitexact 077_ch17_pt4.wav
+"oggenc" "--title" "Chapter 17 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "077_ch17_pt4.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 36336 -t 307.599999999999 -bitexact 078_ch17_pt5.wav
+"oggenc" "--title" "Chapter 17 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "078_ch17_pt5.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 36643.6 -t 379.300000000003 -bitexact 079_ch17_pt6.wav
+"oggenc" "--title" "Chapter 17 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "079_ch17_pt6.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 37022.9 -t 326.599999999999 -bitexact 080_ch17_pt7.wav
+"oggenc" "--title" "Chapter 17 - pt7" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "080_ch17_pt7.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 37349.5 -t 304.400000000001 -bitexact 081_ch17_pt8.wav
+"oggenc" "--title" "Chapter 17 - pt8" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "081_ch17_pt8.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 37653.9 -t 307.799999999996 -bitexact 082_ch18_pt1.wav
+"oggenc" "--title" "Chapter 18 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "082_ch18_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 37961.7 -t 314.200000000004 -bitexact 083_ch18_pt2.wav
+"oggenc" "--title" "Chapter 18 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "083_ch18_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 38275.9 -t 300.099999999999 -bitexact 084_ch18_pt3.wav
+"oggenc" "--title" "Chapter 18 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "084_ch18_pt3.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 38576 -t 610.400000000001 -bitexact 085_ch18_pt4.wav
+"oggenc" "--title" "Chapter 18 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "085_ch18_pt4.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 39186.4 -t 346.5 -bitexact 086_ch18_pt5.wav
+"oggenc" "--title" "Chapter 18 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "086_ch18_pt5.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 39532.9 -t 304.599999999999 -bitexact 087_ch18_pt6.wav
+"oggenc" "--title" "Chapter 18 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "087_ch18_pt6.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 39837.5 -t 810.5 -bitexact 088_ch18_pt7.wav
+"oggenc" "--title" "Chapter 18 - pt7" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "088_ch18_pt7.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 40648 -t 462.599999999999 -bitexact 089_ch19_pt1.wav
+"oggenc" "--title" "Chapter 19 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "089_ch19_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 41110.6 -t 311.300000000003 -bitexact 090_ch19_pt2.wav
+"oggenc" "--title" "Chapter 19 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "090_ch19_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 41421.9 -t 438.799999999996 -bitexact 091_ch19_pt3.wav
+"oggenc" "--title" "Chapter 19 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "091_ch19_pt3.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 41860.7 -t 431.200000000004 -bitexact 092_ch19_pt4.wav
+"oggenc" "--title" "Chapter 19 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "092_ch19_pt4.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 42291.9 -t 445.299999999996 -bitexact 093_ch19_pt5.wav
+"oggenc" "--title" "Chapter 19 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "093_ch19_pt5.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 42737.2 -t 468.200000000004 -bitexact 094_ch20_pt1.wav
+"oggenc" "--title" "Chapter 20 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "094_ch20_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 43205.4 -t 414.799999999996 -bitexact 095_ch20_pt2.wav
+"oggenc" "--title" "Chapter 20 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "095_ch20_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 43620.2 -t 654.400000000001 -bitexact 096_ch20_pt3.wav
+"oggenc" "--title" "Chapter 20 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "096_ch20_pt3.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 44274.6 -t 345 -bitexact 097_ch21_pt1.wav
+"oggenc" "--title" "Chapter 21 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "097_ch21_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 44619.6 -t 847.200000000004 -bitexact 098_ch21_pt2.wav
+"oggenc" "--title" "Chapter 21 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "098_ch21_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 45466.8 -t 327.799999999996 -bitexact 099_ch21_pt3.wav
+"oggenc" "--title" "Chapter 21 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "099_ch21_pt3.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 45794.6 -t 366.700000000004 -bitexact 100_ch22_pt1.wav
+"oggenc" "--title" "Chapter 22 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "100_ch22_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 46161.3 -t 551.799999999996 -bitexact 101_ch22_pt2.wav
+"oggenc" "--title" "Chapter 22 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "101_ch22_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 46713.1 -t 310 -bitexact 102_ch22_pt3.wav
+"oggenc" "--title" "Chapter 22 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "102_ch22_pt3.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 47023.1 -t 376.599999999999 -bitexact 103_ch22_pt4.wav
+"oggenc" "--title" "Chapter 22 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "103_ch22_pt4.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 47399.7 -t 601.5 -bitexact 104_ch22_pt5.wav
+"oggenc" "--title" "Chapter 22 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "104_ch22_pt5.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 48001.2 -t 317 -bitexact 105_ch23_pt1.wav
+"oggenc" "--title" "Chapter 23 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "105_ch23_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 48318.2 -t 300.700000000004 -bitexact 106_ch23_pt2.wav
+"oggenc" "--title" "Chapter 23 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "106_ch23_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 48618.9 -t 324.099999999999 -bitexact 107_ch23_pt3.wav
+"oggenc" "--title" "Chapter 23 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "107_ch23_pt3.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 48943 -t 670.599999999999 -bitexact 108_ch23_pt4.wav
+"oggenc" "--title" "Chapter 23 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "108_ch23_pt4.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 49613.6 -t 325.400000000001 -bitexact 109_ch23_pt5.wav
+"oggenc" "--title" "Chapter 23 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "109_ch23_pt5.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 49939 -t 830.5 -bitexact 110_ch23_pt6.wav
+"oggenc" "--title" "Chapter 23 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "110_ch23_pt6.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 50769.5 -t 339.5 -bitexact 111_ch23_pt7.wav
+"oggenc" "--title" "Chapter 23 - pt7" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "111_ch23_pt7.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 51109 -t 330.300000000003 -bitexact 112_ch24_pt1.wav
+"oggenc" "--title" "Chapter 24 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "112_ch24_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 51439.3 -t 338.5 -bitexact 113_ch24_pt2.wav
+"oggenc" "--title" "Chapter 24 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "113_ch24_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 51777.8 -t 559.599999999999 -bitexact 114_ch24_pt3.wav
+"oggenc" "--title" "Chapter 24 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "114_ch24_pt3.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 52337.4 -t 343.900000000001 -bitexact 115_ch25_pt1.wav
+"oggenc" "--title" "Chapter 25 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "115_ch25_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 52681.3 -t 486.399999999994 -bitexact 116_ch25_pt2.wav
+"oggenc" "--title" "Chapter 25 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "116_ch25_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 53167.7 -t 351.200000000004 -bitexact 117_ch25_pt3.wav
+"oggenc" "--title" "Chapter 25 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "117_ch25_pt3.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 53518.9 -t 154.5 -bitexact 118_ch26_pt1.wav
+"oggenc" "--title" "Chapter 26 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "118_ch26_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 53673.4 -t 346.799999999996 -bitexact 119_ch27_pt1.wav
+"oggenc" "--title" "Chapter 27 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "119_ch27_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 54020.2 -t 518.800000000003 -bitexact 120_ch27_pt2.wav
+"oggenc" "--title" "Chapter 27 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "120_ch27_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 54539 -t 322.5 -bitexact 121_ch27_pt3.wav
+"oggenc" "--title" "Chapter 27 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "121_ch27_pt3.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 54861.5 -t 314.099999999999 -bitexact 122_ch27_pt4.wav
+"oggenc" "--title" "Chapter 27 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "122_ch27_pt4.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 55175.6 -t 352.099999999999 -bitexact 123_ch27_pt5.wav
+"oggenc" "--title" "Chapter 27 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "123_ch27_pt5.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 55527.7 -t 323.800000000003 -bitexact 124_ch28_pt1.wav
+"oggenc" "--title" "Chapter 28 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "124_ch28_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 55851.5 -t 376.199999999997 -bitexact 125_ch28_pt2.wav
+"oggenc" "--title" "Chapter 28 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "125_ch28_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 56227.7 -t 309.700000000004 -bitexact 126_ch28_pt3.wav
+"oggenc" "--title" "Chapter 28 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "126_ch28_pt3.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 56537.4 -t 654.199999999997 -bitexact 127_ch28_pt4.wav
+"oggenc" "--title" "Chapter 28 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "127_ch28_pt4.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 57191.6 -t 754.099999999999 -bitexact 128_ch29_pt1.wav
+"oggenc" "--title" "Chapter 29 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "128_ch29_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 57945.7 -t 362.300000000003 -bitexact 129_ch29_pt2.wav
+"oggenc" "--title" "Chapter 29 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "129_ch29_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 58308 -t 380.400000000001 -bitexact 130_ch29_pt3.wav
+"oggenc" "--title" "Chapter 29 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "130_ch29_pt3.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 58688.4 -t 660.099999999999 -bitexact 131_ch29_pt4.wav
+"oggenc" "--title" "Chapter 29 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "131_ch29_pt4.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 59348.5 -t 355.5 -bitexact 132_ch30_pt1.wav
+"oggenc" "--title" "Chapter 30 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "132_ch30_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 59704 -t 320.099999999999 -bitexact 133_ch30_pt2.wav
+"oggenc" "--title" "Chapter 30 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "133_ch30_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 60024.1 -t 372.900000000001 -bitexact 134_ch30_pt3.wav
+"oggenc" "--title" "Chapter 30 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "134_ch30_pt3.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 60397 -t 411.900000000001 -bitexact 135_ch30_pt4.wav
+"oggenc" "--title" "Chapter 30 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "135_ch30_pt4.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 60808.9 -t 724.699999999997 -bitexact 136_ch30_pt5.wav
+"oggenc" "--title" "Chapter 30 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "136_ch30_pt5.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 61533.6 -t 368.599999999999 -bitexact 137_ch31_pt1.wav
+"oggenc" "--title" "Chapter 31 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "137_ch31_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 61902.2 -t 1053.9 -bitexact 138_ch31_pt2.wav
+"oggenc" "--title" "Chapter 31 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "138_ch31_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 62956.1 -t 488.5 -bitexact 139_ch32_pt1.wav
+"oggenc" "--title" "Chapter 32 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "139_ch32_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 63444.6 -t 653.099999999999 -bitexact 140_ch32_pt2.wav
+"oggenc" "--title" "Chapter 32 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "140_ch32_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 64097.7 -t 459.100000000006 -bitexact 141_ch33_pt1.wav
+"oggenc" "--title" "Chapter 33 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "141_ch33_pt1.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 64556.8 -t 331.699999999997 -bitexact 142_ch33_pt2.wav
+"oggenc" "--title" "Chapter 33 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "142_ch33_pt2.wav"
+ffmpeg -i googleplay_mirror_dance.m4a.orig -ss 64888.5 -t 330.580000000002 -bitexact 143_ch33_pt3.wav
+"oggenc" "--title" "Chapter 33 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Mirror Dance" "143_ch33_pt3.wav"
