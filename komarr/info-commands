@@ -1,0 +1,206 @@
+ffmpeg -i googleplay_komarr.m4a.orig -ss 0 -t 372.998 -bitexact 001_ch01_pt01.wav
+"oggenc" "--title" "Chapter 01 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "001_ch01_pt01.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 372.998 -t 331.12 -bitexact 002_ch01_pt02.wav
+"oggenc" "--title" "Chapter 01 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "002_ch01_pt02.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 704.118 -t 325.812 -bitexact 003_ch01_pt03.wav
+"oggenc" "--title" "Chapter 01 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "003_ch01_pt03.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 1029.93 -t 535.08 -bitexact 004_ch01_pt04.wav
+"oggenc" "--title" "Chapter 01 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "004_ch01_pt04.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 1565.01 -t 309.56 -bitexact 005_ch01_pt05.wav
+"oggenc" "--title" "Chapter 01 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "005_ch01_pt05.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 1874.57 -t 480.19 -bitexact 006_ch01_pt06.wav
+"oggenc" "--title" "Chapter 01 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "006_ch01_pt06.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 2354.76 -t 525.96 -bitexact 007_ch02_pt01.wav
+"oggenc" "--title" "Chapter 02 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "007_ch02_pt01.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 2880.72 -t 428.81 -bitexact 008_ch02_pt02.wav
+"oggenc" "--title" "Chapter 02 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "008_ch02_pt02.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 3309.53 -t 699.03 -bitexact 009_ch02_pt03.wav
+"oggenc" "--title" "Chapter 02 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "009_ch02_pt03.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 4008.56 -t 323.25 -bitexact 010_ch03_pt01.wav
+"oggenc" "--title" "Chapter 03 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "010_ch03_pt01.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 4331.81 -t 345.44 -bitexact 011_ch03_pt02.wav
+"oggenc" "--title" "Chapter 03 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "011_ch03_pt02.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 4677.25 -t 377.64 -bitexact 012_ch03_pt03.wav
+"oggenc" "--title" "Chapter 03 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "012_ch03_pt03.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 5054.89 -t 567.28 -bitexact 013_ch03_pt04.wav
+"oggenc" "--title" "Chapter 03 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "013_ch03_pt04.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 5622.17 -t 440.16 -bitexact 014_ch04_pt01.wav
+"oggenc" "--title" "Chapter 04 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "014_ch04_pt01.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 6062.33 -t 571.48 -bitexact 015_ch04_pt02.wav
+"oggenc" "--title" "Chapter 04 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "015_ch04_pt02.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 6633.81 -t 333.75 -bitexact 016_ch04_pt03.wav
+"oggenc" "--title" "Chapter 04 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "016_ch04_pt03.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 6967.56 -t 356.87 -bitexact 017_ch04_pt04.wav
+"oggenc" "--title" "Chapter 04 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "017_ch04_pt04.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 7324.43 -t 563.92 -bitexact 018_ch04_pt05.wav
+"oggenc" "--title" "Chapter 04 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "018_ch04_pt05.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 7888.35 -t 427.209999999999 -bitexact 019_ch05_pt01.wav
+"oggenc" "--title" "Chapter 05 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "019_ch05_pt01.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 8315.56 -t 455.370000000001 -bitexact 020_ch05_pt02.wav
+"oggenc" "--title" "Chapter 05 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "020_ch05_pt02.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 8770.93 -t 444.940000000001 -bitexact 021_ch05_pt03.wav
+"oggenc" "--title" "Chapter 05 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "021_ch05_pt03.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 9215.87 -t 338.509999999998 -bitexact 022_ch05_pt04.wav
+"oggenc" "--title" "Chapter 05 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "022_ch05_pt04.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 9554.38 -t 337.02 -bitexact 023_ch05_pt05.wav
+"oggenc" "--title" "Chapter 05 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "023_ch05_pt05.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 9891.4 -t 366 -bitexact 024_ch05_pt06.wav
+"oggenc" "--title" "Chapter 05 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "024_ch05_pt06.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 10257.4 -t 377.6 -bitexact 025_ch05_pt07.wav
+"oggenc" "--title" "Chapter 05 - pt07" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "025_ch05_pt07.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 10635 -t 308.1 -bitexact 026_ch05_pt08.wav
+"oggenc" "--title" "Chapter 05 - pt08" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "026_ch05_pt08.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 10943.1 -t 322.5 -bitexact 027_ch05_pt09.wav
+"oggenc" "--title" "Chapter 05 - pt09" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "027_ch05_pt09.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 11265.6 -t 489.9 -bitexact 028_ch05_pt10.wav
+"oggenc" "--title" "Chapter 05 - pt10" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "028_ch05_pt10.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 11755.5 -t 374.5 -bitexact 029_ch06_pt01.wav
+"oggenc" "--title" "Chapter 06 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "029_ch06_pt01.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 12130 -t 420.9 -bitexact 030_ch06_pt02.wav
+"oggenc" "--title" "Chapter 06 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "030_ch06_pt02.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 12550.9 -t 473.4 -bitexact 031_ch06_pt03.wav
+"oggenc" "--title" "Chapter 06 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "031_ch06_pt03.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 13024.3 -t 445.800000000001 -bitexact 032_ch06_pt04.wav
+"oggenc" "--title" "Chapter 06 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "032_ch06_pt04.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 13470.1 -t 411.5 -bitexact 033_ch06_pt05.wav
+"oggenc" "--title" "Chapter 06 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "033_ch06_pt05.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 13881.6 -t 302.4 -bitexact 034_ch06_pt06.wav
+"oggenc" "--title" "Chapter 06 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "034_ch06_pt06.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 14184 -t 331.799999999999 -bitexact 035_ch06_pt07.wav
+"oggenc" "--title" "Chapter 06 - pt07" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "035_ch06_pt07.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 14515.8 -t 585.6 -bitexact 036_ch06_pt08.wav
+"oggenc" "--title" "Chapter 06 - pt08" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "036_ch06_pt08.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 15101.4 -t 355.300000000001 -bitexact 037_ch07_pt01.wav
+"oggenc" "--title" "Chapter 07 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "037_ch07_pt01.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 15456.7 -t 354.9 -bitexact 038_ch07_pt02.wav
+"oggenc" "--title" "Chapter 07 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "038_ch07_pt02.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 15811.6 -t 720.800000000001 -bitexact 039_ch07_pt03.wav
+"oggenc" "--title" "Chapter 07 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "039_ch07_pt03.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 16532.4 -t 804.099999999999 -bitexact 040_ch08_pt01.wav
+"oggenc" "--title" "Chapter 08 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "040_ch08_pt01.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 17336.5 -t 360.5 -bitexact 041_ch08_pt02.wav
+"oggenc" "--title" "Chapter 08 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "041_ch08_pt02.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 17697 -t 360.700000000001 -bitexact 042_ch08_pt03.wav
+"oggenc" "--title" "Chapter 08 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "042_ch08_pt03.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 18057.7 -t 1005.2 -bitexact 043_ch09_pt01.wav
+"oggenc" "--title" "Chapter 09 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "043_ch09_pt01.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 19062.9 -t 485.399999999998 -bitexact 044_ch10_pt01.wav
+"oggenc" "--title" "Chapter 10 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "044_ch10_pt01.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 19548.3 -t 419.299999999999 -bitexact 045_ch10_pt02.wav
+"oggenc" "--title" "Chapter 10 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "045_ch10_pt02.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 19967.6 -t 370.900000000001 -bitexact 046_ch10_pt03.wav
+"oggenc" "--title" "Chapter 10 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "046_ch10_pt03.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 20338.5 -t 614.400000000001 -bitexact 047_ch10_pt04.wav
+"oggenc" "--title" "Chapter 10 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "047_ch10_pt04.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 20952.9 -t 335.699999999997 -bitexact 048_ch11_pt01.wav
+"oggenc" "--title" "Chapter 11 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "048_ch11_pt01.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 21288.6 -t 340 -bitexact 049_ch11_pt02.wav
+"oggenc" "--title" "Chapter 11 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "049_ch11_pt02.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 21628.6 -t 568.600000000002 -bitexact 050_ch11_pt03.wav
+"oggenc" "--title" "Chapter 11 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "050_ch11_pt03.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 22197.2 -t 515.599999999999 -bitexact 051_ch11_pt04.wav
+"oggenc" "--title" "Chapter 11 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "051_ch11_pt04.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 22712.8 -t 364 -bitexact 052_ch11_pt05.wav
+"oggenc" "--title" "Chapter 11 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "052_ch11_pt05.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 23076.8 -t 766.700000000001 -bitexact 053_ch11_pt06.wav
+"oggenc" "--title" "Chapter 11 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "053_ch11_pt06.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 23843.5 -t 418.400000000001 -bitexact 054_ch12_pt01.wav
+"oggenc" "--title" "Chapter 12 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "054_ch12_pt01.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 24261.9 -t 477.799999999999 -bitexact 055_ch12_pt02.wav
+"oggenc" "--title" "Chapter 12 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "055_ch12_pt02.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 24739.7 -t 395.700000000001 -bitexact 056_ch12_pt03.wav
+"oggenc" "--title" "Chapter 12 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "056_ch12_pt03.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 25135.4 -t 458.799999999999 -bitexact 057_ch12_pt04.wav
+"oggenc" "--title" "Chapter 12 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "057_ch12_pt04.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 25594.2 -t 385 -bitexact 058_ch12_pt05.wav
+"oggenc" "--title" "Chapter 12 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "058_ch12_pt05.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 25979.2 -t 447.799999999999 -bitexact 059_ch12_pt06.wav
+"oggenc" "--title" "Chapter 12 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "059_ch12_pt06.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 26427 -t 309.700000000001 -bitexact 060_ch13_pt01.wav
+"oggenc" "--title" "Chapter 13 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "060_ch13_pt01.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 26736.7 -t 344 -bitexact 061_ch13_pt02.wav
+"oggenc" "--title" "Chapter 13 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "061_ch13_pt02.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 27080.7 -t 313.799999999999 -bitexact 062_ch13_pt03.wav
+"oggenc" "--title" "Chapter 13 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "062_ch13_pt03.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 27394.5 -t 497.099999999999 -bitexact 063_ch13_pt04.wav
+"oggenc" "--title" "Chapter 13 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "063_ch13_pt04.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 27891.6 -t 539.800000000003 -bitexact 064_ch14_pt01.wav
+"oggenc" "--title" "Chapter 14 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "064_ch14_pt01.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 28431.4 -t 393.699999999997 -bitexact 065_ch14_pt02.wav
+"oggenc" "--title" "Chapter 14 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "065_ch14_pt02.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 28825.1 -t 535.300000000003 -bitexact 066_ch14_pt03.wav
+"oggenc" "--title" "Chapter 14 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "066_ch14_pt03.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 29360.4 -t 633.199999999997 -bitexact 067_ch14_pt04.wav
+"oggenc" "--title" "Chapter 14 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "067_ch14_pt04.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 29993.6 -t 346.700000000001 -bitexact 068_ch15_pt01.wav
+"oggenc" "--title" "Chapter 15 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "068_ch15_pt01.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 30340.3 -t 378.799999999999 -bitexact 069_ch15_pt02.wav
+"oggenc" "--title" "Chapter 15 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "069_ch15_pt02.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 30719.1 -t 450.600000000002 -bitexact 070_ch15_pt03.wav
+"oggenc" "--title" "Chapter 15 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "070_ch15_pt03.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 31169.7 -t 302.200000000001 -bitexact 071_ch15_pt04.wav
+"oggenc" "--title" "Chapter 15 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "071_ch15_pt04.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 31471.9 -t 313.199999999997 -bitexact 072_ch15_pt05.wav
+"oggenc" "--title" "Chapter 15 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "072_ch15_pt05.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 31785.1 -t 333.400000000001 -bitexact 073_ch15_pt06.wav
+"oggenc" "--title" "Chapter 15 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "073_ch15_pt06.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 32118.5 -t 397.400000000001 -bitexact 074_ch16_pt01.wav
+"oggenc" "--title" "Chapter 16 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "074_ch16_pt01.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 32515.9 -t 687.099999999999 -bitexact 075_ch16_pt02.wav
+"oggenc" "--title" "Chapter 16 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "075_ch16_pt02.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 33203 -t 317 -bitexact 076_ch16_pt03.wav
+"oggenc" "--title" "Chapter 16 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "076_ch16_pt03.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 33520 -t 506.099999999999 -bitexact 077_ch16_pt04.wav
+"oggenc" "--title" "Chapter 16 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "077_ch16_pt04.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 34026.1 -t 479.300000000003 -bitexact 078_ch16_pt05.wav
+"oggenc" "--title" "Chapter 16 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "078_ch16_pt05.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 34505.4 -t 381.400000000001 -bitexact 079_ch16_pt06.wav
+"oggenc" "--title" "Chapter 16 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "079_ch16_pt06.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 34886.8 -t 384.299999999996 -bitexact 080_ch16_pt07.wav
+"oggenc" "--title" "Chapter 16 - pt07" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "080_ch16_pt07.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 35271.1 -t 907.900000000001 -bitexact 081_ch17_pt01.wav
+"oggenc" "--title" "Chapter 17 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "081_ch17_pt01.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 36179 -t 462.599999999999 -bitexact 082_ch17_pt02.wav
+"oggenc" "--title" "Chapter 17 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "082_ch17_pt02.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 36641.6 -t 660.800000000003 -bitexact 083_ch17_pt03.wav
+"oggenc" "--title" "Chapter 17 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "083_ch17_pt03.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 37302.4 -t 482.799999999996 -bitexact 084_ch18_pt01.wav
+"oggenc" "--title" "Chapter 18 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "084_ch18_pt01.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 37785.2 -t 332.600000000006 -bitexact 085_ch18_pt02.wav
+"oggenc" "--title" "Chapter 18 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "085_ch18_pt02.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 38117.8 -t 328.899999999994 -bitexact 086_ch18_pt03.wav
+"oggenc" "--title" "Chapter 18 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "086_ch18_pt03.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 38446.7 -t 476.100000000006 -bitexact 087_ch18_pt04.wav
+"oggenc" "--title" "Chapter 18 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "087_ch18_pt04.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 38922.8 -t 351.299999999996 -bitexact 088_ch18_pt05.wav
+"oggenc" "--title" "Chapter 18 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "088_ch18_pt05.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 39274.1 -t 702.900000000001 -bitexact 089_ch18_pt06.wav
+"oggenc" "--title" "Chapter 18 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "089_ch18_pt06.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 39977 -t 382.5 -bitexact 090_ch19_pt01.wav
+"oggenc" "--title" "Chapter 19 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "090_ch19_pt01.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 40359.5 -t 378.5 -bitexact 091_ch19_pt02.wav
+"oggenc" "--title" "Chapter 19 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "091_ch19_pt02.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 40738 -t 350.400000000001 -bitexact 092_ch19_pt03.wav
+"oggenc" "--title" "Chapter 19 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "092_ch19_pt03.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 41088.4 -t 407.699999999997 -bitexact 093_ch19_pt04.wav
+"oggenc" "--title" "Chapter 19 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "093_ch19_pt04.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 41496.1 -t 385 -bitexact 094_ch20_pt01.wav
+"oggenc" "--title" "Chapter 20 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "094_ch20_pt01.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 41881.1 -t 551.300000000003 -bitexact 095_ch20_pt02.wav
+"oggenc" "--title" "Chapter 20 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "095_ch20_pt02.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 42432.4 -t 412.400000000001 -bitexact 096_ch20_pt03.wav
+"oggenc" "--title" "Chapter 20 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "096_ch20_pt03.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 42844.8 -t 395.5 -bitexact 097_ch20_pt04.wav
+"oggenc" "--title" "Chapter 20 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "097_ch20_pt04.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 43240.3 -t 347.199999999997 -bitexact 098_ch20_pt05.wav
+"oggenc" "--title" "Chapter 20 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "098_ch20_pt05.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 43587.5 -t 689.800000000003 -bitexact 099_ch20_pt06.wav
+"oggenc" "--title" "Chapter 20 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "099_ch20_pt06.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 44277.3 -t 321.099999999999 -bitexact 100_ch21_pt01.wav
+"oggenc" "--title" "Chapter 21 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "100_ch21_pt01.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 44598.4 -t 462.299999999996 -bitexact 101_ch21_pt02.wav
+"oggenc" "--title" "Chapter 21 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "101_ch21_pt02.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 45060.7 -t 380.200000000004 -bitexact 102_ch21_pt03.wav
+"oggenc" "--title" "Chapter 21 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "102_ch21_pt03.wav"
+ffmpeg -i googleplay_komarr.m4a.orig -ss 45440.9 -t 408.57 -bitexact 103_ch21_pt04.wav
+"oggenc" "--title" "Chapter 21 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Komarr" "103_ch21_pt04.wav"
