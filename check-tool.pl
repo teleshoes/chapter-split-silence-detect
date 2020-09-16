@@ -23,7 +23,8 @@ my $usage = "Usage:
     show this message
 
   $EXEC [OPTS]
-    check info files for each dir, and compare against converted oggs
+    check info files for each DIR, and compare against converted oggs
+    also create symlink DIR/finished-oggs/original-file to DIR
 
   OPTS
     --quick
@@ -52,6 +53,7 @@ my $usage = "Usage:
 sub main(@){
   my $oggDurTool = $OGG_DUR_TOOL_SOXI;
   my $recalculateInfo = 1;
+  my $createOriginalFileSymlink = 1;
   while(@_ > 0 and $_[0] =~ /^-/){
     my $arg = shift;
     if($arg =~ /^(-h|--help)$/){
@@ -97,6 +99,18 @@ sub main(@){
 
     if(not -l "$BASE_DIR/$dir/finished-oggs" or not -d "$BASE_DIR/$dir/finished-oggs/"){
       die "ERROR: invalid/missing finished-oggs symlink for $dir\n";
+    }
+
+    my $originalFileSymlink = "$BASE_DIR/$dir/finished-oggs/original-file";
+    if($createOriginalFileSymlink){
+      if(-l $originalFileSymlink){
+        system "rm", $originalFileSymlink;
+      }
+      die "ERROR: could not remove $originalFileSymlink\n" if -e $originalFileSymlink;
+      system "ln", "-s", "$BASE_DIR/$dir", $originalFileSymlink;
+      if(not -l $originalFileSymlink or not -d "$originalFileSymlink/"){
+        die "ERROR: could not create $originalFileSymlink\n";
+      }
     }
 
     my @oggs = glob "$BASE_DIR/$dir/finished-oggs/*.ogg";
