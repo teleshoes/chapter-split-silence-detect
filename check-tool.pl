@@ -5,6 +5,8 @@ use File::Basename qw(basename dirname);
 
 my $BASE_DIR = dirname $0;
 
+my $ALLOWED_DURATION_DIFF_MILLIS = 60; #0.05s is the biggest actual diff seen so far
+
 sub assertExists(@);
 sub getDirs();
 sub gitCommitExistingDirs();
@@ -51,6 +53,24 @@ sub main(@){
       }
     }
 
+    my %wavDurations;
+    my @wavDurationLines = `cat $BASE_DIR/$dir/wav-durations`;
+    for my $line(@wavDurationLines){
+      if($line =~ /^(\d+|\d*\.\d+) (.*\.wav)$/){
+        $wavDurations{$2} = $1;
+      }
+    }
+
+    my %ffmpegDurations;
+    for my $wav(sort keys %ffmpegCmds){
+      my $ffmpegCmd = $ffmpegCmds{$wav};
+      if($ffmpegCmd =~ / -t (\d+|\d*\.\d+) /){
+        $ffmpegDurations{$wav} = $1;
+      }else{
+        die "ERROR: could not read duration from ffmpeg cmd \"$ffmpegCmd\"\n";
+      }
+    }
+
     my %oggsByWav = map {my $wav=basename $_; $wav=~s/\.ogg/\.wav/; $wav => $_} @oggs;
 
     for my $wav(sort keys %ffmpegCmds, sort keys %oggencCmds){
@@ -62,6 +82,26 @@ sub main(@){
 
       die "ERROR: missing ffmpeg cmd for $wav\n" if not defined $ffmpegCmds{$wav};
       die "ERROR: missing oggenc cmd for $wav\n" if not defined $oggencCmds{$wav};
+
+      my $wavDur = $wavDurations{$wav};
+      my $ffmpegDur = $ffmpegDurations{$wav};
+
+      my $oggDur = `duration -s -n $oggFile`;
+      if($oggDur !~ /^(\d+|\d*\.\d+)$/ or $oggDur == 0){
+        die "ERROR: missing/invalid dur for $oggFile\n";
+      }
+
+      my $wavDurDiff = $wavDur - $oggDur;
+      $wavDurDiff *= -1 if $wavDurDiff < 0;
+      if($wavDurDiff > $ALLOWED_DURATION_DIFF_MILLIS/1000.0){
+        die "ERROR: mismatched ogg vs wav dur for $oggFile ($oggDur vs $wavDur)\n";
+      }
+
+      my $ffmpegDurDiff = $oggDur - $ffmpegDur;
+      $ffmpegDurDiff *= -1 if $ffmpegDurDiff < 0;
+      if($ffmpegDurDiff > $ALLOWED_DURATION_DIFF_MILLIS/1000.0){
+        die "ERROR: mismatched ogg vs ffmpeg dur for $oggFile ($oggDur vs $ffmpegDur)\n";
+      }
     }
   }
 
