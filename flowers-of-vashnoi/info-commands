@@ -1,0 +1,58 @@
+ffmpeg -i googleplay_the_flowers_of_vashnoi.m4a.orig -ss 0 -t 303.126 -bitexact 01_ch1_pt01.wav
+"oggenc" "--title" "Chapter 1 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Flowers of Vashnoi" "01_ch1_pt01.wav"
+ffmpeg -i googleplay_the_flowers_of_vashnoi.m4a.orig -ss 303.126 -t 317.785 -bitexact 02_ch1_pt02.wav
+"oggenc" "--title" "Chapter 1 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Flowers of Vashnoi" "02_ch1_pt02.wav"
+ffmpeg -i googleplay_the_flowers_of_vashnoi.m4a.orig -ss 620.911 -t 338.004 -bitexact 03_ch1_pt03.wav
+"oggenc" "--title" "Chapter 1 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Flowers of Vashnoi" "03_ch1_pt03.wav"
+ffmpeg -i googleplay_the_flowers_of_vashnoi.m4a.orig -ss 958.915 -t 308.395 -bitexact 04_ch1_pt04.wav
+"oggenc" "--title" "Chapter 1 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Flowers of Vashnoi" "04_ch1_pt04.wav"
+ffmpeg -i googleplay_the_flowers_of_vashnoi.m4a.orig -ss 1267.31 -t 326.27 -bitexact 05_ch1_pt05.wav
+"oggenc" "--title" "Chapter 1 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Flowers of Vashnoi" "05_ch1_pt05.wav"
+ffmpeg -i googleplay_the_flowers_of_vashnoi.m4a.orig -ss 1593.58 -t 324.83 -bitexact 06_ch1_pt06.wav
+"oggenc" "--title" "Chapter 1 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Flowers of Vashnoi" "06_ch1_pt06.wav"
+ffmpeg -i googleplay_the_flowers_of_vashnoi.m4a.orig -ss 1918.41 -t 323.16 -bitexact 07_ch1_pt07.wav
+"oggenc" "--title" "Chapter 1 - pt07" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Flowers of Vashnoi" "07_ch1_pt07.wav"
+ffmpeg -i googleplay_the_flowers_of_vashnoi.m4a.orig -ss 2241.57 -t 328.22 -bitexact 08_ch1_pt08.wav
+"oggenc" "--title" "Chapter 1 - pt08" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Flowers of Vashnoi" "08_ch1_pt08.wav"
+ffmpeg -i googleplay_the_flowers_of_vashnoi.m4a.orig -ss 2569.79 -t 428.97 -bitexact 09_ch1_pt09.wav
+"oggenc" "--title" "Chapter 1 - pt09" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Flowers of Vashnoi" "09_ch1_pt09.wav"
+ffmpeg -i googleplay_the_flowers_of_vashnoi.m4a.orig -ss 2998.76 -t 303.39 -bitexact 10_ch1_pt10.wav
+"oggenc" "--title" "Chapter 1 - pt10" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Flowers of Vashnoi" "10_ch1_pt10.wav"
+ffmpeg -i googleplay_the_flowers_of_vashnoi.m4a.orig -ss 3302.15 -t 453.09 -bitexact 11_ch1_pt11.wav
+"oggenc" "--title" "Chapter 1 - pt11" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Flowers of Vashnoi" "11_ch1_pt11.wav"
+ffmpeg -i googleplay_the_flowers_of_vashnoi.m4a.orig -ss 3755.24 -t 314.22 -bitexact 12_ch2_pt01.wav
+"oggenc" "--title" "Chapter 2 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Flowers of Vashnoi" "12_ch2_pt01.wav"
+ffmpeg -i googleplay_the_flowers_of_vashnoi.m4a.orig -ss 4069.46 -t 407.88 -bitexact 13_ch2_pt02.wav
+"oggenc" "--title" "Chapter 2 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Flowers of Vashnoi" "13_ch2_pt02.wav"
+ffmpeg -i googleplay_the_flowers_of_vashnoi.m4a.orig -ss 4477.34 -t 306.53 -bitexact 14_ch2_pt03.wav
+"oggenc" "--title" "Chapter 2 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Flowers of Vashnoi" "14_ch2_pt03.wav"
+ffmpeg -i googleplay_the_flowers_of_vashnoi.m4a.orig -ss 4783.87 -t 336.27 -bitexact 15_ch2_pt04.wav
+"oggenc" "--title" "Chapter 2 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Flowers of Vashnoi" "15_ch2_pt04.wav"
+ffmpeg -i googleplay_the_flowers_of_vashnoi.m4a.orig -ss 5120.14 -t 366.78 -bitexact 16_ch2_pt05.wav
+"oggenc" "--title" "Chapter 2 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Flowers of Vashnoi" "16_ch2_pt05.wav"
+ffmpeg -i googleplay_the_flowers_of_vashnoi.m4a.orig -ss 5486.92 -t 348.25 -bitexact 17_ch2_pt06.wav
+"oggenc" "--title" "Chapter 2 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Flowers of Vashnoi" "17_ch2_pt06.wav"
+ffmpeg -i googleplay_the_flowers_of_vashnoi.m4a.orig -ss 5835.17 -t 302.62 -bitexact 18_ch2_pt07.wav
+"oggenc" "--title" "Chapter 2 - pt07" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Flowers of Vashnoi" "18_ch2_pt07.wav"
+ffmpeg -i googleplay_the_flowers_of_vashnoi.m4a.orig -ss 6137.79 -t 407.79 -bitexact 19_ch2_pt08.wav
+"oggenc" "--title" "Chapter 2 - pt08" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Flowers of Vashnoi" "19_ch2_pt08.wav"
+ffmpeg -i googleplay_the_flowers_of_vashnoi.m4a.orig -ss 6545.58 -t 303.61 -bitexact 20_ch2_pt09.wav
+"oggenc" "--title" "Chapter 2 - pt09" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Flowers of Vashnoi" "20_ch2_pt09.wav"
+ffmpeg -i googleplay_the_flowers_of_vashnoi.m4a.orig -ss 6849.19 -t 493.6 -bitexact 21_ch2_pt10.wav
+"oggenc" "--title" "Chapter 2 - pt10" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Flowers of Vashnoi" "21_ch2_pt10.wav"
+ffmpeg -i googleplay_the_flowers_of_vashnoi.m4a.orig -ss 7342.79 -t 317.65 -bitexact 22_ch3_pt01.wav
+"oggenc" "--title" "Chapter 3 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Flowers of Vashnoi" "22_ch3_pt01.wav"
+ffmpeg -i googleplay_the_flowers_of_vashnoi.m4a.orig -ss 7660.44 -t 302.06 -bitexact 23_ch3_pt02.wav
+"oggenc" "--title" "Chapter 3 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Flowers of Vashnoi" "23_ch3_pt02.wav"
+ffmpeg -i googleplay_the_flowers_of_vashnoi.m4a.orig -ss 7962.5 -t 363.73 -bitexact 24_ch3_pt03.wav
+"oggenc" "--title" "Chapter 3 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Flowers of Vashnoi" "24_ch3_pt03.wav"
+ffmpeg -i googleplay_the_flowers_of_vashnoi.m4a.orig -ss 8326.23 -t 325.860000000001 -bitexact 25_ch3_pt04.wav
+"oggenc" "--title" "Chapter 3 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Flowers of Vashnoi" "25_ch3_pt04.wav"
+ffmpeg -i googleplay_the_flowers_of_vashnoi.m4a.orig -ss 8652.09 -t 312.780000000001 -bitexact 26_ch3_pt05.wav
+"oggenc" "--title" "Chapter 3 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Flowers of Vashnoi" "26_ch3_pt05.wav"
+ffmpeg -i googleplay_the_flowers_of_vashnoi.m4a.orig -ss 8964.87 -t 393.539999999999 -bitexact 27_ch3_pt06.wav
+"oggenc" "--title" "Chapter 3 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Flowers of Vashnoi" "27_ch3_pt06.wav"
+ffmpeg -i googleplay_the_flowers_of_vashnoi.m4a.orig -ss 9358.41 -t 321.200000000001 -bitexact 28_ch3_pt07.wav
+"oggenc" "--title" "Chapter 3 - pt07" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Flowers of Vashnoi" "28_ch3_pt07.wav"
+ffmpeg -i googleplay_the_flowers_of_vashnoi.m4a.orig -ss 9679.61 -t 548.92 -bitexact 29_ch3_pt08.wav
+"oggenc" "--title" "Chapter 3 - pt08" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "The Flowers of Vashnoi" "29_ch3_pt08.wav"
