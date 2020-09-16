@@ -32,11 +32,11 @@ my $usage = "Usage:
       use DUR_TOOL to read OGG duration
 
   DUR_TOOL = soxi|duration|none
-    soxi
+    soxi    {DEFAULT}
       `soxi -D` to read duration from metadata
       quick, but may not give the same value as ffmpeg
 
-    duration    {DEFAULT}
+    duration
       `duration -n -s` to read duration using ffmpeg
        SLOW, but guaranteed to exactly match `wav-durations` file
 
@@ -46,7 +46,7 @@ my $usage = "Usage:
 ";
 
 sub main(@){
-  my $oggDurTool = $OGG_DUR_TOOL_DURATION;
+  my $oggDurTool = $OGG_DUR_TOOL_SOXI;
   my $recalculateInfo = 1;
   while(@_ > 0 and $_[0] =~ /^-/){
     my $arg = shift;
