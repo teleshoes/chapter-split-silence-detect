@@ -10,7 +10,6 @@ args=(
   --custom-chapter-name="6:Dreamweaver's Dilemma Part2"
   --custom-chapter-name="7:Aftermaths"
 
-
   --long-breaks-min-silence-millis=999999999
 
   --force-chapter-break-end-seconds=413.423 #ch2
@@ -19,9 +18,6 @@ args=(
   --force-chapter-break-end-seconds=4687.06 #ch5
   --force-chapter-break-end-seconds=8086.56 #ch6
   --force-chapter-break-end-seconds=11350.3 #ch7
-
-
-
 
   googleplay_proto_zoa.m4a.orig
 )

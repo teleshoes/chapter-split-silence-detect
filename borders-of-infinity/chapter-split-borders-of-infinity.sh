@@ -2,11 +2,6 @@
 args=(
   --artist="Lois McMaster Bujold, Grover Gardner"
   --album="Borders of Infinity"
-
-  #skip automatic long-break detection and force all chapters
-  --long-breaks-min-silence-millis=999999999
-  --shortest-chapter-len-millis=82000 #teeny chapter 1:22
-
   --custom-chapter-name="1:One"
   --custom-chapter-name="2:The Mountains of Mourning part1"
   --custom-chapter-name="3:The Mountains of Mourning part2"
@@ -20,6 +15,10 @@ args=(
   --custom-chapter-name="11:Borders of Infinity part2"
   --custom-chapter-name="12:Borders of Infinity part3"
   --custom-chapter-name="13:Four"
+
+  #skip automatic long-break detection and force all chapters
+  --long-breaks-min-silence-millis=999999999
+  --shortest-chapter-len-millis=82000 #teeny chapter 1:22
 
   --force-chapter-break-end-seconds=704.76
   --force-chapter-break-end-seconds=4117.11

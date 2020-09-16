@@ -2,8 +2,9 @@
 args=(
   --artist="Lois McMaster Bujold, Grover Gardner"
   --album="The Warrior's Apprentice"
-  --shortest-chapter-len-millis=976000
   --custom-chapter-name="22:Epilogue"
+
+  --shortest-chapter-len-millis=976000
 
   --force-chapter-break-end-seconds=14614.7
   --force-chapter-break-end-seconds=19202.6
@@ -17,6 +18,7 @@ args=(
   --fake-chapter-break-end-seconds=7429.02
   --fake-chapter-break-end-seconds=22499
   --fake-chapter-break-end-seconds=38178
+
   googleplay_warriors_apprentice.m4a.orig
 )
 chapter-split.pl "${args[@]}" "$@"
