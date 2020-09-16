@@ -6,9 +6,9 @@ args=(
 
   --shortest-chapter-len-millis=2270000
 
-  --fake-chapter-break-end-seconds=4671.8
-
   --force-chapter-break-end-seconds=16254 #ch6
+
+  --fake-chapter-break-end-seconds=4671.8
 
   googleplay_a_civil_campaign.m4a.orig
 )
