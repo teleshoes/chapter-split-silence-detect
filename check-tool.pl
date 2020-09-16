@@ -33,6 +33,9 @@ my $usage = "Usage:
     --skip-info
       do not recalculate output info
 
+    --skip-original-file-symlink
+      do not create symlink 'original-file' in finished-oggs dir
+
     --dur-tool=DUR_TOOL
       use DUR_TOOL to read OGG duration
 
@@ -64,6 +67,8 @@ sub main(@){
       $oggDurTool = $OGG_DUR_TOOL_NONE;
     }elsif($arg =~ /^(--skip-info)$/){
       $recalculateInfo = 0;
+    }elsif($arg =~ /^(--skip-original-file-symlink)$/){
+      $createOriginalFileSymlink = 0;
     }elsif($arg =~ /^--dur-tool=($OGG_DUR_TOOL_SOXI|$OGG_DUR_TOOL_DURATION|$OGG_DUR_TOOL_NONE)$/){
       $oggDurTool = $1;
     }else{
