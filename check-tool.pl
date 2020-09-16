@@ -17,16 +17,23 @@ my $usage = "Usage:
   $EXEC -h | --help
     show this message
 
-  $EXEC
+  $EXEC [OPTS]
     check info files for each dir, and compare against converted oggs
+
+  OPTS
+    --skip-info
+      do not recalculate output info
 ";
 
 sub main(@){
+  my $recalculateInfo = 1;
   while(@_ > 0 and $_[0] =~ /^-/){
     my $arg = shift;
     if($arg =~ /^(-h|--help)$/){
       print $usage;
       exit 0;
+    }elsif($arg =~ /^(--skip-info)$/){
+      $recalculateInfo = 0;
     }else{
       die "$usage\nERROR: unknown arg $arg\n";
     }
@@ -38,13 +45,17 @@ sub main(@){
 
   for my $dir(getDirs()){
     print "CHECKING: $dir\n";
-    system "rm $BASE_DIR/$dir/info-chapters";
-    system "rm $BASE_DIR/$dir/info-commands";
-    if(-e "$BASE_DIR/$dir/info-chapters" or -e "$BASE_DIR/$dir/info-commands"){
-      die "ERROR: could not remove info-chapters/info-commands for $dir\n";
-    }
 
-    system "cd $BASE_DIR/$dir/ && ./chapter-split-$dir.sh --output-info";
+    if($recalculateInfo){
+      system "rm $BASE_DIR/$dir/info-chapters";
+      system "rm $BASE_DIR/$dir/info-commands";
+
+      if(-e "$BASE_DIR/$dir/info-chapters" or -e "$BASE_DIR/$dir/info-commands"){
+        die "ERROR: could not remove info-chapters/info-commands for $dir\n";
+      }
+
+      system "cd $BASE_DIR/$dir/ && ./chapter-split-$dir.sh --output-info";
+    }
 
     assertExists(
       "$BASE_DIR/$dir/info-chapters",
