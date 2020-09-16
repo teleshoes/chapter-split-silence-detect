@@ -1,0 +1,170 @@
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 0 -t 347.046 -bitexact 01_ch01_pt1.wav
+"oggenc" "--title" "Chapter 01 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "01_ch01_pt1.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 347.046 -t 431.936 -bitexact 02_ch01_pt2.wav
+"oggenc" "--title" "Chapter 01 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "02_ch01_pt2.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 778.982 -t 415.068 -bitexact 03_ch01_pt3.wav
+"oggenc" "--title" "Chapter 01 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "03_ch01_pt3.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 1194.05 -t 351.77 -bitexact 04_ch01_pt4.wav
+"oggenc" "--title" "Chapter 01 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "04_ch01_pt4.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 1545.82 -t 315.57 -bitexact 05_ch01_pt5.wav
+"oggenc" "--title" "Chapter 01 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "05_ch01_pt5.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 1861.39 -t 301.26 -bitexact 06_ch01_pt6.wav
+"oggenc" "--title" "Chapter 01 - pt6" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "06_ch01_pt6.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 2162.65 -t 1209.95 -bitexact 07_ch02_pt1.wav
+"oggenc" "--title" "Chapter 02 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "07_ch02_pt1.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 3372.6 -t 695.61 -bitexact 08_ch02_pt2.wav
+"oggenc" "--title" "Chapter 02 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "08_ch02_pt2.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 4068.21 -t 585.25 -bitexact 09_ch03_pt1.wav
+"oggenc" "--title" "Chapter 03 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "09_ch03_pt1.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 4653.46 -t 330.06 -bitexact 10_ch03_pt2.wav
+"oggenc" "--title" "Chapter 03 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "10_ch03_pt2.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 4983.52 -t 360.049999999999 -bitexact 11_ch03_pt3.wav
+"oggenc" "--title" "Chapter 03 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "11_ch03_pt3.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 5343.57 -t 389.25 -bitexact 12_ch03_pt4.wav
+"oggenc" "--title" "Chapter 03 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "12_ch03_pt4.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 5732.82 -t 426.42 -bitexact 13_ch03_pt5.wav
+"oggenc" "--title" "Chapter 03 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "13_ch03_pt5.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 6159.24 -t 328.66 -bitexact 14_ch04_pt1.wav
+"oggenc" "--title" "Chapter 04 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "14_ch04_pt1.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 6487.9 -t 593.18 -bitexact 15_ch04_pt2.wav
+"oggenc" "--title" "Chapter 04 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "15_ch04_pt2.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 7081.08 -t 301.46 -bitexact 16_ch04_pt3.wav
+"oggenc" "--title" "Chapter 04 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "16_ch04_pt3.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 7382.54 -t 711.48 -bitexact 17_ch04_pt4.wav
+"oggenc" "--title" "Chapter 04 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "17_ch04_pt4.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 8094.02 -t 440.039999999999 -bitexact 18_ch05_pt1.wav
+"oggenc" "--title" "Chapter 05 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "18_ch05_pt1.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 8534.06 -t 320.210000000001 -bitexact 19_ch05_pt2.wav
+"oggenc" "--title" "Chapter 05 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "19_ch05_pt2.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 8854.27 -t 557.119999999999 -bitexact 20_ch05_pt3.wav
+"oggenc" "--title" "Chapter 05 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "20_ch05_pt3.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 9411.39 -t 544.83 -bitexact 21_ch05_pt4.wav
+"oggenc" "--title" "Chapter 05 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "21_ch05_pt4.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 9956.22 -t 348.780000000001 -bitexact 22_ch06_pt1.wav
+"oggenc" "--title" "Chapter 06 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "22_ch06_pt1.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 10305 -t 310 -bitexact 23_ch06_pt2.wav
+"oggenc" "--title" "Chapter 06 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "23_ch06_pt2.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 10615 -t 315.299999999999 -bitexact 24_ch06_pt3.wav
+"oggenc" "--title" "Chapter 06 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "24_ch06_pt3.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 10930.3 -t 469.800000000001 -bitexact 25_ch06_pt4.wav
+"oggenc" "--title" "Chapter 06 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "25_ch06_pt4.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 11400.1 -t 310.9 -bitexact 26_ch06_pt5.wav
+"oggenc" "--title" "Chapter 06 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "26_ch06_pt5.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 11711 -t 333.200000000001 -bitexact 27_ch07_pt1.wav
+"oggenc" "--title" "Chapter 07 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "27_ch07_pt1.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 12044.2 -t 593.699999999999 -bitexact 28_ch07_pt2.wav
+"oggenc" "--title" "Chapter 07 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "28_ch07_pt2.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 12637.9 -t 790.300000000001 -bitexact 29_ch07_pt3.wav
+"oggenc" "--title" "Chapter 07 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "29_ch07_pt3.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 13428.2 -t 452.599999999999 -bitexact 30_ch08_pt1.wav
+"oggenc" "--title" "Chapter 08 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "30_ch08_pt1.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 13880.8 -t 388.6 -bitexact 31_ch08_pt2.wav
+"oggenc" "--title" "Chapter 08 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "31_ch08_pt2.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 14269.4 -t 618.1 -bitexact 32_ch08_pt3.wav
+"oggenc" "--title" "Chapter 08 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "32_ch08_pt3.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 14887.5 -t 322.6 -bitexact 33_ch08_pt4.wav
+"oggenc" "--title" "Chapter 08 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "33_ch08_pt4.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 15210.1 -t 496.9 -bitexact 34_ch09_pt1.wav
+"oggenc" "--title" "Chapter 09 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "34_ch09_pt1.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 15707 -t 328.5 -bitexact 35_ch09_pt2.wav
+"oggenc" "--title" "Chapter 09 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "35_ch09_pt2.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 16035.5 -t 583.200000000001 -bitexact 36_ch09_pt3.wav
+"oggenc" "--title" "Chapter 09 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "36_ch09_pt3.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 16618.7 -t 405 -bitexact 37_ch09_pt4.wav
+"oggenc" "--title" "Chapter 09 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "37_ch09_pt4.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 17023.7 -t 375.099999999999 -bitexact 38_ch09_pt5.wav
+"oggenc" "--title" "Chapter 09 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "38_ch09_pt5.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 17398.8 -t 355.299999999999 -bitexact 39_ch10_pt1.wav
+"oggenc" "--title" "Chapter 10 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "39_ch10_pt1.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 17754.1 -t 343.5 -bitexact 40_ch10_pt2.wav
+"oggenc" "--title" "Chapter 10 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "40_ch10_pt2.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 18097.6 -t 404.100000000002 -bitexact 41_ch10_pt3.wav
+"oggenc" "--title" "Chapter 10 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "41_ch10_pt3.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 18501.7 -t 341.099999999999 -bitexact 42_ch10_pt4.wav
+"oggenc" "--title" "Chapter 10 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "42_ch10_pt4.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 18842.8 -t 403.200000000001 -bitexact 43_ch10_pt5.wav
+"oggenc" "--title" "Chapter 10 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "43_ch10_pt5.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 19246 -t 487.5 -bitexact 44_ch11_pt1.wav
+"oggenc" "--title" "Chapter 11 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "44_ch11_pt1.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 19733.5 -t 342.5 -bitexact 45_ch11_pt2.wav
+"oggenc" "--title" "Chapter 11 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "45_ch11_pt2.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 20076 -t 311.700000000001 -bitexact 46_ch11_pt3.wav
+"oggenc" "--title" "Chapter 11 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "46_ch11_pt3.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 20387.7 -t 427.099999999999 -bitexact 47_ch11_pt4.wav
+"oggenc" "--title" "Chapter 11 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "47_ch11_pt4.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 20814.8 -t 333.5 -bitexact 48_ch12_pt1.wav
+"oggenc" "--title" "Chapter 12 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "48_ch12_pt1.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 21148.3 -t 402.900000000001 -bitexact 49_ch12_pt2.wav
+"oggenc" "--title" "Chapter 12 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "49_ch12_pt2.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 21551.2 -t 336.700000000001 -bitexact 50_ch12_pt3.wav
+"oggenc" "--title" "Chapter 12 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "50_ch12_pt3.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 21887.9 -t 585.099999999999 -bitexact 51_ch12_pt4.wav
+"oggenc" "--title" "Chapter 12 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "51_ch12_pt4.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 22473 -t 413.799999999999 -bitexact 52_ch13_pt1.wav
+"oggenc" "--title" "Chapter 13 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "52_ch13_pt1.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 22886.8 -t 301.100000000002 -bitexact 53_ch13_pt2.wav
+"oggenc" "--title" "Chapter 13 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "53_ch13_pt2.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 23187.9 -t 311.299999999999 -bitexact 54_ch13_pt3.wav
+"oggenc" "--title" "Chapter 13 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "54_ch13_pt3.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 23499.2 -t 309.899999999998 -bitexact 55_ch13_pt4.wav
+"oggenc" "--title" "Chapter 13 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "55_ch13_pt4.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 23809.1 -t 885.300000000003 -bitexact 56_ch13_pt5.wav
+"oggenc" "--title" "Chapter 13 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "56_ch13_pt5.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 24694.4 -t 453.5 -bitexact 57_ch14_pt1.wav
+"oggenc" "--title" "Chapter 14 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "57_ch14_pt1.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 25147.9 -t 378.299999999999 -bitexact 58_ch14_pt2.wav
+"oggenc" "--title" "Chapter 14 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "58_ch14_pt2.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 25526.2 -t 548.599999999999 -bitexact 59_ch14_pt3.wav
+"oggenc" "--title" "Chapter 14 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "59_ch14_pt3.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 26074.8 -t 529.5 -bitexact 60_ch14_pt4.wav
+"oggenc" "--title" "Chapter 14 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "60_ch14_pt4.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 26604.3 -t 351.799999999999 -bitexact 61_ch14_pt5.wav
+"oggenc" "--title" "Chapter 14 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "61_ch14_pt5.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 26956.1 -t 345 -bitexact 62_ch15_pt1.wav
+"oggenc" "--title" "Chapter 15 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "62_ch15_pt1.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 27301.1 -t 305.100000000002 -bitexact 63_ch15_pt2.wav
+"oggenc" "--title" "Chapter 15 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "63_ch15_pt2.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 27606.2 -t 1019.9 -bitexact 64_ch15_pt3.wav
+"oggenc" "--title" "Chapter 15 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "64_ch15_pt3.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 28626.1 -t 358.900000000001 -bitexact 65_ch16_pt1.wav
+"oggenc" "--title" "Chapter 16 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "65_ch16_pt1.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 28985 -t 430.599999999999 -bitexact 66_ch16_pt2.wav
+"oggenc" "--title" "Chapter 16 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "66_ch16_pt2.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 29415.6 -t 696.300000000003 -bitexact 67_ch16_pt3.wav
+"oggenc" "--title" "Chapter 16 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "67_ch16_pt3.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 30111.9 -t 524.699999999997 -bitexact 68_ch16_pt4.wav
+"oggenc" "--title" "Chapter 16 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "68_ch16_pt4.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 30636.6 -t 551.100000000002 -bitexact 69_ch17_pt1.wav
+"oggenc" "--title" "Chapter 17 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "69_ch17_pt1.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 31187.7 -t 328.700000000001 -bitexact 70_ch17_pt2.wav
+"oggenc" "--title" "Chapter 17 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "70_ch17_pt2.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 31516.4 -t 433.199999999997 -bitexact 71_ch17_pt3.wav
+"oggenc" "--title" "Chapter 17 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "71_ch17_pt3.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 31949.6 -t 509.400000000001 -bitexact 72_ch17_pt4.wav
+"oggenc" "--title" "Chapter 17 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "72_ch17_pt4.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 32459 -t 400 -bitexact 73_ch18_pt1.wav
+"oggenc" "--title" "Chapter 18 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "73_ch18_pt1.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 32859 -t 375.900000000001 -bitexact 74_ch18_pt2.wav
+"oggenc" "--title" "Chapter 18 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "74_ch18_pt2.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 33234.9 -t 671.799999999996 -bitexact 75_ch18_pt3.wav
+"oggenc" "--title" "Chapter 18 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "75_ch18_pt3.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 33906.7 -t 691.200000000004 -bitexact 76_ch19_pt1.wav
+"oggenc" "--title" "Chapter 19 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "76_ch19_pt1.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 34597.9 -t 357.699999999997 -bitexact 77_ch19_pt2.wav
+"oggenc" "--title" "Chapter 19 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "77_ch19_pt2.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 34955.6 -t 300.099999999999 -bitexact 78_ch19_pt3.wav
+"oggenc" "--title" "Chapter 19 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "78_ch19_pt3.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 35255.7 -t 306.100000000006 -bitexact 79_ch19_pt4.wav
+"oggenc" "--title" "Chapter 19 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "79_ch19_pt4.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 35561.8 -t 596.799999999996 -bitexact 80_ch19_pt5.wav
+"oggenc" "--title" "Chapter 19 - pt5" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "80_ch19_pt5.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 36158.6 -t 358.300000000003 -bitexact 81_ch20_pt1.wav
+"oggenc" "--title" "Chapter 20 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "81_ch20_pt1.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 36516.9 -t 328.699999999997 -bitexact 82_ch20_pt2.wav
+"oggenc" "--title" "Chapter 20 - pt2" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "82_ch20_pt2.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 36845.6 -t 377.700000000004 -bitexact 83_ch20_pt3.wav
+"oggenc" "--title" "Chapter 20 - pt3" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "83_ch20_pt3.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 37223.3 -t 523 -bitexact 84_ch20_pt4.wav
+"oggenc" "--title" "Chapter 20 - pt4" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "84_ch20_pt4.wav"
+ffmpeg -i googleplay_cryoburn.m4a.orig -ss 37746.3 -t 294.07 -bitexact 85_ch21_pt1.wav
+"oggenc" "--title" "Chapter 21 - pt1" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Cryoburn" "85_ch21_pt1.wav"
