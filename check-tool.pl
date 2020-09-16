@@ -27,6 +27,9 @@ my $usage = "Usage:
     also create symlink DIR/finished-oggs/original-file to DIR
 
   OPTS
+    --dir=DIR
+      only check DIR
+
     --quick
       same as: --skip-info --dur-tool=none
 
@@ -54,6 +57,7 @@ my $usage = "Usage:
 ";
 
 sub main(@){
+  my $dirFilter = undef;
   my $oggDurTool = $OGG_DUR_TOOL_SOXI;
   my $recalculateInfo = 1;
   my $createOriginalFileSymlink = 1;
@@ -62,6 +66,8 @@ sub main(@){
     if($arg =~ /^(-h|--help)$/){
       print $usage;
       exit 0;
+    }elsif($arg =~ /^--dir=(.+)$/){
+      $dirFilter = $1;
     }elsif($arg =~ /^(--quick)$/){
       $recalculateInfo = 0;
       $oggDurTool = $OGG_DUR_TOOL_NONE;
@@ -81,6 +87,7 @@ sub main(@){
   print "\n\n";
 
   for my $dir(getDirs()){
+    next if defined $dirFilter and $dir ne $dirFilter;
     print "CHECKING: $dir\n";
 
     if($recalculateInfo){
