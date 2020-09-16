@@ -30,6 +30,13 @@ sub main(@){
       "$BASE_DIR/$dir/wav-filesizes",
       "$BASE_DIR/$dir/wav-md5sums",
     );
+
+    if(not -l "$BASE_DIR/$dir/finished-oggs" or not -d "$BASE_DIR/$dir/finished-oggs/"){
+      die "ERROR: invalid/missing finished-oggs symlink for $dir\n";
+    }
+
+    my @oggs = glob "$BASE_DIR/$dir/finished-oggs/*.ogg";
+    die "ERROR: missing converted oggs\n" if @oggs == 0;
   }
 
   print "\n\n";
