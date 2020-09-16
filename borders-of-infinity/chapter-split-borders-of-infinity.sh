@@ -16,22 +16,28 @@ args=(
   --custom-chapter-name="12:Borders of Infinity part3"
   --custom-chapter-name="13:Four"
 
-  #skip automatic long-break detection and force all chapters
-  --long-breaks-min-silence-millis=999999999
-  --shortest-chapter-len-millis=82000 #teeny chapter 1:22
+  --shortest-chapter-len-millis=3267000 #not counting ch2/ch6/ch10
 
-  --force-chapter-break-end-seconds=704.76
-  --force-chapter-break-end-seconds=4117.11
-  --force-chapter-break-end-seconds=7661.75
-  --force-chapter-break-end-seconds=11009.5
-  --force-chapter-break-end-seconds=11192.7
-  --force-chapter-break-end-seconds=15199.3
-  --force-chapter-break-end-seconds=19332.7
-  --force-chapter-break-end-seconds=23598.3
-  --force-chapter-break-end-seconds=23681
-  --force-chapter-break-end-seconds=27189.5
-  --force-chapter-break-end-seconds=30456.4
-  --force-chapter-break-end-seconds=33978.7
+  --force-chapter-break-end-seconds=704.76  #ch2
+  --force-chapter-break-end-seconds=4117.11 #ch3
+# --force-chapter-break-end-seconds=7661.75 #ch4
+# --force-chapter-break-end-seconds=11009.5 #ch5
+  --force-chapter-break-end-seconds=11192.7 #ch6
+  --force-chapter-break-end-seconds=15199.3 #ch7
+  --force-chapter-break-end-seconds=19332.7 #ch8
+# --force-chapter-break-end-seconds=23598.3 #ch9
+  --force-chapter-break-end-seconds=23681   #ch10
+# --force-chapter-break-end-seconds=27189.5 #ch11
+  --force-chapter-break-end-seconds=30456.4 #ch12
+# --force-chapter-break-end-seconds=33978.7 #ch13
+
+  #these are all 3+ seconds, and some of the nearby actual breaks are < 2s...
+  --fake-chapter-break-end-seconds=4321.76
+  --fake-chapter-break-end-seconds=14460
+  --fake-chapter-break-end-seconds=18610.3
+  --fake-chapter-break-end-seconds=22778.3
+  --fake-chapter-break-end-seconds=23288.7
+  --fake-chapter-break-end-seconds=31252.7
 
   googleplay_borders_of_infinity.m4a.orig
 )
