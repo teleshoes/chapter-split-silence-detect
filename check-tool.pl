@@ -5,11 +5,41 @@ use File::Basename qw(dirname);
 
 my $BASE_DIR = dirname $0;
 
+sub assertExists(@);
 sub getDirs();
 sub gitCommitExistingDirs();
 
 sub main(@){
-  gitCommitExistingDirs();
+  system "cd $BASE_DIR && git status";
+  print "\n\n";
+
+  for my $dir(getDirs()){
+    print "CHECKING: $dir\n";
+    system "rm $BASE_DIR/$dir/info-chapters";
+    system "rm $BASE_DIR/$dir/info-commands";
+    if(-e "$BASE_DIR/$dir/info-chapters" or -e "$BASE_DIR/$dir/info-commands"){
+      die "ERROR: could not remove info-chapters/info-commands for $dir\n";
+    }
+
+    system "cd $BASE_DIR/$dir/ && ./chapter-split-$dir.sh --output-info";
+
+    assertExists(
+      "$BASE_DIR/$dir/info-chapters",
+      "$BASE_DIR/$dir/info-commands",
+      "$BASE_DIR/$dir/wav-durations",
+      "$BASE_DIR/$dir/wav-filesizes",
+      "$BASE_DIR/$dir/wav-md5sums",
+    );
+  }
+
+  print "\n\n";
+  system "cd $BASE_DIR && git status";
+}
+
+sub assertExists(@){
+  for my $file(@_){
+    die "ERROR: '$file' does not exist\n" if not -f $file;
+  }
 }
 
 sub getDirs(){
