@@ -4,7 +4,7 @@ args=(
   --album="A Civil Campaign"
   --custom-chapter-name="20:Epilogue"
 
-  --shortest-chapter-len-millis=2270000
+  --shortest-chapter-len-millis=2269000
 
   --force-chapter-break-end-seconds=16254 #ch6
 

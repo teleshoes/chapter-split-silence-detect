@@ -16,7 +16,7 @@ args=(
   --custom-chapter-name="12:Borders of Infinity part3"
   --custom-chapter-name="13:Four"
 
-  --shortest-chapter-len-millis=3267000 #not counting ch2/ch6/ch10
+  --shortest-chapter-len-millis=3266000 #except: ch1 ch5 ch9 ch13
 
   --force-chapter-break-end-seconds=704.76  #ch2
   --force-chapter-break-end-seconds=4117.11 #ch3

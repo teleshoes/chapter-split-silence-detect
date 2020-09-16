@@ -3,7 +3,7 @@ args=(
   --artist="Lois McMaster Bujold, Grover Gardner"
   --album="Ethan of Athos"
 
-  --shortest-chapter-len-millis=1354000
+  --shortest-chapter-len-millis=1354000 #except: ch15
 
   googleplay_ethan_of_athos.m4a.orig
 )
