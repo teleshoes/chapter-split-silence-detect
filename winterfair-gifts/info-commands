@@ -1,0 +1,46 @@
+ffmpeg -i googleplay_winterfair_gifts.m4a.orig -ss 0 -t 463.408 -bitexact 01_winterfair_gifts_pt01.wav
+"oggenc" "--title" "Winterfair Gifts - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Winterfair Gifts" "01_winterfair_gifts_pt01.wav"
+ffmpeg -i googleplay_winterfair_gifts.m4a.orig -ss 463.408 -t 379.449 -bitexact 02_winterfair_gifts_pt02.wav
+"oggenc" "--title" "Winterfair Gifts - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Winterfair Gifts" "02_winterfair_gifts_pt02.wav"
+ffmpeg -i googleplay_winterfair_gifts.m4a.orig -ss 842.857 -t 421.223 -bitexact 03_winterfair_gifts_pt03.wav
+"oggenc" "--title" "Winterfair Gifts - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Winterfair Gifts" "03_winterfair_gifts_pt03.wav"
+ffmpeg -i googleplay_winterfair_gifts.m4a.orig -ss 1264.08 -t 313.93 -bitexact 04_winterfair_gifts_pt04.wav
+"oggenc" "--title" "Winterfair Gifts - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Winterfair Gifts" "04_winterfair_gifts_pt04.wav"
+ffmpeg -i googleplay_winterfair_gifts.m4a.orig -ss 1578.01 -t 463.87 -bitexact 05_winterfair_gifts_pt05.wav
+"oggenc" "--title" "Winterfair Gifts - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Winterfair Gifts" "05_winterfair_gifts_pt05.wav"
+ffmpeg -i googleplay_winterfair_gifts.m4a.orig -ss 2041.88 -t 342.35 -bitexact 06_winterfair_gifts_pt06.wav
+"oggenc" "--title" "Winterfair Gifts - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Winterfair Gifts" "06_winterfair_gifts_pt06.wav"
+ffmpeg -i googleplay_winterfair_gifts.m4a.orig -ss 2384.23 -t 393.48 -bitexact 07_winterfair_gifts_pt07.wav
+"oggenc" "--title" "Winterfair Gifts - pt07" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Winterfair Gifts" "07_winterfair_gifts_pt07.wav"
+ffmpeg -i googleplay_winterfair_gifts.m4a.orig -ss 2777.71 -t 385.18 -bitexact 08_winterfair_gifts_pt08.wav
+"oggenc" "--title" "Winterfair Gifts - pt08" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Winterfair Gifts" "08_winterfair_gifts_pt08.wav"
+ffmpeg -i googleplay_winterfair_gifts.m4a.orig -ss 3162.89 -t 331.83 -bitexact 09_winterfair_gifts_pt09.wav
+"oggenc" "--title" "Winterfair Gifts - pt09" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Winterfair Gifts" "09_winterfair_gifts_pt09.wav"
+ffmpeg -i googleplay_winterfair_gifts.m4a.orig -ss 3494.72 -t 309.59 -bitexact 10_winterfair_gifts_pt10.wav
+"oggenc" "--title" "Winterfair Gifts - pt10" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Winterfair Gifts" "10_winterfair_gifts_pt10.wav"
+ffmpeg -i googleplay_winterfair_gifts.m4a.orig -ss 3804.31 -t 534.36 -bitexact 11_winterfair_gifts_pt11.wav
+"oggenc" "--title" "Winterfair Gifts - pt11" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Winterfair Gifts" "11_winterfair_gifts_pt11.wav"
+ffmpeg -i googleplay_winterfair_gifts.m4a.orig -ss 4338.67 -t 350.43 -bitexact 12_winterfair_gifts_pt12.wav
+"oggenc" "--title" "Winterfair Gifts - pt12" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Winterfair Gifts" "12_winterfair_gifts_pt12.wav"
+ffmpeg -i googleplay_winterfair_gifts.m4a.orig -ss 4689.1 -t 459.099999999999 -bitexact 13_winterfair_gifts_pt13.wav
+"oggenc" "--title" "Winterfair Gifts - pt13" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Winterfair Gifts" "13_winterfair_gifts_pt13.wav"
+ffmpeg -i googleplay_winterfair_gifts.m4a.orig -ss 5148.2 -t 312.01 -bitexact 14_winterfair_gifts_pt14.wav
+"oggenc" "--title" "Winterfair Gifts - pt14" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Winterfair Gifts" "14_winterfair_gifts_pt14.wav"
+ffmpeg -i googleplay_winterfair_gifts.m4a.orig -ss 5460.21 -t 310.53 -bitexact 15_winterfair_gifts_pt15.wav
+"oggenc" "--title" "Winterfair Gifts - pt15" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Winterfair Gifts" "15_winterfair_gifts_pt15.wav"
+ffmpeg -i googleplay_winterfair_gifts.m4a.orig -ss 5770.74 -t 310.7 -bitexact 16_winterfair_gifts_pt16.wav
+"oggenc" "--title" "Winterfair Gifts - pt16" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Winterfair Gifts" "16_winterfair_gifts_pt16.wav"
+ffmpeg -i googleplay_winterfair_gifts.m4a.orig -ss 6081.44 -t 311.48 -bitexact 17_winterfair_gifts_pt17.wav
+"oggenc" "--title" "Winterfair Gifts - pt17" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Winterfair Gifts" "17_winterfair_gifts_pt17.wav"
+ffmpeg -i googleplay_winterfair_gifts.m4a.orig -ss 6392.92 -t 469.43 -bitexact 18_winterfair_gifts_pt18.wav
+"oggenc" "--title" "Winterfair Gifts - pt18" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Winterfair Gifts" "18_winterfair_gifts_pt18.wav"
+ffmpeg -i googleplay_winterfair_gifts.m4a.orig -ss 6862.35 -t 590.27 -bitexact 19_winterfair_gifts_pt19.wav
+"oggenc" "--title" "Winterfair Gifts - pt19" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Winterfair Gifts" "19_winterfair_gifts_pt19.wav"
+ffmpeg -i googleplay_winterfair_gifts.m4a.orig -ss 7452.62 -t 336.28 -bitexact 20_winterfair_gifts_pt20.wav
+"oggenc" "--title" "Winterfair Gifts - pt20" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Winterfair Gifts" "20_winterfair_gifts_pt20.wav"
+ffmpeg -i googleplay_winterfair_gifts.m4a.orig -ss 7788.9 -t 587.02 -bitexact 21_winterfair_gifts_pt21.wav
+"oggenc" "--title" "Winterfair Gifts - pt21" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Winterfair Gifts" "21_winterfair_gifts_pt21.wav"
+ffmpeg -i googleplay_winterfair_gifts.m4a.orig -ss 8375.92 -t 392.610000000001 -bitexact 22_winterfair_gifts_pt22.wav
+"oggenc" "--title" "Winterfair Gifts - pt22" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Winterfair Gifts" "22_winterfair_gifts_pt22.wav"
+ffmpeg -i googleplay_winterfair_gifts.m4a.orig -ss 8768.53 -t 341.929999999998 -bitexact 23_winterfair_gifts_pt23.wav
+"oggenc" "--title" "Winterfair Gifts - pt23" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Winterfair Gifts" "23_winterfair_gifts_pt23.wav"
