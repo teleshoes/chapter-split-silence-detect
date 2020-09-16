@@ -26,6 +26,9 @@ my $usage = "Usage:
     check info files for each dir, and compare against converted oggs
 
   OPTS
+    --quick
+      same as: --skip-info --dur-tool=none
+
     --skip-info
       do not recalculate output info
 
@@ -54,6 +57,9 @@ sub main(@){
     if($arg =~ /^(-h|--help)$/){
       print $usage;
       exit 0;
+    }elsif($arg =~ /^(--quick)$/){
+      $recalculateInfo = 0;
+      $oggDurTool = $OGG_DUR_TOOL_NONE;
     }elsif($arg =~ /^(--skip-info)$/){
       $recalculateInfo = 0;
     }elsif($arg =~ /^--dur-tool=($OGG_DUR_TOOL_SOXI|$OGG_DUR_TOOL_DURATION|$OGG_DUR_TOOL_NONE)$/){
