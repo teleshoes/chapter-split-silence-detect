@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 use strict;
 use warnings;
-use File::Basename qw(dirname);
+use File::Basename qw(basename dirname);
 
 my $BASE_DIR = dirname $0;
 
@@ -37,6 +37,32 @@ sub main(@){
 
     my @oggs = glob "$BASE_DIR/$dir/finished-oggs/*.ogg";
     die "ERROR: missing converted oggs\n" if @oggs == 0;
+
+    my @commands = `cat $BASE_DIR/$dir/info-commands`;
+    chomp foreach @commands;
+    my (%ffmpegCmds, %oggencCmds);
+    for my $cmd(@commands){
+      if($cmd =~ /^"?ffmpeg.* "?(\S+\.wav)"?$/){
+        $ffmpegCmds{$1} = $cmd;
+      }elsif($cmd =~ /^"?oggenc.* "?(\S+\.wav)"?$/){
+        $oggencCmds{$1} = $cmd;
+      }else{
+        die "ERROR: unknown command in info-commands \"$cmd\"\n";
+      }
+    }
+
+    my %oggsByWav = map {my $wav=basename $_; $wav=~s/\.ogg/\.wav/; $wav => $_} @oggs;
+
+    for my $wav(sort keys %ffmpegCmds, sort keys %oggencCmds){
+      die "ERROR: missing ogg for $wav\n" if not defined $oggsByWav{$wav};
+    }
+    for my $wav(sort keys %oggsByWav){
+      my $oggFile = $oggsByWav{$wav};
+      die "ERROR: missing ogg file\n" if not -f $oggFile;
+
+      die "ERROR: missing ffmpeg cmd for $wav\n" if not defined $ffmpegCmds{$wav};
+      die "ERROR: missing oggenc cmd for $wav\n" if not defined $oggencCmds{$wav};
+    }
   }
 
   print "\n\n";
