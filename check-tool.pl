@@ -3,6 +3,8 @@ use strict;
 use warnings;
 use File::Basename qw(basename dirname);
 
+my $EXEC = basename $0;
+
 my $BASE_DIR = dirname $0;
 
 my $ALLOWED_DURATION_DIFF_MILLIS = 60; #0.05s is the biggest actual diff seen so far
@@ -11,7 +13,26 @@ sub assertExists(@);
 sub getDirs();
 sub gitCommitExistingDirs();
 
+my $usage = "Usage:
+  $EXEC -h | --help
+    show this message
+
+  $EXEC
+    check info files for each dir, and compare against converted oggs
+";
+
 sub main(@){
+  while(@_ > 0 and $_[0] =~ /^-/){
+    my $arg = shift;
+    if($arg =~ /^(-h|--help)$/){
+      print $usage;
+      exit 0;
+    }else{
+      die "$usage\nERROR: unknown arg $arg\n";
+    }
+  }
+  die $usage if @_ > 0;
+
   system "cd $BASE_DIR && git status";
   print "\n\n";
 
