@@ -1,17 +1,33 @@
 #!/usr/bin/perl
 use strict;
 use warnings;
+use File::Basename qw(dirname);
+
+my $BASE_DIR = dirname $0;
+
+sub getDirs();
+sub gitCommitExistingDirs();
 
 sub main(@){
   gitCommitExistingDirs();
 }
 
+sub getDirs(){
+  my @dirs;
+  for my $dir(glob "$BASE_DIR/*/"){
+    $dir =~ s/^$BASE_DIR\///;
+    $dir =~ s/\/$//;
+    die "ERROR: could not parse dir $dir\n" if $dir =~ /\//;
+    next if $dir eq ".git";
+    push @dirs, $dir;
+  }
+  return @dirs;
+}
+
 sub gitCommitExistingDirs(){
   my @commands;
   push @commands, "git reset cc7d97e09e";
-  for my $dir(glob "*/"){
-    $dir =~ s/\/$//;
-    next if $dir eq ".git";
+  for my $dir(getDirs()){
     my $mtime = `mtime $dir/googleplay*.m4a.orig`;
     chomp $mtime;
     my $mtimeP1 = $mtime+1;
