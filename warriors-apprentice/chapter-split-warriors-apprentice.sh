@@ -4,20 +4,18 @@ args=(
   --album="The Warrior's Apprentice"
   --custom-chapter-name="22:Epilogue"
 
-  --shortest-chapter-len-millis=976000
+  --long-breaks-min-silence-millis=2675
 
-  --force-chapter-break-end-seconds=14614.7
-  --force-chapter-break-end-seconds=19202.6
-  --force-chapter-break-end-seconds=20918
-  --force-chapter-break-end-seconds=22161.8
-  --force-chapter-break-end-seconds=24269.1
-  --force-chapter-break-end-seconds=32655
-  --force-chapter-break-end-seconds=34419.4
-  --force-chapter-break-end-seconds=37233.6
+  --shortest-chapter-len-millis=1515000 #except: ch4 ch12 ch17 ch20 ch22
 
-  --fake-chapter-break-end-seconds=7429.02
+  --force-chapter-break-end-seconds=6362.85 #ch5
+  --force-chapter-break-end-seconds=14614.7 #ch9
+  --force-chapter-break-end-seconds=22161.8 #ch13
+  --force-chapter-break-end-seconds=32655   #ch18
+  --force-chapter-break-end-seconds=37233.6 #ch21
+
   --fake-chapter-break-end-seconds=22499
-  --fake-chapter-break-end-seconds=38178
+  --fake-chapter-break-end-seconds=23412.9
 
   googleplay_warriors_apprentice.m4a.orig
 )
