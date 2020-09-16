@@ -2,10 +2,11 @@
 use strict;
 use warnings;
 use File::Basename qw(basename dirname);
+use Cwd qw(abs_path);
 
 my $EXEC = basename $0;
 
-my $BASE_DIR = dirname $0;
+my $BASE_DIR = abs_path(dirname $0);
 
 my $OGG_DUR_TOOL_SOXI = "soxi";
 my $OGG_DUR_TOOL_DURATION = "duration";
