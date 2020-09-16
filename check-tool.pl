@@ -7,6 +7,9 @@ my $EXEC = basename $0;
 
 my $BASE_DIR = dirname $0;
 
+my $OGG_DUR_TOOL_SOXI = "soxi";
+my $OGG_DUR_TOOL_DURATION = "duration";
+
 my $ALLOWED_DURATION_DIFF_MILLIS = 60; #0.05s is the biggest actual diff seen so far
 
 sub assertExists(@);
@@ -23,9 +26,22 @@ my $usage = "Usage:
   OPTS
     --skip-info
       do not recalculate output info
+
+    --dur-tool=DUR_TOOL
+      use DUR_TOOL to read OGG duration
+
+  DUR_TOOL = soxi|duration
+    soxi
+      `soxi -D` to read duration from metadata
+      quick, but may not give the same value as ffmpeg
+
+    duration    {DEFAULT}
+      `duration -n -s` to read duration using ffmpeg
+       SLOW, but guaranteed to exactly match `wav-durations` file
 ";
 
 sub main(@){
+  my $oggDurTool = $OGG_DUR_TOOL_DURATION;
   my $recalculateInfo = 1;
   while(@_ > 0 and $_[0] =~ /^-/){
     my $arg = shift;
@@ -34,6 +50,8 @@ sub main(@){
       exit 0;
     }elsif($arg =~ /^(--skip-info)$/){
       $recalculateInfo = 0;
+    }elsif($arg =~ /^--dur-tool=($OGG_DUR_TOOL_SOXI|$OGG_DUR_TOOL_DURATION)$/){
+      $oggDurTool = $1;
     }else{
       die "$usage\nERROR: unknown arg $arg\n";
     }
@@ -118,7 +136,12 @@ sub main(@){
       my $wavDur = $wavDurations{$wav};
       my $ffmpegDur = $ffmpegDurations{$wav};
 
-      my $oggDur = `duration -s -n $oggFile`;
+      my $oggDur;
+      if($oggDurTool eq $OGG_DUR_TOOL_SOXI){
+        $oggDur = `soxi -D $oggFile`;
+      }elsif($oggDurTool eq $OGG_DUR_TOOL_DURATION){
+        $oggDur = `duration -s -n $oggFile`;
+      }
       if($oggDur !~ /^(\d+|\d*\.\d+)$/ or $oggDur == 0){
         die "ERROR: missing/invalid dur for $oggFile\n";
       }
