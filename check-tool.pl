@@ -191,6 +191,53 @@ sub main(@){
         die "ERROR: mismatched ogg vs ffmpeg dur for $oggFile ($oggDur vs $ffmpegDur)\n";
       }
     }
+
+    my %chapterDurMillis;
+    my @chapterInfoLines = `cat $BASE_DIR/$dir/info-chapters`;
+    for my $line(@chapterInfoLines){
+      if($line =~ /^(\d+)\s+(?:\d+|\d*\.\d+)\s+(\d+):(\d+):(\d+\.\d+)/){
+        my ($chNum, $h, $m, $s) = ($1, $2, $3, $4);
+        my $chapter = 0 + $chNum;
+        my $dur = $h*60*60 + $m*60 + $s;
+        $chapterDurMillis{$chapter} = $dur * 1000.0;
+      }else{
+        die "ERROR: malformed line in info-chapters: $line";
+      }
+    }
+
+    my @scriptLines = `cat $BASE_DIR/$dir/chapter-split*.sh`;
+    my $shortestChapterLenMillis;
+    my %okShorterChapters;
+    for my $line(@scriptLines){
+      if($line =~ /^\s*--shortest-chapter-len-millis\s*=\s*(\d+)(?:\s*#except:\s*(.+))?$/){
+        my ($millis, $exceptions) = ($1, $2);
+        $shortestChapterLenMillis = $millis;
+
+        $exceptions = "" if not defined $exceptions;
+        my @chapters = split /[ ,]+/, $exceptions;
+        for my $chapter(@chapters){
+          if($chapter =~ /^ch(\d+)$/){
+            my $chapter = $1 + 0;
+            $okShorterChapters{$chapter} = 1;
+          }else{
+            die "ERROR: could not understand shortest-chapter except-comment: $exceptions\n";
+          }
+        }
+      }
+    }
+    if(not defined $shortestChapterLenMillis){
+      die "ERROR: missing --shortest-chapter-len-millis for $dir\n";
+    }
+    for my $chapter(sort keys %chapterDurMillis){
+      my $durMillis = $chapterDurMillis{$chapter};
+      my $isShorter = $durMillis < $shortestChapterLenMillis;
+
+      if($isShorter and not defined $okShorterChapters{$chapter}){
+        die "ERROR: chapter $chapter is shorter than shortest\n"
+      }elsif(not $isShorter and defined $okShorterChapters{$chapter}){
+        die "ERROR: chapter $chapter is NOT shorter than shortest, and is in the except list\n"
+      }
+    }
   }
 
   print "\n\n";
