@@ -1,0 +1,248 @@
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 0 -t 332.468 -bitexact 001_ch01_pt01.wav
+"oggenc" "--title" "Chapter 01 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "001_ch01_pt01.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 332.468 -t 369.911 -bitexact 002_ch01_pt02.wav
+"oggenc" "--title" "Chapter 01 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "002_ch01_pt02.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 702.379 -t 310.701 -bitexact 003_ch01_pt03.wav
+"oggenc" "--title" "Chapter 01 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "003_ch01_pt03.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 1013.08 -t 301.66 -bitexact 004_ch01_pt04.wav
+"oggenc" "--title" "Chapter 01 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "004_ch01_pt04.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 1314.74 -t 316.05 -bitexact 005_ch01_pt05.wav
+"oggenc" "--title" "Chapter 01 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "005_ch01_pt05.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 1630.79 -t 301.31 -bitexact 006_ch01_pt06.wav
+"oggenc" "--title" "Chapter 01 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "006_ch01_pt06.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 1932.1 -t 307.21 -bitexact 007_ch01_pt07.wav
+"oggenc" "--title" "Chapter 01 - pt07" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "007_ch01_pt07.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 2239.31 -t 316.89 -bitexact 008_ch01_pt08.wav
+"oggenc" "--title" "Chapter 01 - pt08" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "008_ch01_pt08.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 2556.2 -t 525.49 -bitexact 009_ch01_pt09.wav
+"oggenc" "--title" "Chapter 01 - pt09" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "009_ch01_pt09.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 3081.69 -t 393.21 -bitexact 010_ch02_pt01.wav
+"oggenc" "--title" "Chapter 02 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "010_ch02_pt01.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 3474.9 -t 380.42 -bitexact 011_ch02_pt02.wav
+"oggenc" "--title" "Chapter 02 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "011_ch02_pt02.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 3855.32 -t 309.23 -bitexact 012_ch02_pt03.wav
+"oggenc" "--title" "Chapter 02 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "012_ch02_pt03.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 4164.55 -t 302.13 -bitexact 013_ch02_pt04.wav
+"oggenc" "--title" "Chapter 02 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "013_ch02_pt04.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 4466.68 -t 373.61 -bitexact 014_ch02_pt05.wav
+"oggenc" "--title" "Chapter 02 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "014_ch02_pt05.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 4840.29 -t 304.58 -bitexact 015_ch02_pt06.wav
+"oggenc" "--title" "Chapter 02 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "015_ch02_pt06.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 5144.87 -t 519.690000000001 -bitexact 016_ch02_pt07.wav
+"oggenc" "--title" "Chapter 02 - pt07" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "016_ch02_pt07.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 5664.56 -t 446.58 -bitexact 017_ch02_pt08.wav
+"oggenc" "--title" "Chapter 02 - pt08" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "017_ch02_pt08.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 6111.14 -t 359.549999999999 -bitexact 018_ch03_pt01.wav
+"oggenc" "--title" "Chapter 03 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "018_ch03_pt01.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 6470.69 -t 412.320000000001 -bitexact 019_ch03_pt02.wav
+"oggenc" "--title" "Chapter 03 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "019_ch03_pt02.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 6883.01 -t 356.05 -bitexact 020_ch03_pt03.wav
+"oggenc" "--title" "Chapter 03 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "020_ch03_pt03.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 7239.06 -t 316.29 -bitexact 021_ch03_pt04.wav
+"oggenc" "--title" "Chapter 03 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "021_ch03_pt04.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 7555.35 -t 394.96 -bitexact 022_ch03_pt05.wav
+"oggenc" "--title" "Chapter 03 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "022_ch03_pt05.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 7950.31 -t 327.36 -bitexact 023_ch03_pt06.wav
+"oggenc" "--title" "Chapter 03 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "023_ch03_pt06.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 8277.67 -t 318.17 -bitexact 024_ch03_pt07.wav
+"oggenc" "--title" "Chapter 03 - pt07" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "024_ch03_pt07.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 8595.84 -t 394.75 -bitexact 025_ch03_pt08.wav
+"oggenc" "--title" "Chapter 03 - pt08" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "025_ch03_pt08.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 8990.59 -t 311.74 -bitexact 026_ch03_pt09.wav
+"oggenc" "--title" "Chapter 03 - pt09" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "026_ch03_pt09.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 9302.33 -t 329.52 -bitexact 027_ch03_pt10.wav
+"oggenc" "--title" "Chapter 03 - pt10" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "027_ch03_pt10.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 9631.85 -t 318.4 -bitexact 028_ch04_pt01.wav
+"oggenc" "--title" "Chapter 04 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "028_ch04_pt01.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 9950.25 -t 310.65 -bitexact 029_ch04_pt02.wav
+"oggenc" "--title" "Chapter 04 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "029_ch04_pt02.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 10260.9 -t 315.700000000001 -bitexact 030_ch04_pt03.wav
+"oggenc" "--title" "Chapter 04 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "030_ch04_pt03.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 10576.6 -t 363.799999999999 -bitexact 031_ch04_pt04.wav
+"oggenc" "--title" "Chapter 04 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "031_ch04_pt04.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 10940.4 -t 308.5 -bitexact 032_ch04_pt05.wav
+"oggenc" "--title" "Chapter 04 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "032_ch04_pt05.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 11248.9 -t 373.5 -bitexact 033_ch04_pt06.wav
+"oggenc" "--title" "Chapter 04 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "033_ch04_pt06.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 11622.4 -t 590.9 -bitexact 034_ch04_pt07.wav
+"oggenc" "--title" "Chapter 04 - pt07" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "034_ch04_pt07.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 12213.3 -t 322 -bitexact 035_ch05_pt01.wav
+"oggenc" "--title" "Chapter 05 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "035_ch05_pt01.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 12535.3 -t 306.300000000001 -bitexact 036_ch05_pt02.wav
+"oggenc" "--title" "Chapter 05 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "036_ch05_pt02.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 12841.6 -t 368 -bitexact 037_ch05_pt03.wav
+"oggenc" "--title" "Chapter 05 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "037_ch05_pt03.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 13209.6 -t 334.199999999999 -bitexact 038_ch05_pt04.wav
+"oggenc" "--title" "Chapter 05 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "038_ch05_pt04.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 13543.8 -t 324.700000000001 -bitexact 039_ch05_pt05.wav
+"oggenc" "--title" "Chapter 05 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "039_ch05_pt05.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 13868.5 -t 328.5 -bitexact 040_ch05_pt06.wav
+"oggenc" "--title" "Chapter 05 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "040_ch05_pt06.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 14197 -t 560.6 -bitexact 041_ch05_pt07.wav
+"oggenc" "--title" "Chapter 05 - pt07" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "041_ch05_pt07.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 14757.6 -t 396.299999999999 -bitexact 042_ch06_pt01.wav
+"oggenc" "--title" "Chapter 06 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "042_ch06_pt01.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 15153.9 -t 358.6 -bitexact 043_ch06_pt02.wav
+"oggenc" "--title" "Chapter 06 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "043_ch06_pt02.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 15512.5 -t 310.200000000001 -bitexact 044_ch06_pt03.wav
+"oggenc" "--title" "Chapter 06 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "044_ch06_pt03.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 15822.7 -t 310.599999999999 -bitexact 045_ch06_pt04.wav
+"oggenc" "--title" "Chapter 06 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "045_ch06_pt04.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 16133.3 -t 425.100000000002 -bitexact 046_ch06_pt05.wav
+"oggenc" "--title" "Chapter 06 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "046_ch06_pt05.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 16558.4 -t 500.299999999999 -bitexact 047_ch06_pt06.wav
+"oggenc" "--title" "Chapter 06 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "047_ch06_pt06.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 17058.7 -t 490.799999999999 -bitexact 048_ch07_pt01.wav
+"oggenc" "--title" "Chapter 07 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "048_ch07_pt01.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 17549.5 -t 315.400000000001 -bitexact 049_ch07_pt02.wav
+"oggenc" "--title" "Chapter 07 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "049_ch07_pt02.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 17864.9 -t 311.5 -bitexact 050_ch07_pt03.wav
+"oggenc" "--title" "Chapter 07 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "050_ch07_pt03.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 18176.4 -t 332 -bitexact 051_ch07_pt04.wav
+"oggenc" "--title" "Chapter 07 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "051_ch07_pt04.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 18508.4 -t 408.199999999997 -bitexact 052_ch07_pt05.wav
+"oggenc" "--title" "Chapter 07 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "052_ch07_pt05.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 18916.6 -t 399.100000000002 -bitexact 053_ch07_pt06.wav
+"oggenc" "--title" "Chapter 07 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "053_ch07_pt06.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 19315.7 -t 308.099999999999 -bitexact 054_ch08_pt01.wav
+"oggenc" "--title" "Chapter 08 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "054_ch08_pt01.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 19623.8 -t 323 -bitexact 055_ch08_pt02.wav
+"oggenc" "--title" "Chapter 08 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "055_ch08_pt02.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 19946.8 -t 376.700000000001 -bitexact 056_ch08_pt03.wav
+"oggenc" "--title" "Chapter 08 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "056_ch08_pt03.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 20323.5 -t 387.5 -bitexact 057_ch08_pt04.wav
+"oggenc" "--title" "Chapter 08 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "057_ch08_pt04.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 20711 -t 331.400000000001 -bitexact 058_ch08_pt05.wav
+"oggenc" "--title" "Chapter 08 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "058_ch08_pt05.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 21042.4 -t 689.5 -bitexact 059_ch08_pt06.wav
+"oggenc" "--title" "Chapter 08 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "059_ch08_pt06.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 21731.9 -t 367.199999999997 -bitexact 060_ch09_pt01.wav
+"oggenc" "--title" "Chapter 09 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "060_ch09_pt01.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 22099.1 -t 306 -bitexact 061_ch09_pt02.wav
+"oggenc" "--title" "Chapter 09 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "061_ch09_pt02.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 22405.1 -t 300.900000000001 -bitexact 062_ch09_pt03.wav
+"oggenc" "--title" "Chapter 09 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "062_ch09_pt03.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 22706 -t 345.900000000001 -bitexact 063_ch09_pt04.wav
+"oggenc" "--title" "Chapter 09 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "063_ch09_pt04.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 23051.9 -t 416.199999999997 -bitexact 064_ch09_pt05.wav
+"oggenc" "--title" "Chapter 09 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "064_ch09_pt05.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 23468.1 -t 329.600000000002 -bitexact 065_ch09_pt06.wav
+"oggenc" "--title" "Chapter 09 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "065_ch09_pt06.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 23797.7 -t 314 -bitexact 066_ch09_pt07.wav
+"oggenc" "--title" "Chapter 09 - pt07" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "066_ch09_pt07.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 24111.7 -t 529.599999999999 -bitexact 067_ch10_pt01.wav
+"oggenc" "--title" "Chapter 10 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "067_ch10_pt01.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 24641.3 -t 355.299999999999 -bitexact 068_ch10_pt02.wav
+"oggenc" "--title" "Chapter 10 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "068_ch10_pt02.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 24996.6 -t 465.300000000003 -bitexact 069_ch10_pt03.wav
+"oggenc" "--title" "Chapter 10 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "069_ch10_pt03.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 25461.9 -t 353.399999999998 -bitexact 070_ch10_pt04.wav
+"oggenc" "--title" "Chapter 10 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "070_ch10_pt04.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 25815.3 -t 339.299999999999 -bitexact 071_ch10_pt05.wav
+"oggenc" "--title" "Chapter 10 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "071_ch10_pt05.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 26154.6 -t 305.300000000003 -bitexact 072_ch10_pt06.wav
+"oggenc" "--title" "Chapter 10 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "072_ch10_pt06.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 26459.9 -t 371.099999999999 -bitexact 073_ch10_pt07.wav
+"oggenc" "--title" "Chapter 10 - pt07" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "073_ch10_pt07.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 26831 -t 445.099999999999 -bitexact 074_ch11_pt01.wav
+"oggenc" "--title" "Chapter 11 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "074_ch11_pt01.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 27276.1 -t 301.200000000001 -bitexact 075_ch11_pt02.wav
+"oggenc" "--title" "Chapter 11 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "075_ch11_pt02.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 27577.3 -t 391.600000000002 -bitexact 076_ch11_pt03.wav
+"oggenc" "--title" "Chapter 11 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "076_ch11_pt03.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 27968.9 -t 468.099999999999 -bitexact 077_ch11_pt04.wav
+"oggenc" "--title" "Chapter 11 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "077_ch11_pt04.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 28437 -t 311.900000000001 -bitexact 078_ch11_pt05.wav
+"oggenc" "--title" "Chapter 11 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "078_ch11_pt05.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 28748.9 -t 332.899999999998 -bitexact 079_ch11_pt06.wav
+"oggenc" "--title" "Chapter 11 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "079_ch11_pt06.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 29081.8 -t 399.5 -bitexact 080_ch11_pt07.wav
+"oggenc" "--title" "Chapter 11 - pt07" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "080_ch11_pt07.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 29481.3 -t 300 -bitexact 081_ch12_pt01.wav
+"oggenc" "--title" "Chapter 12 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "081_ch12_pt01.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 29781.3 -t 301.5 -bitexact 082_ch12_pt02.wav
+"oggenc" "--title" "Chapter 12 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "082_ch12_pt02.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 30082.8 -t 401.400000000001 -bitexact 083_ch12_pt03.wav
+"oggenc" "--title" "Chapter 12 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "083_ch12_pt03.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 30484.2 -t 322 -bitexact 084_ch12_pt04.wav
+"oggenc" "--title" "Chapter 12 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "084_ch12_pt04.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 30806.2 -t 385.899999999998 -bitexact 085_ch12_pt05.wav
+"oggenc" "--title" "Chapter 12 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "085_ch12_pt05.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 31192.1 -t 312.800000000003 -bitexact 086_ch12_pt06.wav
+"oggenc" "--title" "Chapter 12 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "086_ch12_pt06.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 31504.9 -t 311 -bitexact 087_ch12_pt07.wav
+"oggenc" "--title" "Chapter 12 - pt07" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "087_ch12_pt07.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 31815.9 -t 321 -bitexact 088_ch12_pt08.wav
+"oggenc" "--title" "Chapter 12 - pt08" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "088_ch12_pt08.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 32136.9 -t 358.5 -bitexact 089_ch12_pt09.wav
+"oggenc" "--title" "Chapter 12 - pt09" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "089_ch12_pt09.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 32495.4 -t 380.400000000001 -bitexact 090_ch12_pt10.wav
+"oggenc" "--title" "Chapter 12 - pt10" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "090_ch12_pt10.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 32875.8 -t 377.199999999997 -bitexact 091_ch13_pt01.wav
+"oggenc" "--title" "Chapter 13 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "091_ch13_pt01.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 33253 -t 307.699999999997 -bitexact 092_ch13_pt02.wav
+"oggenc" "--title" "Chapter 13 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "092_ch13_pt02.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 33560.7 -t 331.800000000003 -bitexact 093_ch13_pt03.wav
+"oggenc" "--title" "Chapter 13 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "093_ch13_pt03.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 33892.5 -t 300.099999999999 -bitexact 094_ch13_pt04.wav
+"oggenc" "--title" "Chapter 13 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "094_ch13_pt04.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 34192.6 -t 339.5 -bitexact 095_ch13_pt05.wav
+"oggenc" "--title" "Chapter 13 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "095_ch13_pt05.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 34532.1 -t 569.400000000001 -bitexact 096_ch13_pt06.wav
+"oggenc" "--title" "Chapter 13 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "096_ch13_pt06.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 35101.5 -t 385 -bitexact 097_ch14_pt01.wav
+"oggenc" "--title" "Chapter 14 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "097_ch14_pt01.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 35486.5 -t 309.900000000001 -bitexact 098_ch14_pt02.wav
+"oggenc" "--title" "Chapter 14 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "098_ch14_pt02.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 35796.4 -t 301.799999999996 -bitexact 099_ch14_pt03.wav
+"oggenc" "--title" "Chapter 14 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "099_ch14_pt03.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 36098.2 -t 353.900000000001 -bitexact 100_ch14_pt04.wav
+"oggenc" "--title" "Chapter 14 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "100_ch14_pt04.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 36452.1 -t 345.200000000004 -bitexact 101_ch14_pt05.wav
+"oggenc" "--title" "Chapter 14 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "101_ch14_pt05.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 36797.3 -t 583.799999999996 -bitexact 102_ch14_pt06.wav
+"oggenc" "--title" "Chapter 14 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "102_ch14_pt06.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 37381.1 -t 334 -bitexact 103_ch15_pt01.wav
+"oggenc" "--title" "Chapter 15 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "103_ch15_pt01.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 37715.1 -t 371 -bitexact 104_ch15_pt02.wav
+"oggenc" "--title" "Chapter 15 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "104_ch15_pt02.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 38086.1 -t 405.200000000004 -bitexact 105_ch15_pt03.wav
+"oggenc" "--title" "Chapter 15 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "105_ch15_pt03.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 38491.3 -t 361.099999999999 -bitexact 106_ch15_pt04.wav
+"oggenc" "--title" "Chapter 15 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "106_ch15_pt04.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 38852.4 -t 373.5 -bitexact 107_ch15_pt05.wav
+"oggenc" "--title" "Chapter 15 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "107_ch15_pt05.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 39225.9 -t 388.400000000001 -bitexact 108_ch15_pt06.wav
+"oggenc" "--title" "Chapter 15 - pt06" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "108_ch15_pt06.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 39614.3 -t 430.199999999997 -bitexact 109_ch15_pt07.wav
+"oggenc" "--title" "Chapter 15 - pt07" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "109_ch15_pt07.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 40044.5 -t 305.900000000001 -bitexact 110_ch15_pt08.wav
+"oggenc" "--title" "Chapter 15 - pt08" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "110_ch15_pt08.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 40350.4 -t 599.5 -bitexact 111_ch15_pt09.wav
+"oggenc" "--title" "Chapter 15 - pt09" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "111_ch15_pt09.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 40949.9 -t 331.299999999996 -bitexact 112_ch16_pt01.wav
+"oggenc" "--title" "Chapter 16 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "112_ch16_pt01.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 41281.2 -t 342.800000000003 -bitexact 113_ch16_pt02.wav
+"oggenc" "--title" "Chapter 16 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "113_ch16_pt02.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 41624 -t 328.599999999999 -bitexact 114_ch16_pt03.wav
+"oggenc" "--title" "Chapter 16 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "114_ch16_pt03.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 41952.6 -t 302.300000000003 -bitexact 115_ch16_pt04.wav
+"oggenc" "--title" "Chapter 16 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "115_ch16_pt04.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 42254.9 -t 446.099999999999 -bitexact 116_ch16_pt05.wav
+"oggenc" "--title" "Chapter 16 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "116_ch16_pt05.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 42701 -t 330.800000000003 -bitexact 117_ch17_pt01.wav
+"oggenc" "--title" "Chapter 17 - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "117_ch17_pt01.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 43031.8 -t 314.399999999994 -bitexact 118_ch17_pt02.wav
+"oggenc" "--title" "Chapter 17 - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "118_ch17_pt02.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 43346.2 -t 317.900000000001 -bitexact 119_ch17_pt03.wav
+"oggenc" "--title" "Chapter 17 - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "119_ch17_pt03.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 43664.1 -t 302.300000000003 -bitexact 120_ch17_pt04.wav
+"oggenc" "--title" "Chapter 17 - pt04" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "120_ch17_pt04.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 43966.4 -t 560 -bitexact 121_ch17_pt05.wav
+"oggenc" "--title" "Chapter 17 - pt05" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "121_ch17_pt05.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 44526.4 -t 303.599999999999 -bitexact 122_epilogue_pt01.wav
+"oggenc" "--title" "Epilogue - pt01" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "122_epilogue_pt01.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 44830 -t 359 -bitexact 123_epilogue_pt02.wav
+"oggenc" "--title" "Epilogue - pt02" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "123_epilogue_pt02.wav"
+ffmpeg -i googleplay_gentleman_jole_and_the_red_queen.m4a.orig -ss 45189 -t 458.230000000003 -bitexact 124_epilogue_pt03.wav
+"oggenc" "--title" "Epilogue - pt03" "--artist" "Lois McMaster Bujold, Grover Gardner" "--album" "Gentleman Jole and the Red Queen" "124_epilogue_pt03.wav"
